@@ -1,0 +1,6692 @@
+{
+ "version": 1,
+ "glb": "cerberus-wall-seals.glb",
+ "compression": "gzip",
+ "frame": {
+  "x": "east",
+  "y": "up = elevation + 2900m",
+  "z": "south",
+  "units": "metres",
+  "anchor": [
+   10.3,
+   156.95
+  ]
+ },
+ "chunks": [
+  {
+   "name": "wall_seal_00_0000",
+   "bounds": [
+    [
+     -6147.538642866619,
+     66.6524572430053,
+     -5324.808815662512
+    ],
+    [
+     -5730.292104246598,
+     340.7150305159057,
+     -5050.528971961942
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    417.24653862002106,
+    274.0625732729004,
+    274.2798437005695
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0012",
+   "bounds": [
+    [
+     -5836.515993050227,
+     -11.79391722299033,
+     -5211.7738175598415
+    ],
+    [
+     -5549.99089072136,
+     343.09140159643584,
+     -4798.28766187683
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    286.5251023288665,
+    354.8853188194262,
+    413.48615568301193
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0024",
+   "bounds": [
+    [
+     -5665.332873951909,
+     -52.86729073319566,
+     -5002.7431213178415
+    ],
+    [
+     -5177.737938811106,
+     337.2066273149603,
+     -4742.710825494848
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    487.5949351408035,
+    390.073918048156,
+    260.03229582299355
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0036",
+   "bounds": [
+    [
+     -5350.21480407926,
+     -56.71645654794065,
+     -4845.759556778011
+    ],
+    [
+     -4880.258858156135,
+     334.44249257914544,
+     -4611.9167872374
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    469.955945923125,
+    391.1589491270861,
+    233.8427695406108
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0048",
+   "bounds": [
+    [
+     -5055.558209456258,
+     -13.687119316883127,
+     -4851.673808491555
+    ],
+    [
+     -4730.499199917707,
+     335.1854088782534,
+     -4582.4465823536875
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    325.0590095385505,
+    348.8725281951365,
+    269.22722613786755
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0060",
+   "bounds": [
+    [
+     -4741.472001234395,
+     64.94111657792655,
+     -4872.332163806704
+    ],
+    [
+     -4354.688096343507,
+     345.99603886764453,
+     -4657.307612767229
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    386.78390489088815,
+    281.054922289718,
+    215.02455103947432
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0072",
+   "bounds": [
+    [
+     -4358.622554847403,
+     76.95721413836782,
+     -4886.203412260732
+    ],
+    [
+     -3891.696085610452,
+     348.8431614527458,
+     -4670.014772515951
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    466.9264692369511,
+    271.885947314378,
+    216.18863974478063
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0084",
+   "bounds": [
+    [
+     -3992.83092762597,
+     94.7281352395627,
+     -4873.2493190179
+    ],
+    [
+     -3747.0870856104516,
+     349.08643119382305,
+     -4658.488712065474
+    ]
+   ],
+   "triangles": 30,
+   "line": 0,
+   "sizeM": [
+    245.74384201551857,
+    254.35829595426034,
+    214.76060695242631
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0108",
+   "bounds": [
+    [
+     -3482.629597410887,
+     74.30177229852794,
+     -4352.164143676733
+    ],
+    [
+     -3073.5000878435294,
+     351.94576833392694,
+     -3976.472888367463
+    ]
+   ],
+   "triangles": 36,
+   "line": 0,
+   "sizeM": [
+    409.1295095673577,
+    277.643996035399,
+    375.6912553092702
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0120",
+   "bounds": [
+    [
+     -3230.2231941437644,
+     21.787614601827045,
+     -4100.952549219773
+    ],
+    [
+     -2829.2417338983955,
+     330.34253303929563,
+     -3707.617851494048
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    400.9814602453689,
+    308.5549184374686,
+    393.3346977257247
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0132",
+   "bounds": [
+    [
+     -2991.8553510734405,
+     -56.99528494715469,
+     -3809.7002275892783
+    ],
+    [
+     -2701.3388658566373,
+     327.63926860812717,
+     -3368.2722636018543
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    290.5164852168032,
+    384.63455355528185,
+    441.42796398742394
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0144",
+   "bounds": [
+    [
+     -2890.3224756095574,
+     -107.87392295577229,
+     -3402.172045972189
+    ],
+    [
+     -2596.998915781229,
+     322.3761222400776,
+     -3074.412993249268
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    293.3235598283286,
+    430.2500451958499,
+    327.7590527229213
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0156",
+   "bounds": [
+    [
+     -2696.7334056145846,
+     -86.88765707130324,
+     -3243.911830062017
+    ],
+    [
+     -2312.0493891282476,
+     326.4045366182031,
+     -2881.603670496662
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    384.684016486337,
+    413.29219368950635,
+    362.30815956535525
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0168",
+   "bounds": [
+    [
+     -2383.968974058117,
+     -49.54058569141944,
+     -3059.6249425500746
+    ],
+    [
+     -1979.472230759358,
+     326.8457672153795,
+     -2748.5966789303643
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    404.49674329875916,
+    376.38635290679895,
+    311.0282636197103
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0180",
+   "bounds": [
+    [
+     -2056.596251282709,
+     -16.37387574556942,
+     -2924.4258160445343
+    ],
+    [
+     -1606.1493905124407,
+     326.7885788753506,
+     -2634.0103213891052
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    450.44686077026836,
+    343.16245462092,
+    290.41549465542903
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0192",
+   "bounds": [
+    [
+     -1731.9623072991706,
+     -5.539453503669392,
+     -2801.305918674681
+    ],
+    [
+     -1259.9514366658327,
+     326.79565824997144,
+     -2454.979253193875
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    472.01087063333784,
+    332.33511175364083,
+    346.3266654808058
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0204",
+   "bounds": [
+    [
+     -1456.288304222278,
+     -43.44263343652801,
+     -2536.920699151696
+    ],
+    [
+     -1180.1887706245934,
+     323.04739967174464,
+     -2251.166490233483
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    276.0995335976845,
+    366.49003310827266,
+    285.7542089182134
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0216",
+   "bounds": [
+    [
+     -1204.9098441062258,
+     -88.36975932183623,
+     -2442.9506464977576
+    ],
+    [
+     -858.2681217686833,
+     321.0282552130234,
+     -2116.1571036592723
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    346.64172233754255,
+    409.3980145348596,
+    326.79354283848534
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0228",
+   "bounds": [
+    [
+     -1016.619093745406,
+     -120.63997852228931,
+     -2294.203445110912
+    ],
+    [
+     -673.4453863059947,
+     305.9055435023929,
+     -1968.0372631536638
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    343.17370743941126,
+    426.5455220246822,
+    326.1661819572482
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0240",
+   "bounds": [
+    [
+     -712.2663075796004,
+     -123.92719984695123,
+     -2157.2362512168033
+    ],
+    [
+     -274.5918738639228,
+     304.5168906009212,
+     -1902.2428246926604
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    437.6744337156776,
+    428.44409044787244,
+    254.99342652414293
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0252",
+   "bounds": [
+    [
+     -369.05494174240516,
+     -178.5526334252413,
+     -2069.397629610094
+    ],
+    [
+     -5.421748537861063,
+     300.83635158025254,
+     -1723.418285302377
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    363.6331932045441,
+    479.38898500549385,
+    345.97934430771716
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0264",
+   "bounds": [
+    [
+     -50.55695009747593,
+     -203.31564733445248,
+     -1910.0377204643476
+    ],
+    [
+     369.76533632347537,
+     297.6653513279871,
+     -1587.5718767266756
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    420.3222864209513,
+    500.98099866243956,
+    322.465843737672
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0276",
+   "bounds": [
+    [
+     274.7805607115059,
+     -203.31564733445248,
+     -1769.3978490998659
+    ],
+    [
+     625.4430042218758,
+     289.92407836595476,
+     -1498.439260958556
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    350.6624435103698,
+    493.23972570040723,
+    270.95858814131
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0288",
+   "bounds": [
+    [
+     615.7629366718634,
+     -174.60526329263485,
+     -1690.1950856216604
+    ],
+    [
+     1029.9481609352379,
+     287.19101270727424,
+     -1379.9582471783845
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    414.1852242633745,
+    461.7962759999091,
+    310.23683844327593
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0300",
+   "bounds": [
+    [
+     972.5984145682914,
+     -174.93030469071937,
+     -1565.1702923242365
+    ],
+    [
+     1407.3732155081075,
+     289.3722749076178,
+     -1265.2329169591371
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    434.77480093981603,
+    464.30257959833716,
+    299.93737536509934
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0312",
+   "bounds": [
+    [
+     1302.9012443104293,
+     -154.81192441534813,
+     -1454.2422456129445
+    ],
+    [
+     1619.8427617273808,
+     288.223518914484,
+     -1202.2403302165535
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    316.94151741695146,
+    443.0354433298321,
+    252.00191539639104
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0324",
+   "bounds": [
+    [
+     1604.3105740892888,
+     -142.3892675390025,
+     -1397.8390467516992
+    ],
+    [
+     2016.6181096840392,
+     287.4038619576827,
+     -1059.4962613950445
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    412.30753559475033,
+    429.7931294966852,
+    338.34278535665476
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0336",
+   "bounds": [
+    [
+     1882.5839778838115,
+     -131.63758170203073,
+     -1317.4505401851518
+    ],
+    [
+     2231.5360282517418,
+     295.35665620401323,
+     -1044.231061350213
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    348.95205036793027,
+    426.99423790604396,
+    273.21947883493885
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0348",
+   "bounds": [
+    [
+     2185.670605292871,
+     13.97416969702499,
+     -1292.006921812162
+    ],
+    [
+     2529.1143788054965,
+     304.00696521107875,
+     -946.8624140918843
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    343.4437735126253,
+    290.03279551405376,
+    345.14450772027783
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0360",
+   "bounds": [
+    [
+     2468.4426284344836,
+     36.89756253636429,
+     -1132.231788621736
+    ],
+    [
+     2873.2920603264056,
+     303.45710733568876,
+     -836.9738442063966
+    ]
+   ],
+   "triangles": 54,
+   "line": 0,
+   "sizeM": [
+    404.849431891922,
+    266.5595447993245,
+    295.25794441533947
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0372",
+   "bounds": [
+    [
+     2828.6519959782395,
+     19.38813972959997,
+     -1023.7123369040502
+    ],
+    [
+     3277.2388362161223,
+     311.95137969400184,
+     -710.3327194689576
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    448.5868402378828,
+    292.5632399644019,
+    313.37961743509254
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0384",
+   "bounds": [
+    [
+     3178.0134109189253,
+     -51.325509501230954,
+     -874.7052079656352
+    ],
+    [
+     3543.572209936478,
+     317.43253340019373,
+     -663.644604797333
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    365.5587990175527,
+    368.7580429014247,
+    211.06060316830212
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0396",
+   "bounds": [
+    [
+     3523.522919337568,
+     53.42879201490692,
+     -857.7309280400038
+    ],
+    [
+     3918.722875564093,
+     328.3626539589941,
+     -554.5336630472982
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    395.19995622652505,
+    274.9338619440872,
+    303.19726499270564
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0408",
+   "bounds": [
+    [
+     3848.327274962394,
+     60.7494445808658,
+     -733.1630542905257
+    ],
+    [
+     4253.641640105244,
+     328.7192252786581,
+     -378.6343274936735
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    405.31436514284997,
+    267.9697806977923,
+    354.5287267968522
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0420",
+   "bounds": [
+    [
+     4150.328957326317,
+     64.22083017505216,
+     -540.4690875948982
+    ],
+    [
+     4530.015501005366,
+     331.86882835069855,
+     -213.20814127551455
+    ]
+   ],
+   "triangles": 72,
+   "line": 0,
+   "sizeM": [
+    379.68654367904855,
+    267.6479981756464,
+    327.2609463193836
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0432",
+   "bounds": [
+    [
+     4494.580299932975,
+     69.61944593300419,
+     -401.909880867282
+    ],
+    [
+     4774.861501005365,
+     332.57320486101844,
+     -168.32414127551453
+    ]
+   ],
+   "triangles": 48,
+   "line": 0,
+   "sizeM": [
+    280.2812010723901,
+    262.9537589280143,
+    233.5857395917675
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0444",
+   "bounds": [
+    [
+     4964.5795301438275,
+     74.25920041835084,
+     -181.6319126603359
+    ],
+    [
+     5219.9165051261625,
+     333.35187419085423,
+     73.54997993056136
+    ]
+   ],
+   "triangles": 42,
+   "line": 0,
+   "sizeM": [
+    255.33697498233505,
+    259.0926737725034,
+    255.18189259089726
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0456",
+   "bounds": [
+    [
+     5158.050366324923,
+     77.99086754825308,
+     -108.20969895842049
+    ],
+    [
+     5401.445505126162,
+     336.4911686417122,
+     129.25397993056137
+    ]
+   ],
+   "triangles": 36,
+   "line": 0,
+   "sizeM": [
+    243.39513880123923,
+    258.50030109345914,
+    237.46367888898186
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0468",
+   "bounds": [
+    [
+     5744.13266700589,
+     70.41266876077194,
+     185.16486884830934
+    ],
+    [
+     5855.54599491165,
+     326.421497858621,
+     414.62640874344606
+    ]
+   ],
+   "triangles": 12,
+   "line": 0,
+   "sizeM": [
+    111.41332790576053,
+    256.0088290978491,
+    229.46153989513672
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_00_0480",
+   "bounds": [
+    [
+     5779.380667005889,
+     70.41266876077194,
+     238.37986884830931
+    ],
+    [
+     5974.09099491165,
+     327.9936184847138,
+     433.17940874344606
+    ]
+   ],
+   "triangles": 24,
+   "line": 0,
+   "sizeM": [
+    194.710327905761,
+    257.5809497239419,
+    194.79953989513675
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_01_0000",
+   "bounds": [
+    [
+     -3880.6795355566824,
+     7.4263782110742795,
+     -4412.964391235342
+    ],
+    [
+     -3579.008959989637,
+     379.812,
+     -4122.479244610339
+    ]
+   ],
+   "triangles": 72,
+   "line": 1,
+   "sizeM": [
+    301.6705755670455,
+    372.38562178892573,
+    290.4851466250029
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_01_0012",
+   "bounds": [
+    [
+     -4055.3193307337747,
+     29.432481952384023,
+     -4492.912971969348
+    ],
+    [
+     -3696.2549666497594,
+     382.104,
+     -4221.266338628283
+    ]
+   ],
+   "triangles": 60,
+   "line": 1,
+   "sizeM": [
+    359.0643640840153,
+    352.67151804761596,
+    271.64663334106535
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_01_0024",
+   "bounds": [
+    [
+     -4055.3193307337747,
+     1.8738799827706316,
+     -4509.379971969348
+    ],
+    [
+     -3697.5488075554167,
+     380.943,
+     -4172.758973917645
+    ]
+   ],
+   "triangles": 72,
+   "line": 1,
+   "sizeM": [
+    357.77052317835796,
+    379.06912001722935,
+    336.6209980517033
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_01_0036",
+   "bounds": [
+    [
+     -3784.370346162972,
+     1.8738799827706316,
+     -4344.007391235343
+    ],
+    [
+     -3584.708959989637,
+     366.245,
+     -4121.55724461034
+    ]
+   ],
+   "triangles": 24,
+   "line": 1,
+   "sizeM": [
+    199.6613861733349,
+    364.3711200172294,
+    222.45014662500307
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_02_0000",
+   "bounds": [
+    [
+     -4614.553254124491,
+     -37.30234262269187,
+     -4522.5439442523575
+    ],
+    [
+     -4364.8782477656705,
+     345.4,
+     -4271.130353804383
+    ]
+   ],
+   "triangles": 60,
+   "line": 2,
+   "sizeM": [
+    249.6750063588206,
+    382.70234262269184,
+    251.41359044797446
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_03_0000",
+   "bounds": [
+    [
+     -4240.005385976392,
+     -12.51810125356269,
+     -4544.218589684051
+    ],
+    [
+     -4078.9466738674546,
+     362.856,
+     -4255.2990273543965
+    ]
+   ],
+   "triangles": 72,
+   "line": 3,
+   "sizeM": [
+    161.05871210893747,
+    375.3741012535627,
+    288.9195623296546
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_04_0000",
+   "bounds": [
+    [
+     -4434.334230907822,
+     -42.33975191213722,
+     -4327.717859775403
+    ],
+    [
+     -4129.953669342652,
+     352.794,
+     -4124.598873369197
+    ]
+   ],
+   "triangles": 60,
+   "line": 4,
+   "sizeM": [
+    304.38056156516996,
+    395.1337519121372,
+    203.1189864062062
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0000",
+   "bounds": [
+    [
+     -6149.112510776307,
+     26.656601268033683,
+     -3714.022078969326
+    ],
+    [
+     -5765.866628646159,
+     330.821,
+     -3466.7684856466117
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    383.24588213014795,
+    304.16439873196634,
+    247.2535933227141
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0012",
+   "bounds": [
+    [
+     -5823.264570307607,
+     28.649113721083296,
+     -3672.742602442872
+    ],
+    [
+     -5450.882248899951,
+     396.35414510149803,
+     -3466.7684856466117
+    ]
+   ],
+   "triangles": 42,
+   "line": 5,
+   "sizeM": [
+    372.3823214076556,
+    367.70503138041477,
+    205.9741167962602
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0024",
+   "bounds": [
+    [
+     -5569.804719010209,
+     66.19337200354812,
+     -3583.5167264166935
+    ],
+    [
+     -5203.914849675244,
+     410.754,
+     -3298.8531611892804
+    ]
+   ],
+   "triangles": 36,
+   "line": 5,
+   "sizeM": [
+    365.8898693349647,
+    344.5606279964519,
+    284.6635652274131
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0036",
+   "bounds": [
+    [
+     -5354.765254871335,
+     32.75041639950177,
+     -3466.882582160796
+    ],
+    [
+     -5004.601700690789,
+     412.4487501447834,
+     -3113.369257259146
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    350.16355418054627,
+    379.6983337452816,
+    353.5133249016503
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0048",
+   "bounds": [
+    [
+     -5236.206624506193,
+     -29.41325451220564,
+     -3285.9539203539903
+    ],
+    [
+     -4946.11981889746,
+     401.9268480009214,
+     -3038.396698512388
+    ]
+   ],
+   "triangles": 60,
+   "line": 5,
+   "sizeM": [
+    290.0868056087329,
+    431.340102513127,
+    247.5572218416023
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0060",
+   "bounds": [
+    [
+     -4831.586794685716,
+     87.6818043740623,
+     -3373.587167215853
+    ],
+    [
+     -4683.5910797142615,
+     393.823,
+     -3217.5384917622087
+    ]
+   ],
+   "triangles": 6,
+   "line": 5,
+   "sizeM": [
+    147.99571497145462,
+    306.1411956259377,
+    156.04867545364414
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0072",
+   "bounds": [
+    [
+     -4845.106110512674,
+     89.36417255146353,
+     -3379.917308611251
+    ],
+    [
+     -4532.328459299156,
+     349.6991825974783,
+     -3172.606370831235
+    ]
+   ],
+   "triangles": 54,
+   "line": 5,
+   "sizeM": [
+    312.77765121351786,
+    260.33501004601476,
+    207.31093778001605
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0084",
+   "bounds": [
+    [
+     -4732.4271105126745,
+     -53.75918529549381,
+     -3464.5830947333957
+    ],
+    [
+     -4419.556830076704,
+     360.597,
+     -3196.8924170110936
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    312.8702804359709,
+    414.3561852954938,
+    267.6906777223021
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0096",
+   "bounds": [
+    [
+     -4498.877056355872,
+     -37.59553367136823,
+     -3406.226105532594
+    ],
+    [
+     -4125.3881734618535,
+     401.655,
+     -3056.3699598003905
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    373.4888828940184,
+    439.2505336713682,
+    349.85614573220346
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0108",
+   "bounds": [
+    [
+     -4274.048330764284,
+     -23.563771293692298,
+     -3210.8915397845353
+    ],
+    [
+     -4077.6786137351437,
+     408.7387265361731,
+     -2901.8147993780567
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    196.3697170291407,
+    432.3024978298654,
+    309.0767404064786
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0120",
+   "bounds": [
+    [
+     -4216.997108063254,
+     -10.89825473334713,
+     -3135.3213677827316
+    ],
+    [
+     -3863.9413011133956,
+     412.26795126075194,
+     -2878.895910418612
+    ]
+   ],
+   "triangles": 60,
+   "line": 5,
+   "sizeM": [
+    353.0558069498584,
+    423.1662059940991,
+    256.42545736411967
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0132",
+   "bounds": [
+    [
+     -4093.776923555726,
+     -87.07233915662164,
+     -3147.9482675583445
+    ],
+    [
+     -3741.0143637613596,
+     410.7258924032726,
+     -2932.9652560195796
+    ]
+   ],
+   "triangles": 60,
+   "line": 5,
+   "sizeM": [
+    352.76255979436655,
+    497.79823155989425,
+    214.9830115387649
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0144",
+   "bounds": [
+    [
+     -4242.674343935966,
+     -40.68559929864068,
+     -3220.3204223762414
+    ],
+    [
+     -3940.617339419277,
+     412.43334539048783,
+     -2924.5122560195796
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    302.0570045166892,
+    453.1189446891285,
+    295.8081663566618
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0156",
+   "bounds": [
+    [
+     -4479.307056355871,
+     -33.62311012811915,
+     -3437.610105532594
+    ],
+    [
+     -4171.1198437376015,
+     399.741,
+     -2953.6681914501323
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    308.18721261826977,
+    433.36411012811914,
+    483.9419140824616
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0168",
+   "bounds": [
+    [
+     -4749.86891215951,
+     -75.57092782825111,
+     -3554.602146571521
+    ],
+    [
+     -4365.388830076704,
+     378.9183912822141,
+     -3247.4164170110935
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    384.4800820828059,
+    454.4893191104652,
+    307.1857295604277
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0180",
+   "bounds": [
+    [
+     -5132.840078967279,
+     -44.29069858040293,
+     -3580.9515117222427
+    ],
+    [
+     -4713.120205856033,
+     420.5353505794383,
+     -3316.984887223556
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    419.71987311124576,
+    464.8260491598412,
+    263.96662449868654
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0192",
+   "bounds": [
+    [
+     -5520.486719010209,
+     9.081405605544205,
+     -3634.5917264166933
+    ],
+    [
+     -4995.924136876183,
+     422.41437778652244,
+     -3377.4606434206034
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    524.5625821340254,
+    413.33297218097823,
+    257.13108299608984
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0204",
+   "bounds": [
+    [
+     -5602.690627354858,
+     -81.01837019993673,
+     -3841.118165376478
+    ],
+    [
+     -5361.659438297921,
+     385.75287604284995,
+     -3493.0248345502705
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    241.03118905693736,
+    466.7712462427867,
+    348.0933308262074
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0216",
+   "bounds": [
+    [
+     -5933.253160919463,
+     -81.01837019993673,
+     -3845.2380756268403
+    ],
+    [
+     -5500.26816278112,
+     333.027701564341,
+     -3608.977485646612
+    ]
+   ],
+   "triangles": 72,
+   "line": 5,
+   "sizeM": [
+    432.98499813834314,
+    414.0460717642777,
+    236.26058998022836
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_05_0228",
+   "bounds": [
+    [
+     -6143.526510776307,
+     -19.06701376664887,
+     -3827.8860775945736
+    ],
+    [
+     -5879.44258620806,
+     314.0582247806442,
+     -3626.942815460112
+    ]
+   ],
+   "triangles": 42,
+   "line": 5,
+   "sizeM": [
+    264.0839245682473,
+    333.12523854729307,
+    200.94326213446175
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_06_0000",
+   "bounds": [
+    [
+     -5682.286260418577,
+     44.357193479945636,
+     -3625.883171325275
+    ],
+    [
+     -5484.466303824331,
+     391.534,
+     -3352.073720418989
+    ]
+   ],
+   "triangles": 54,
+   "line": 6,
+   "sizeM": [
+    197.81995659424592,
+    347.17680652005436,
+    273.80945090628575
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_07_0000",
+   "bounds": [
+    [
+     -5811.302848935577,
+     -16.046295133129206,
+     -3475.6202872092126
+    ],
+    [
+     -5585.508815852971,
+     378.55,
+     -3197.4079141860525
+    ]
+   ],
+   "triangles": 72,
+   "line": 7,
+   "sizeM": [
+    225.7940330826059,
+    394.5962951331292,
+    278.2123730231601
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_07_0012",
+   "bounds": [
+    [
+     -5886.864072833732,
+     -17.510514918646095,
+     -3455.052382079315
+    ],
+    [
+     -5626.69726596636,
+     369.521,
+     -3197.4128049751007
+    ]
+   ],
+   "triangles": 72,
+   "line": 7,
+   "sizeM": [
+    260.16680686737254,
+    387.0315149186461,
+    257.63957710421437
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_07_0024",
+   "bounds": [
+    [
+     -5721.400278097031,
+     -8.69556880137543,
+     -3388.4778109204763
+    ],
+    [
+     -5664.254704787336,
+     366.64,
+     -3195.714345938635
+    ]
+   ],
+   "triangles": 12,
+   "line": 7,
+   "sizeM": [
+    57.145573309695465,
+    375.3355688013754,
+    192.76346498184148
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_08_0000",
+   "bounds": [
+    [
+     -5612.406170679801,
+     20.907010281004204,
+     -3458.3704351252445
+    ],
+    [
+     -5306.302691658744,
+     391.302,
+     -3146.74760523634
+    ]
+   ],
+   "triangles": 72,
+   "line": 8,
+   "sizeM": [
+    306.10347902105696,
+    370.3949897189958,
+    311.62282988890456
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_08_0012",
+   "bounds": [
+    [
+     -5616.272170679801,
+     12.099395087896937,
+     -3364.765921454903
+    ],
+    [
+     -5333.548322021278,
+     381.082,
+     -3145.98160523634
+    ]
+   ],
+   "triangles": 36,
+   "line": 8,
+   "sizeM": [
+    282.7238486585229,
+    368.98260491210306,
+    218.78431621856316
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_09_0000",
+   "bounds": [
+    [
+     -5038.027744579674,
+     -42.958089748081875,
+     -3272.480324716629
+    ],
+    [
+     -4793.729831304898,
+     396.408,
+     -2991.0747783522247
+    ]
+   ],
+   "triangles": 54,
+   "line": 9,
+   "sizeM": [
+    244.29791327477596,
+    439.3660897480819,
+    281.4055463644045
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_09_0012",
+   "bounds": [
+    [
+     -4980.36094992452,
+     -43.69914305389693,
+     -3183.1023247166295
+    ],
+    [
+     -4882.265751132192,
+     396.0788607462009,
+     -2989.5497783522246
+    ]
+   ],
+   "triangles": 12,
+   "line": 9,
+   "sizeM": [
+    98.09519879232812,
+    439.77800380009785,
+    193.55254636440486
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_10_0000",
+   "bounds": [
+    [
+     -3717.305837662211,
+     -90.63269095011628,
+     -2934.140656250601
+    ],
+    [
+     -3352.7573593898724,
+     352.72540741155717,
+     -2617.4798590421406
+    ]
+   ],
+   "triangles": 72,
+   "line": 10,
+   "sizeM": [
+    364.5484782723388,
+    443.35809836167346,
+    316.6607972084603
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_10_0012",
+   "bounds": [
+    [
+     -3688.394031653881,
+     -101.9719430254404,
+     -3077.1381057012172
+    ],
+    [
+     -3393.4623654593015,
+     356.01455579152116,
+     -2617.4798590421406
+    ]
+   ],
+   "triangles": 72,
+   "line": 10,
+   "sizeM": [
+    294.9316661945795,
+    457.98649881696156,
+    459.65824665907667
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_10_0024",
+   "bounds": [
+    [
+     -3762.6419384299234,
+     -92.5019086428656,
+     -3089.526268655632
+    ],
+    [
+     -3537.8465154871324,
+     366.611,
+     -2846.821624252203
+    ]
+   ],
+   "triangles": 48,
+   "line": 10,
+   "sizeM": [
+    224.795422942791,
+    459.1129086428656,
+    242.70464440342903
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_10_0036",
+   "bounds": [
+    [
+     -3761.1832020455704,
+     -101.37220114751153,
+     -2881.6523019925226
+    ],
+    [
+     -3563.894969316442,
+     353.0459448907941,
+     -2671.3590835956898
+    ]
+   ],
+   "triangles": 42,
+   "line": 10,
+   "sizeM": [
+    197.2882327291286,
+    454.4181460383056,
+    210.2932183968328
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_11_0000",
+   "bounds": [
+    [
+     -3438.4878983582503,
+     -126.71703329685761,
+     -2806.744969909745
+    ],
+    [
+     -3223.875644586858,
+     365.601,
+     -2542.427871951095
+    ]
+   ],
+   "triangles": 72,
+   "line": 11,
+   "sizeM": [
+    214.61225377139226,
+    492.3180332968576,
+    264.31709795865027
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_11_0012",
+   "bounds": [
+    [
+     -3454.5866918296597,
+     -127.83747836745488,
+     -2841.857969909745
+    ],
+    [
+     -3301.23765916081,
+     356.895,
+     -2505.192871951095
+    ]
+   ],
+   "triangles": 42,
+   "line": 11,
+   "sizeM": [
+    153.34903266884976,
+    484.73247836745486,
+    336.66509795864977
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_12_0000",
+   "bounds": [
+    [
+     -5040.8176293849765,
+     -41.04309562556409,
+     -2092.1614132273507
+    ],
+    [
+     -4638.818883657495,
+     386.4870911124485,
+     -1770.0985551761075
+    ]
+   ],
+   "triangles": 72,
+   "line": 12,
+   "sizeM": [
+    401.99874572748195,
+    427.5301867380126,
+    322.0628580512432
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_12_0012",
+   "bounds": [
+    [
+     -5371.311867689119,
+     -11.138232328412414,
+     -2309.1696814230463
+    ],
+    [
+     -4925.200958041001,
+     387.10963864837595,
+     -1938.8748015897418
+    ]
+   ],
+   "triangles": 72,
+   "line": 12,
+   "sizeM": [
+    446.11090964811774,
+    398.24787097678836,
+    370.29487983330455
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_12_0024",
+   "bounds": [
+    [
+     -5493.210589928796,
+     -25.40635464371917,
+     -2422.610310158357
+    ],
+    [
+     -5233.241608820726,
+     382.4535277073969,
+     -2125.227023176344
+    ]
+   ],
+   "triangles": 72,
+   "line": 12,
+   "sizeM": [
+    259.9689811080707,
+    407.8598823511161,
+    297.38328698201303
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_12_0036",
+   "bounds": [
+    [
+     -5477.570589928797,
+     35.75160537568354,
+     -2315.772065121577
+    ],
+    [
+     -5151.825230740096,
+     365.887,
+     -1954.111179262803
+    ]
+   ],
+   "triangles": 60,
+   "line": 12,
+   "sizeM": [
+    325.7453591887006,
+    330.13539462431646,
+    361.6608858587738
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_12_0048",
+   "bounds": [
+    [
+     -5260.909538898558,
+     58.00661113295246,
+     -2120.078915142866
+    ],
+    [
+     -4892.82868740762,
+     368.965,
+     -1749.6275902545674
+    ]
+   ],
+   "triangles": 72,
+   "line": 12,
+   "sizeM": [
+    368.0808514909377,
+    310.9583888670475,
+    370.4513248882988
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_12_0060",
+   "bounds": [
+    [
+     -4913.825688885691,
+     -15.839114091661486,
+     -1965.105027316362
+    ],
+    [
+     -4686.716883657495,
+     372.277,
+     -1758.5380141557835
+    ]
+   ],
+   "triangles": 30,
+   "line": 12,
+   "sizeM": [
+    227.10880522819662,
+    388.1161140916615,
+    206.56701316057865
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0000",
+   "bounds": [
+    [
+     -6156.290532715901,
+     103.64256694578458,
+     -818.0086675905305
+    ],
+    [
+     -6012.063964485606,
+     360.8331090714596,
+     -568.3977554939646
+    ]
+   ],
+   "triangles": 36,
+   "line": 13,
+   "sizeM": [
+    144.2265682302941,
+    257.19054212567505,
+    249.61091209656593
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0036",
+   "bounds": [
+    [
+     -5020.950271635314,
+     104.2788399762268,
+     -627.4814134429236
+    ],
+    [
+     -4712.160978299412,
+     359.69035567603714,
+     -378.1018003266782
+    ]
+   ],
+   "triangles": 54,
+   "line": 13,
+   "sizeM": [
+    308.7892933359017,
+    255.41151569981034,
+    249.37961311624537
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0048",
+   "bounds": [
+    [
+     -4758.696468113372,
+     102.73800755998082,
+     -576.7139950998277
+    ],
+    [
+     -4335.011098576868,
+     362.9130644900106,
+     -284.08161481873805
+    ]
+   ],
+   "triangles": 48,
+   "line": 13,
+   "sizeM": [
+    423.68536953650437,
+    260.17505693002977,
+    292.63238028108964
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0060",
+   "bounds": [
+    [
+     -4394.060593428208,
+     62.88415268260178,
+     -466.775777718929
+    ],
+    [
+     -4031.2402747776623,
+     367.5802780477029,
+     -116.88350405526195
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    362.82031865054614,
+    304.6961253651011,
+    349.8922736636671
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0072",
+   "bounds": [
+    [
+     -4175.727448348156,
+     48.826848037088894,
+     -277.9724438352406
+    ],
+    [
+     -3726.8529953731613,
+     364.5289931318048,
+     8.345999629999765
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    448.8744529749947,
+    315.7021450947159,
+    286.31844346524036
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0084",
+   "bounds": [
+    [
+     -3877.1710519557387,
+     5.49721428615112,
+     -190.2589944499965
+    ],
+    [
+     -3506.1532865760587,
+     362.31521275159594,
+     168.52786362730245
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    371.01776537968,
+    356.8179984654448,
+    358.7868580772989
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0096",
+   "bounds": [
+    [
+     -3577.956273612476,
+     6.290935695485132,
+     -24.34975203073924
+    ],
+    [
+     -3195.3922768170637,
+     361.75507827667934,
+     256.4527080793638
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    382.5639967954121,
+    355.4641425811942,
+    280.802460110103
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0108",
+   "bounds": [
+    [
+     -3361.3515302315204,
+     95.57827756369747,
+     -55.3674895376265
+    ],
+    [
+     -2922.631284001051,
+     371.782427915623,
+     231.52888672039947
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    438.72024623046946,
+    276.2041503519255,
+    286.89637625802595
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0120",
+   "bounds": [
+    [
+     -2930.4027399842407,
+     107.16059658221695,
+     -47.3354895376265
+    ],
+    [
+     -2861.3132840010508,
+     365.3051527648063,
+     161.3181659691751
+    ]
+   ],
+   "triangles": 12,
+   "line": 13,
+   "sizeM": [
+    69.08945598318996,
+    258.1445561825893,
+    208.6536555068016
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0132",
+   "bounds": [
+    [
+     -2598.801926129072,
+     -23.174197428003026,
+     255.6968633679715
+    ],
+    [
+     -2315.3247775497484,
+     354.29045851326555,
+     592.8738963199426
+    ]
+   ],
+   "triangles": 48,
+   "line": 13,
+   "sizeM": [
+    283.4771485793235,
+    377.4646559412686,
+    337.17703295197106
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0144",
+   "bounds": [
+    [
+     -2443.5458148300168,
+     -102.7934846750286,
+     449.9635552008617
+    ],
+    [
+     -2098.7825875905464,
+     351.384,
+     650.906636068251
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    344.7632272394703,
+    454.1774846750286,
+    200.9430808673893
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0156",
+   "bounds": [
+    [
+     -2249.364505970833,
+     -21.49639724253393,
+     246.82574969401392
+    ],
+    [
+     -1790.1719191341092,
+     351.1150218090679,
+     595.3177785116187
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    459.19258683672365,
+    372.61141905160184,
+    348.4920288176048
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0168",
+   "bounds": [
+    [
+     -1801.7252129883632,
+     -66.07867693875505,
+     251.8401710064576
+    ],
+    [
+     -1340.4878375239746,
+     344.03422812724284,
+     509.0281863348079
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    461.2373754643886,
+    410.1129050659979,
+    257.1880153283503
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0180",
+   "bounds": [
+    [
+     -1436.414148899123,
+     -142.22188730249036,
+     333.3707162692475
+    ],
+    [
+     -1035.5582050481905,
+     333.7491946647333,
+     612.5772770441597
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    400.85594385093236,
+    475.97108196722365,
+    279.2065607749122
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0192",
+   "bounds": [
+    [
+     -1105.3851863301206,
+     -147.89860566584957,
+     433.72484433760417
+    ],
+    [
+     -673.9692519354344,
+     325.161,
+     707.8514108678631
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    431.41593439468625,
+    473.0596056658496,
+    274.12656653025897
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0204",
+   "bounds": [
+    [
+     -754.3625832043043,
+     -135.99195170514304,
+     533.4928369820523
+    ],
+    [
+     -345.2729820441613,
+     319.3328924246148,
+     839.5229467590657
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    409.089601160143,
+    455.3248441297578,
+    306.0301097770134
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0216",
+   "bounds": [
+    [
+     -408.94446786372254,
+     -120.05210097725558,
+     658.3877986140151
+    ],
+    [
+     -57.493680701361434,
+     313.19158208979525,
+     941.2677029975127
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    351.4507871623611,
+    433.2436830670508,
+    282.87990438349766
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0228",
+   "bounds": [
+    [
+     -71.78678947957846,
+     -119.91232481509542,
+     749.8004550373092
+    ],
+    [
+     345.4181016847031,
+     302.607707348875,
+     1053.0891589433093
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    417.20489116428155,
+    422.5200321639704,
+    303.288703906
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0240",
+   "bounds": [
+    [
+     280.00785988768644,
+     -113.44329585076412,
+     872.5746158503612
+    ],
+    [
+     720.3307223837446,
+     292.41951736014244,
+     1201.4621048369906
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    440.3228624960582,
+    405.86281321090655,
+    328.8874889866295
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0252",
+   "bounds": [
+    [
+     589.1619518410837,
+     -118.18058518061616,
+     1020.5563036707043
+    ],
+    [
+     994.5779644856393,
+     299.304,
+     1336.664882653296
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    405.4160126445556,
+    417.48458518061614,
+    316.10857898259167
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0264",
+   "bounds": [
+    [
+     913.7052632775592,
+     -116.22173602352086,
+     1135.0484118917975
+    ],
+    [
+     1368.4584667491315,
+     308.38,
+     1423.5639459548952
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    454.7532034715723,
+    424.60173602352086,
+    288.5155340630977
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0276",
+   "bounds": [
+    [
+     1259.0233022167247,
+     -102.73673619445208,
+     1228.4494519519376
+    ],
+    [
+     1744.3916745682059,
+     315.6726619756869,
+     1560.6027198419993
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    485.3683723514812,
+    418.40939817013896,
+    332.15326789006167
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0288",
+   "bounds": [
+    [
+     1579.8565550287865,
+     -105.90367967819157,
+     1390.2000075340864
+    ],
+    [
+     2063.1808385334457,
+     321.916,
+     1658.4165497970018
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    483.3242835046592,
+    427.81967967819156,
+    268.2165422629155
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0300",
+   "bounds": [
+    [
+     1910.0332774311037,
+     -118.97592366094796,
+     1531.075433043579
+    ],
+    [
+     2269.134892669846,
+     326.964,
+     1821.593910146686
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    359.1016152387424,
+    445.93992366094795,
+    290.518477103107
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0312",
+   "bounds": [
+    [
+     2243.24243963511,
+     -112.07214884897803,
+     1498.866080027573
+    ],
+    [
+     2489.18172002745,
+     326.652,
+     1859.5234303555753
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    245.93928039234015,
+    438.724148848978,
+    360.6573503280024
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0324",
+   "bounds": [
+    [
+     2392.7841519981703,
+     -33.98754215722647,
+     1561.3422122651423
+    ],
+    [
+     2774.230718950864,
+     334.8427683675159,
+     1838.057961882525
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    381.4465669526935,
+    368.83031052474234,
+    276.7157496173827
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0336",
+   "bounds": [
+    [
+     2756.541418736609,
+     -13.907751251450009,
+     1646.8745717621227
+    ],
+    [
+     3157.7318372262644,
+     334.91280172150437,
+     1872.545680718944
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    401.19041848965526,
+    348.8205529729544,
+    225.67110895682117
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0348",
+   "bounds": [
+    [
+     3126.0669441849154,
+     33.76938786077881,
+     1683.1747892158412
+    ],
+    [
+     3561.353952451376,
+     342.40386532081766,
+     2008.5786608290373
+    ]
+   ],
+   "triangles": 60,
+   "line": 13,
+   "sizeM": [
+    435.28700826646036,
+    308.63447746003885,
+    325.4038716131961
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0360",
+   "bounds": [
+    [
+     3421.734803169908,
+     -9.175643504437176,
+     1866.8831562053356
+    ],
+    [
+     3823.1807065137937,
+     416.44999410965875,
+     2202.0661208695883
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    401.4459033438857,
+    425.6256376140959,
+    335.1829646642527
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0372",
+   "bounds": [
+    [
+     3633.9812380799685,
+     -9.175643504437176,
+     1893.5361269725036
+    ],
+    [
+     4062.7878509798566,
+     413.56499552034575,
+     2202.0661208695883
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    428.806612899888,
+    422.7406390247829,
+    308.52999389708475
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0384",
+   "bounds": [
+    [
+     4031.9549432680096,
+     115.16391489609498,
+     1893.5361269725036
+    ],
+    [
+     4153.450850979857,
+     368.33536986996387,
+     2091.505258201833
+    ]
+   ],
+   "triangles": 18,
+   "line": 13,
+   "sizeM": [
+    121.4959077118474,
+    253.1714549738689,
+    197.96913122932938
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0444",
+   "bounds": [
+    [
+     4468.94614941758,
+     101.36100061166792,
+     2094.0767108247096
+    ],
+    [
+     4680.663758736292,
+     354.84205541401934,
+     2433.670952611686
+    ]
+   ],
+   "triangles": 54,
+   "line": 13,
+   "sizeM": [
+    211.71760931871177,
+    253.48105480235142,
+    339.59424178697645
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0456",
+   "bounds": [
+    [
+     4541.72214941758,
+     3.7762047703640746,
+     2301.1597108247097
+    ],
+    [
+     4853.907064564082,
+     368.6428459699591,
+     2583.8969892470695
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    312.18491514650214,
+    364.86664119959505,
+    282.73727842235985
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0468",
+   "bounds": [
+    [
+     4905.932462745206,
+     106.28465171781193,
+     2332.043188327784
+    ],
+    [
+     5178.972350618211,
+     374.5957657630256,
+     2551.2965564031533
+    ]
+   ],
+   "triangles": 60,
+   "line": 13,
+   "sizeM": [
+    273.0398878730048,
+    268.3111140452137,
+    219.2533680753695
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0480",
+   "bounds": [
+    [
+     5003.2147407268285,
+     106.28465171781193,
+     2241.0651883277837
+    ],
+    [
+     5192.684350618211,
+     363.93249395347857,
+     2430.1987207781476
+    ]
+   ],
+   "triangles": 30,
+   "line": 13,
+   "sizeM": [
+    189.4696098913828,
+    257.64784223566664,
+    189.13353245036387
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0492",
+   "bounds": [
+    [
+     5232.527381948381,
+     57.724595235726156,
+     2030.1634354275084
+    ],
+    [
+     5608.3595621796485,
+     400.6705839222823,
+     2313.3629187351576
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    375.83218023126756,
+    342.9459886865561,
+    283.1994833076492
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0504",
+   "bounds": [
+    [
+     5576.004829188024,
+     46.21314558668928,
+     1931.8440156657862
+    ],
+    [
+     5836.325812140507,
+     414.25492124126913,
+     2294.314859647397
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    260.32098295248306,
+    368.04177565457985,
+    362.47084398161087
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0516",
+   "bounds": [
+    [
+     5563.450829188024,
+     -84.85304435981652,
+     1944.2647056165458
+    ],
+    [
+     5797.2311086487425,
+     370.58974973222394,
+     2271.446859647397
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    233.7802794607187,
+    455.44279409204046,
+    327.1821540308513
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0528",
+   "bounds": [
+    [
+     5155.074905310865,
+     39.046872984235506,
+     1969.029287965468
+    ],
+    [
+     5595.805562179648,
+     354.81207235715374,
+     2271.446859647397
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    440.7306568687836,
+    315.76519937291823,
+    302.4175716819291
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0540",
+   "bounds": [
+    [
+     4905.392525825072,
+     20.279151851310417,
+     1768.2839785215344
+    ],
+    [
+     5215.477139645943,
+     390.03326275528843,
+     2151.280680517981
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    310.0846138208708,
+    369.754110903978,
+    382.99670199644675
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0552",
+   "bounds": [
+    [
+     4550.900298565143,
+     21.875384356899303,
+     1684.4750869966058
+    ],
+    [
+     4992.532333697623,
+     390.03326275528843,
+     2024.6429702455534
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    441.63203513247936,
+    368.15787839838913,
+    340.16788324894765
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0564",
+   "bounds": [
+    [
+     4272.777933236175,
+     9.108613042807974,
+     1680.8441323599218
+    ],
+    [
+     4649.263793572266,
+     347.81335387546096,
+     1908.5880987137107
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    376.4858603360908,
+    338.704740832653,
+    227.7439663537889
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0576",
+   "bounds": [
+    [
+     3921.160721540035,
+     9.108613042807974,
+     1593.9078644619524
+    ],
+    [
+     4305.460671117588,
+     345.94633847148907,
+     1870.0420146011743
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    384.29994957755343,
+    336.8377254286811,
+    276.1341501392219
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0588",
+   "bounds": [
+    [
+     3554.9263001965237,
+     25.275893665429976,
+     1374.2014873736161
+    ],
+    [
+     3948.060907928151,
+     337.23463362486245,
+     1802.9460330707147
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    393.1346077316275,
+    311.9587399594325,
+    428.7445456970986
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0600",
+   "bounds": [
+    [
+     3323.155259870808,
+     26.428506950619067,
+     1136.0002139871683
+    ],
+    [
+     3682.4193133202316,
+     321.80938661955634,
+     1548.2459859325247
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    359.2640534494235,
+    295.38087966893727,
+    412.2457719453564
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0612",
+   "bounds": [
+    [
+     3024.9491558418576,
+     47.74774344482526,
+     928.3898607825599
+    ],
+    [
+     3452.860582675279,
+     313.1510206641856,
+     1277.5647901924742
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    427.9114268334215,
+    265.40327721936035,
+    349.1749294099143
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0624",
+   "bounds": [
+    [
+     2728.529128318037,
+     47.1115939582252,
+     831.3799507873015
+    ],
+    [
+     3154.5084562772095,
+     314.29636841030697,
+     1087.4660207680424
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    425.9793279591727,
+    267.1847744520818,
+    256.08606998074094
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0636",
+   "bounds": [
+    [
+     2372.957097228311,
+     37.81135022621052,
+     700.9636270952844
+    ],
+    [
+     2794.95679882452,
+     306.02110902076174,
+     1022.9487381904772
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    421.999701596209,
+    268.20975879455125,
+    321.9851110951928
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0648",
+   "bounds": [
+    [
+     2125.747015250895,
+     34.911117974096356,
+     616.5690518406458
+    ],
+    [
+     2392.0819970181083,
+     297.12885161420763,
+     877.1358380870142
+    ]
+   ],
+   "triangles": 60,
+   "line": 13,
+   "sizeM": [
+    266.3349817672133,
+    262.2177336401113,
+    260.56678624636845
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0660",
+   "bounds": [
+    [
+     1841.585854634181,
+     33.296899926528255,
+     510.25386843956574
+    ],
+    [
+     2191.0781989832735,
+     294.9214793884398,
+     797.1122223903129
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    349.4923443490925,
+    261.6245794619116,
+    286.8583539507472
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0672",
+   "bounds": [
+    [
+     1494.8052070283366,
+     31.076910667654516,
+     501.98640324839585
+    ],
+    [
+     1875.4270763577213,
+     288.1629686298388,
+     713.3659734065149
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    380.6218693293847,
+    257.0860579621843,
+    211.379570158119
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0684",
+   "bounds": [
+    [
+     1103.5452282976573,
+     30.572139115805072,
+     433.940053113796
+    ],
+    [
+     1533.428986198111,
+     285.92170129279157,
+     694.9946625988549
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    429.8837579004537,
+    255.3495621769865,
+    261.0546094850589
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0696",
+   "bounds": [
+    [
+     844.3815947458356,
+     28.941059803475724,
+     304.469013197621
+    ],
+    [
+     1205.663384780156,
+     282.8458256088252,
+     596.5312032930598
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    361.28179003432047,
+    253.90476580534946,
+    292.0621900954388
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0708",
+   "bounds": [
+    [
+     389.94656193753616,
+     29.863085806825126,
+     190.75360528152316
+    ],
+    [
+     863.3996270169444,
+     284.2704812104198,
+     495.5248020356854
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    473.4530650794082,
+    254.40739540359468,
+    304.77119675416225
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0720",
+   "bounds": [
+    [
+     99.81939076504503,
+     30.636938154602063,
+     -22.474505207436927
+    ],
+    [
+     539.6803625374976,
+     288.3314746581923,
+     320.8285113774261
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    439.86097177245256,
+    257.69453650359026,
+    343.30301658486303
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0732",
+   "bounds": [
+    [
+     -123.33758297604294,
+     -159.85217805247476,
+     -167.1543555522135
+    ],
+    [
+     260.449373948997,
+     290.6417285446919,
+     108.23056803857897
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    383.78695692503993,
+    450.49390659716664,
+    275.3849235907925
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0744",
+   "bounds": [
+    [
+     -422.88704152935634,
+     -159.85217805247476,
+     -193.8504520063007
+    ],
+    [
+     -52.94246895287378,
+     295.8485688904111,
+     36.41433328320255
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    369.9445725764825,
+    455.70074694288587,
+    230.26478528950327
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0756",
+   "bounds": [
+    [
+     -895.2498448811093,
+     -35.19764882048639,
+     -181.25199785612577
+    ],
+    [
+     -288.27837705965493,
+     307.2553481936802,
+     78.75043633075852
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    606.9714678214543,
+    342.4529970141666,
+    260.0024341868843
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0768",
+   "bounds": [
+    [
+     -1050.3017744213291,
+     -76.41905029517875,
+     -465.93016701223644
+    ],
+    [
+     -722.8734770079261,
+     306.4530803374446,
+     -96.69203215811358
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    327.428297413403,
+    382.87213063262334,
+    369.23813485412285
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0780",
+   "bounds": [
+    [
+     -1188.3654557766192,
+     -10.93278292779496,
+     -884.1085591542825
+    ],
+    [
+     -912.7980150385781,
+     306.4498965768089,
+     -331.9274948164532
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    275.5674407380411,
+    317.38267950460386,
+    552.1810643378293
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0792",
+   "bounds": [
+    [
+     -1166.6593325277859,
+     -117.381032471877,
+     -1059.354103453381
+    ],
+    [
+     -861.4793169840168,
+     295.1427035176066,
+     -761.9313083752382
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    305.18001554376906,
+    412.5237359894836,
+    297.4227950781427
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0804",
+   "bounds": [
+    [
+     -1376.107130015711,
+     -127.59276518554634,
+     -1070.8054373125335
+    ],
+    [
+     -1019.8909152612216,
+     296.2335528494168,
+     -793.7385375564587
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    356.21621475448933,
+    423.82631803496315,
+    277.0668997560748
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0816",
+   "bounds": [
+    [
+     -1774.5148559789595,
+     -94.58425544132842,
+     -1077.9679944942234
+    ],
+    [
+     -1340.9169630736335,
+     311.8563091085407,
+     -822.6881068394092
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    433.59789290532603,
+    406.4405645498691,
+    255.27988765481416
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0828",
+   "bounds": [
+    [
+     -1907.9251857481563,
+     -16.030135985190554,
+     -1097.912927365189
+    ],
+    [
+     -1598.744342934736,
+     315.70171701022537,
+     -872.8515150376641
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    309.1808428134202,
+    331.7318529954159,
+    225.06141232752498
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0840",
+   "bounds": [
+    [
+     -2051.61470465079,
+     -40.50956041368818,
+     -1196.4042387294726
+    ],
+    [
+     -1764.5633669605156,
+     322.93922595692356,
+     -919.7540895221665
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    287.0513376902743,
+    363.44878637061174,
+    276.6501492073061
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0852",
+   "bounds": [
+    [
+     -2250.1223188213253,
+     -51.219662409583634,
+     -1336.7706336128738
+    ],
+    [
+     -1959.1051530232805,
+     325.9287201777688,
+     -1027.7963243587378
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    291.01716579804474,
+    377.14838258735244,
+    308.97430925413596
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0864",
+   "bounds": [
+    [
+     -2439.358208754299,
+     -143.62116941375643,
+     -1391.1276447031307
+    ],
+    [
+     -2005.78005410747,
+     333.2419880024395,
+     -1110.6198344111253
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    433.57815464682903,
+    476.8631574161959,
+    280.5078102920054
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0876",
+   "bounds": [
+    [
+     -2794.2013615139404,
+     -143.67229988528698,
+     -1420.3799399119923
+    ],
+    [
+     -2408.804532082748,
+     338.9217721554569,
+     -1184.136635795298
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    385.39682943119215,
+    482.59407204074387,
+    236.2433041166944
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0888",
+   "bounds": [
+    [
+     -3068.519642832766,
+     -135.0418037748832,
+     -1521.0769190823744
+    ],
+    [
+     -2653.448734517872,
+     382.9749776444082,
+     -1206.6904971930223
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    415.07090831489404,
+    518.0167814192914,
+    314.38642188935205
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0900",
+   "bounds": [
+    [
+     -3343.8729984217434,
+     -111.66244470206357,
+     -1603.0172289816246
+    ],
+    [
+     -2983.2314904778154,
+     379.70141995515314,
+     -1328.7178369259445
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    360.641507943928,
+    491.3638646572167,
+    274.2993920556801
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0912",
+   "bounds": [
+    [
+     -3768.8246510516406,
+     49.40014375422288,
+     -1607.1395397474403
+    ],
+    [
+     -3320.1130236738495,
+     378.11302624573364,
+     -1392.8106406834772
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    448.71162737779105,
+    328.71288249151075,
+    214.32889906396304
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0924",
+   "bounds": [
+    [
+     -3861.497347151291,
+     74.51317238808633,
+     -1622.8350111366024
+    ],
+    [
+     -3488.878360013229,
+     374.467,
+     -1341.0154550222228
+    ]
+   ],
+   "triangles": 60,
+   "line": 13,
+   "sizeM": [
+    372.6189871380616,
+    299.95382761191365,
+    281.81955611437957
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0936",
+   "bounds": [
+    [
+     -3498.552642665785,
+     -15.347527621464451,
+     -1533.7057572877682
+    ],
+    [
+     -3156.084248996009,
+     380.2584395962672,
+     -1247.0345801790065
+    ]
+   ],
+   "triangles": 72,
+   "line": 13,
+   "sizeM": [
+    342.46839366977565,
+    395.60596721773163,
+    286.67117710876164
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_0948",
+   "bounds": [
+    [
+     -3303.4182650598614,
+     -8.185858008698233,
+     -1442.2490872440299
+    ],
+    [
+     -3156.084248996009,
+     380.2584395962672,
+     -1207.5425652756326
+    ]
+   ],
+   "triangles": 18,
+   "line": 13,
+   "sizeM": [
+    147.33401606385223,
+    388.4442976049654,
+    234.70652196839728
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_13_1008",
+   "bounds": [
+    [
+     -4836.055852750396,
+     89.04485720435255,
+     -1787.7360310944448
+    ],
+    [
+     -4664.83240981664,
+     343.8106096503752,
+     -1567.2855335833292
+    ]
+   ],
+   "triangles": 24,
+   "line": 13,
+   "sizeM": [
+    171.2234429337559,
+    254.76575244602267,
+    220.4504975111156
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_14_0000",
+   "bounds": [
+    [
+     -4098.1201610138105,
+     85.04339927324963,
+     -1730.9534593789701
+    ],
+    [
+     -3800.830306736278,
+     384.0695048269981,
+     -1291.5021168512071
+    ]
+   ],
+   "triangles": 72,
+   "line": 14,
+   "sizeM": [
+    297.2898542775324,
+    299.0261055537485,
+    439.451342527763
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_14_0012",
+   "bounds": [
+    [
+     -4274.628310549303,
+     -53.334199926403926,
+     -1853.7597777551987
+    ],
+    [
+     -3937.995189265746,
+     384.0695048269981,
+     -1606.0960515734562
+    ]
+   ],
+   "triangles": 72,
+   "line": 14,
+   "sizeM": [
+    336.6331212835571,
+    437.40370475340205,
+    247.6637261817425
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_14_0024",
+   "bounds": [
+    [
+     -4555.047718050122,
+     -34.75382615288072,
+     -1908.4854817162445
+    ],
+    [
+     -4132.433944670437,
+     375.7827745874429,
+     -1651.9854337155805
+    ]
+   ],
+   "triangles": 72,
+   "line": 14,
+   "sizeM": [
+    422.613773379685,
+    410.5366007403236,
+    256.50004800066404
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_14_0036",
+   "bounds": [
+    [
+     -4547.389311750313,
+     51.78216485890343,
+     -1754.35149231577
+    ],
+    [
+     -4282.571721405468,
+     358.604,
+     -1530.7924337155805
+    ]
+   ],
+   "triangles": 48,
+   "line": 14,
+   "sizeM": [
+    264.8175903448446,
+    306.8218351410966,
+    223.55905860018947
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_14_0048",
+   "bounds": [
+    [
+     -4392.7841789179765,
+     42.05485725192693,
+     -1775.7153044189613
+    ],
+    [
+     -3994.614220357978,
+     376.826,
+     -1492.8580285277721
+    ]
+   ],
+   "triangles": 48,
+   "line": 14,
+   "sizeM": [
+    398.1699585599986,
+    334.7711427480731,
+    282.85727589118915
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_14_0060",
+   "bounds": [
+    [
+     -4117.04269463033,
+     89.20387022975319,
+     -1640.7609314314818
+    ],
+    [
+     -3841.822306736278,
+     376.64,
+     -1291.3481168512071
+    ]
+   ],
+   "triangles": 48,
+   "line": 14,
+   "sizeM": [
+    275.2203878940518,
+    287.4361297702468,
+    349.4128145802747
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_15_0000",
+   "bounds": [
+    [
+     -6169.381128590665,
+     102.0375708282836,
+     -575.6951972012266
+    ],
+    [
+     -5985.843232770231,
+     373.409,
+     -369.98948680612773
+    ]
+   ],
+   "triangles": 36,
+   "line": 15,
+   "sizeM": [
+    183.53789582043373,
+    271.3714291717164,
+    205.7057103950989
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_16_0000",
+   "bounds": [
+    [
+     -5211.407999485485,
+     109.57438821712196,
+     -606.882478725537
+    ],
+    [
+     -5099.5801333676345,
+     359.939,
+     -368.04430141829755
+    ]
+   ],
+   "triangles": 42,
+   "line": 16,
+   "sizeM": [
+    111.82786611785014,
+    250.36461178287806,
+    238.83817730723945
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_17_0000",
+   "bounds": [
+    [
+     -4854.104020133906,
+     46.44386173897328,
+     -450.85073404747106
+    ],
+    [
+     -4546.735570998493,
+     404.944,
+     -83.26281471755817
+    ]
+   ],
+   "triangles": 72,
+   "line": 17,
+   "sizeM": [
+    307.36844913541245,
+    358.50013826102673,
+    367.5879193299129
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_17_0012",
+   "bounds": [
+    [
+     -5146.9605162833905,
+     61.53318125901205,
+     -525.0353532329991
+    ],
+    [
+     -4815.591697991417,
+     404.991,
+     -242.1857751483146
+    ]
+   ],
+   "triangles": 72,
+   "line": 17,
+   "sizeM": [
+    331.3688182919732,
+    343.45781874098793,
+    282.8495780846845
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_17_0024",
+   "bounds": [
+    [
+     -5365.403399145241,
+     60.19081683457716,
+     -475.8282334462634
+    ],
+    [
+     -5125.048255749143,
+     397.801,
+     -218.67958443691577
+    ]
+   ],
+   "triangles": 72,
+   "line": 17,
+   "sizeM": [
+    240.35514339609745,
+    337.6101831654228,
+    257.14864900934765
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_17_0036",
+   "bounds": [
+    [
+     -5254.819030970684,
+     52.79609859957918,
+     -405.6079236194192
+    ],
+    [
+     -4838.318697991417,
+     413.0196973738757,
+     -153.23488439683527
+    ]
+   ],
+   "triangles": 72,
+   "line": 17,
+   "sizeM": [
+    416.5003329792671,
+    360.22359877429653,
+    252.3730392225839
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_17_0048",
+   "bounds": [
+    [
+     -4876.831020133905,
+     47.856200734116555,
+     -341.33273404747104
+    ],
+    [
+     -4553.348570998493,
+     414.3682605065005,
+     -81.75481471755818
+    ]
+   ],
+   "triangles": 60,
+   "line": 17,
+   "sizeM": [
+    323.482449135412,
+    366.51205977238396,
+    259.57791932991285
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_18_0000",
+   "bounds": [
+    [
+     -4475.654089953122,
+     54.84977453059537,
+     -341.19707087361894
+    ],
+    [
+     -4088.788917988358,
+     373.164,
+     -11.38971942061408
+    ]
+   ],
+   "triangles": 72,
+   "line": 18,
+   "sizeM": [
+    386.8651719647637,
+    318.3142254694046,
+    329.80735145300486
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_18_0012",
+   "bounds": [
+    [
+     -4487.566089953122,
+     47.04950213900747,
+     -291.04848514585024
+    ],
+    [
+     -4094.2009179883585,
+     371.825,
+     -9.737719420614079
+    ]
+   ],
+   "triangles": 66,
+   "line": 18,
+   "sizeM": [
+    393.3651719647637,
+    324.7754978609925,
+    281.31076572523614
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_19_0000",
+   "bounds": [
+    [
+     -4169.089017829358,
+     45.58048532678231,
+     -172.94544470412498
+    ],
+    [
+     -3952.310023009224,
+     373.203,
+     83.82085655667538
+    ]
+   ],
+   "triangles": 72,
+   "line": 19,
+   "sizeM": [
+    216.77899482013436,
+    327.62251467321767,
+    256.76630126080033
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_19_0012",
+   "bounds": [
+    [
+     -4164.754150434506,
+     47.48238601945468,
+     -72.45688816465082
+    ],
+    [
+     -3952.310023009224,
+     369.281,
+     85.33085655667539
+    ]
+   ],
+   "triangles": 6,
+   "line": 19,
+   "sizeM": [
+    212.4441274252822,
+    321.7986139805453,
+    157.7877447213262
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_20_0000",
+   "bounds": [
+    [
+     -3257.249416608947,
+     -3.5807826403433864,
+     168.84634016061446
+    ],
+    [
+     -3045.269750865796,
+     390.322,
+     373.9231106559591
+    ]
+   ],
+   "triangles": 42,
+   "line": 20,
+   "sizeM": [
+    211.9796657431507,
+    393.9027826403434,
+    205.07677049534462
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_21_0000",
+   "bounds": [
+    [
+     -3080.760700290397,
+     0.004032203302813286,
+     207.6638153104369
+    ],
+    [
+     -2774.3685406586665,
+     353.2,
+     511.2086855457834
+    ]
+   ],
+   "triangles": 72,
+   "line": 21,
+   "sizeM": [
+    306.39215963173046,
+    353.1959677966972,
+    303.5448702353465
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_21_0012",
+   "bounds": [
+    [
+     -3053.53189979078,
+     7.067665347666207,
+     246.12881531043692
+    ],
+    [
+     -2790.3655406586663,
+     347.463,
+     511.2786855457834
+    ]
+   ],
+   "triangles": 24,
+   "line": 21,
+   "sizeM": [
+    263.1663591321135,
+    340.3953346523338,
+    265.1498702353465
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_22_0000",
+   "bounds": [
+    [
+     -5845.874794544511,
+     41.57782602347561,
+     426.70211619809277
+    ],
+    [
+     -5531.314663021369,
+     422.2526667492175,
+     651.2352309563344
+    ]
+   ],
+   "triangles": 72,
+   "line": 22,
+   "sizeM": [
+    314.56013152314245,
+    380.6748407257419,
+    224.5331147582416
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_22_0012",
+   "bounds": [
+    [
+     -6063.954227429494,
+     45.249282180697264,
+     382.6621273188611
+    ],
+    [
+     -5796.753947030365,
+     402.293,
+     652.6525523866986
+    ]
+   ],
+   "triangles": 72,
+   "line": 22,
+   "sizeM": [
+    267.20028039912813,
+    357.04371781930274,
+    269.9904250678375
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_22_0024",
+   "bounds": [
+    [
+     -5917.361794544511,
+     45.249282180697264,
+     467.04236317422004
+    ],
+    [
+     -5555.5146630213685,
+     422.688,
+     769.5220271920374
+    ]
+   ],
+   "triangles": 60,
+   "line": 22,
+   "sizeM": [
+    361.8471315231427,
+    377.4387178193027,
+    302.47966401781736
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_23_0024",
+   "bounds": [
+    [
+     -5230.165587028584,
+     86.52893894683984,
+     694.8714823800468
+    ],
+    [
+     -5066.513560864761,
+     448.1052099613903,
+     898.6861600910421
+    ]
+   ],
+   "triangles": 18,
+   "line": 23,
+   "sizeM": [
+    163.6520261638234,
+    361.57627101455046,
+    203.81467771099528
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_23_0036",
+   "bounds": [
+    [
+     -5265.297656279037,
+     40.65573159682799,
+     549.1237726618442
+    ],
+    [
+     -5070.249073322776,
+     446.2506612335146,
+     872.5520170919192
+    ]
+   ],
+   "triangles": 72,
+   "line": 23,
+   "sizeM": [
+    195.04858295626127,
+    405.59492963668663,
+    323.428244430075
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_23_0048",
+   "bounds": [
+    [
+     -5362.2867840770605,
+     43.52426490904372,
+     490.270873582573
+    ],
+    [
+     -5110.480051056296,
+     441.2052175819963,
+     700.951410072337
+    ]
+   ],
+   "triangles": 72,
+   "line": 23,
+   "sizeM": [
+    251.8067330207641,
+    397.68095267295257,
+    210.680536489764
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_23_0060",
+   "bounds": [
+    [
+     -5503.855534541052,
+     127.87832208979853,
+     639.9109413786999
+    ],
+    [
+     -5108.059527037189,
+     445.2058393223442,
+     950.74003648774
+    ]
+   ],
+   "triangles": 72,
+   "line": 23,
+   "sizeM": [
+    395.7960075038636,
+    317.3275172325457,
+    310.82909510904005
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_23_0072",
+   "bounds": [
+    [
+     -5465.7448810505875,
+     170.89285592626175,
+     758.7474642341506
+    ],
+    [
+     -5124.620951982581,
+     453.0438600136549,
+     1117.7939895288623
+    ]
+   ],
+   "triangles": 72,
+   "line": 23,
+   "sizeM": [
+    341.1239290680069,
+    282.1510040873932,
+    359.0465252947117
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_23_0084",
+   "bounds": [
+    [
+     -5510.570881050588,
+     170.66734318978843,
+     949.4889340314093
+    ],
+    [
+     -5249.949784241188,
+     444.952383199005,
+     1290.8459895288624
+    ]
+   ],
+   "triangles": 60,
+   "line": 23,
+   "sizeM": [
+    260.6210968093992,
+    274.2850400092166,
+    341.3570554974532
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_24_0000",
+   "bounds": [
+    [
+     -6322.72399486085,
+     124.7405965681155,
+     514.9248534269403
+    ],
+    [
+     -6068.3513656879595,
+     440.1822959996998,
+     805.1302366033489
+    ]
+   ],
+   "triangles": 66,
+   "line": 24,
+   "sizeM": [
+    254.3726291728908,
+    315.4416994315843,
+    290.20538317640853
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_25_0024",
+   "bounds": [
+    [
+     -3135.4814624642586,
+     11.600894861792767,
+     1319.9361480638777
+    ],
+    [
+     -2759.354894603486,
+     416.599,
+     1588.8145182336323
+    ]
+   ],
+   "triangles": 66,
+   "line": 25,
+   "sizeM": [
+    376.1265678607724,
+    404.9981051382072,
+    268.8783701697546
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_25_0036",
+   "bounds": [
+    [
+     -2821.276580947706,
+     -50.54372099831835,
+     1223.0648775402778
+    ],
+    [
+     -2603.124375128251,
+     394.09485957392644,
+     1568.4349648597586
+    ]
+   ],
+   "triangles": 54,
+   "line": 25,
+   "sizeM": [
+    218.15220581945505,
+    444.6385805722448,
+    345.3700873194807
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_25_0048",
+   "bounds": [
+    [
+     -3175.2884624642584,
+     2.3094822837174434,
+     1202.2341480638777
+    ],
+    [
+     -2762.6937741251213,
+     428.33274121713794,
+     1408.3308368958333
+    ]
+   ],
+   "triangles": 72,
+   "line": 25,
+   "sizeM": [
+    412.59468833913706,
+    426.0232589334205,
+    206.0966888319556
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_25_0060",
+   "bounds": [
+    [
+     -3500.037291044292,
+     8.695078413013107,
+     1146.1274078571566
+    ],
+    [
+     -3138.868808008808,
+     433.7453028515383,
+     1400.006565668511
+    ]
+   ],
+   "triangles": 72,
+   "line": 25,
+   "sizeM": [
+    361.16848303548386,
+    425.0502244385252,
+    253.8791578113544
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_25_0072",
+   "bounds": [
+    [
+     -3833.3967711539763,
+     -13.388268071568746,
+     1039.0185342825234
+    ],
+    [
+     -3446.0006343356176,
+     438.749990442951,
+     1378.2609596064763
+    ]
+   ],
+   "triangles": 72,
+   "line": 25,
+   "sizeM": [
+    387.3961368183586,
+    452.13825851451975,
+    339.24242532395283
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_25_0084",
+   "bounds": [
+    [
+     -4039.6157920608234,
+     -2.701900638874122,
+     937.1952944041153
+    ],
+    [
+     -3767.8236819230683,
+     430.1872008147466,
+     1250.4389694031
+    ]
+   ],
+   "triangles": 72,
+   "line": 25,
+   "sizeM": [
+    271.7921101377551,
+    432.8891014536207,
+    313.2436749989846
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_25_0096",
+   "bounds": [
+    [
+     -4350.813640790543,
+     35.55271463693862,
+     867.5235366153306
+    ],
+    [
+     -3903.00606560499,
+     437.7424098901679,
+     1162.000442488776
+    ]
+   ],
+   "triangles": 72,
+   "line": 25,
+   "sizeM": [
+    447.8075751855531,
+    402.1896952532293,
+    294.4769058734453
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_25_0108",
+   "bounds": [
+    [
+     -4761.068525168332,
+     21.835151886392396,
+     800.1930800451122
+    ],
+    [
+     -4287.12015728063,
+     441.24999622342057,
+     1048.650950770042
+    ]
+   ],
+   "triangles": 72,
+   "line": 25,
+   "sizeM": [
+    473.94836788770135,
+    419.41484433702817,
+    248.45787072492988
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_25_0120",
+   "bounds": [
+    [
+     -4991.738251780902,
+     33.81191374690161,
+     725.3904863665321
+    ],
+    [
+     -4654.814098322111,
+     439.3539090721424,
+     976.3411296707228
+    ]
+   ],
+   "triangles": 72,
+   "line": 25,
+   "sizeM": [
+    336.9241534587909,
+    405.5419953252408,
+    250.95064330419075
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_25_0132",
+   "bounds": [
+    [
+     -4993.5210585144005,
+     120.63659501237589,
+     770.4124863665321
+    ],
+    [
+     -4698.820098322111,
+     441.007,
+     1167.2931296707227
+    ]
+   ],
+   "triangles": 72,
+   "line": 25,
+   "sizeM": [
+    294.70096019228913,
+    320.3704049876241,
+    396.8806433041906
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_25_0144",
+   "bounds": [
+    [
+     -4805.074525168332,
+     112.46489600733616,
+     986.2710800451122
+    ],
+    [
+     -4453.901048651672,
+     440.31,
+     1205.8186600383135
+    ]
+   ],
+   "triangles": 48,
+   "line": 25,
+   "sizeM": [
+    351.17347651666023,
+    327.84510399266384,
+    219.54757999320134
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_26_0000",
+   "bounds": [
+    [
+     -5922.694871350233,
+     123.77500034794639,
+     903.6336404442255
+    ],
+    [
+     -5645.770073932424,
+     437.7881955489552,
+     1225.4756685426325
+    ]
+   ],
+   "triangles": 60,
+   "line": 26,
+   "sizeM": [
+    276.9247974178097,
+    314.0131952010088,
+    321.842028098407
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_26_0012",
+   "bounds": [
+    [
+     -6122.5774113795715,
+     123.73319061033953,
+     818.0275626309814
+    ],
+    [
+     -5872.778208576651,
+     427.271,
+     1162.7653933366178
+    ]
+   ],
+   "triangles": 72,
+   "line": 26,
+   "sizeM": [
+    249.79920280292026,
+    303.5378093896605,
+    344.7378307056364
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_26_0024",
+   "bounds": [
+    [
+     -5941.215871350233,
+     156.5102733835265,
+     977.3676404442256
+    ],
+    [
+     -5708.344035189219,
+     433.411,
+     1271.5085294486785
+    ]
+   ],
+   "triangles": 42,
+   "line": 26,
+   "sizeM": [
+    232.87183616101447,
+    276.9007266164735,
+    294.1408890044529
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0000",
+   "bounds": [
+    [
+     5913.120110529008,
+     47.352580252206735,
+     4341.557300644634
+    ],
+    [
+     6149.371396405549,
+     380.351658704938,
+     4670.815600662142
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    236.25128587654035,
+    332.9990784527313,
+    329.2583000175082
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0012",
+   "bounds": [
+    [
+     5526.156118415662,
+     45.922187481130095,
+     4251.9335280422465
+    ],
+    [
+     5971.502342064877,
+     374.36925158574195,
+     4536.959707649783
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    445.34622364921506,
+    328.44706410461185,
+    285.0261796075365
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0024",
+   "bounds": [
+    [
+     5176.7371544844045,
+     97.66624918903563,
+     4180.088132970852
+    ],
+    [
+     5584.201858772289,
+     371.4962052447713,
+     4488.801527054125
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    407.46470428788416,
+    273.8299560557357,
+    308.71339408327276
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0036",
+   "bounds": [
+    [
+     4913.520593402626,
+     113.44440927987307,
+     4123.788247961616
+    ],
+    [
+     5298.31138970104,
+     378.1939228242686,
+     4334.229098902558
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    384.7907962984136,
+    264.74951354439554,
+    210.44085094094135
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0048",
+   "bounds": [
+    [
+     4505.097686298831,
+     114.69107022157095,
+     4007.2680752401902
+    ],
+    [
+     4942.371160439825,
+     379.2212943171194,
+     4348.661223212643
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    437.27347414099404,
+    264.5302240955484,
+    341.3931479724524
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0060",
+   "bounds": [
+    [
+     4313.964267891164,
+     75.66244598082176,
+     3825.020356211568
+    ],
+    [
+     4661.207887580078,
+     373.9537553997643,
+     4130.554032251965
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    347.2436196889139,
+    298.29130941894255,
+    305.5336760403966
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0072",
+   "bounds": [
+    [
+     4000.4075093618244,
+     97.06085028912412,
+     3736.988827845255
+    ],
+    [
+     4391.076515473922,
+     373.5171046766136,
+     4010.2486568264803
+    ]
+   ],
+   "triangles": 42,
+   "line": 27,
+   "sizeM": [
+    390.6690061120976,
+    276.4562543874895,
+    273.2598289812254
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0084",
+   "bounds": [
+    [
+     3773.910275834288,
+     71.38576139722636,
+     3577.859069026737
+    ],
+    [
+     4145.296766042545,
+     367.8627985742687,
+     3871.583582321171
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    371.3864902082569,
+    296.47703717704235,
+    293.724513294434
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0096",
+   "bounds": [
+    [
+     3573.6405925232993,
+     29.662015194634478,
+     3439.9879815392515
+    ],
+    [
+     3902.6459816110473,
+     360.892,
+     3720.3059645989456
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    329.005389087748,
+    331.2299848053655,
+    280.31798305969414
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0108",
+   "bounds": [
+    [
+     3232.6891444963258,
+     68.10455440759642,
+     3416.8999105268495
+    ],
+    [
+     3586.8151121505057,
+     374.648037298326,
+     3640.6457501129976
+    ]
+   ],
+   "triangles": 60,
+   "line": 27,
+   "sizeM": [
+    354.12596765417993,
+    306.5434828907296,
+    223.74583958614812
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0144",
+   "bounds": [
+    [
+     2550.718663817596,
+     80.85456023787538,
+     3040.0034886232233
+    ],
+    [
+     2595.7220427360658,
+     362.439,
+     3251.5266706516545
+    ]
+   ],
+   "triangles": 12,
+   "line": 27,
+   "sizeM": [
+    45.003378918469934,
+    281.58443976212465,
+    211.52318202843117
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0168",
+   "bounds": [
+    [
+     3003.7829525425855,
+     -23.596669393730735,
+     3203.537641616346
+    ],
+    [
+     3276.4210123828525,
+     425.755,
+     3569.6625910958255
+    ]
+   ],
+   "triangles": 60,
+   "line": 27,
+   "sizeM": [
+    272.63805984026703,
+    449.35166939373073,
+    366.1249494794797
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0180",
+   "bounds": [
+    [
+     3131.0476815453117,
+     -46.943876478722814,
+     3200.466641616346
+    ],
+    [
+     3663.7004383521607,
+     416.811,
+     3476.190844271407
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    532.6527568068491,
+    463.7548764787228,
+    275.72420265506116
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0192",
+   "bounds": [
+    [
+     3591.6935707765224,
+     -102.73211882812484,
+     3288.283875908438
+    ],
+    [
+     3890.9743134908567,
+     395.423,
+     3593.5482769112264
+    ]
+   ],
+   "triangles": 60,
+   "line": 27,
+   "sizeM": [
+    299.28074271433434,
+    498.15511882812484,
+    305.2644010027884
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0204",
+   "bounds": [
+    [
+     3807.449297637151,
+     -102.73211882812484,
+     3359.2849860223514
+    ],
+    [
+     4103.382386599304,
+     373.373,
+     3644.523986580444
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    295.9330889621524,
+    476.10511882812483,
+    285.2390005580928
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0216",
+   "bounds": [
+    [
+     3601.5413087300435,
+     -116.64161000906188,
+     3243.0668051439407
+    ],
+    [
+     4006.4345092836115,
+     412.35082124979317,
+     3580.681783245279
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    404.893200553568,
+    528.992431258855,
+    337.61497810133824
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0228",
+   "bounds": [
+    [
+     3254.262619317584,
+     -103.38202736083895,
+     3178.3465323895116
+    ],
+    [
+     3671.116438352161,
+     406.042,
+     3430.7659228408884
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    416.8538190345771,
+    509.4240273608389,
+    252.41939045137678
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0240",
+   "bounds": [
+    [
+     2925.9210107125828,
+     -65.1782617960016,
+     3096.5672491335413
+    ],
+    [
+     3299.082225378828,
+     437.8606741971298,
+     3369.582591095825
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    373.1612146662451,
+    503.0389359931314,
+    273.01534196228386
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0252",
+   "bounds": [
+    [
+     2738.950300353413,
+     -65.49547145612496,
+     2988.6137123806516
+    ],
+    [
+     3052.3583326191615,
+     451.0454695015369,
+     3319.5291650472636
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    313.4080322657487,
+    516.5409409576619,
+    330.91545266661205
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0264",
+   "bounds": [
+    [
+     2761.7891181582368,
+     -93.74763428415736,
+     2879.368342922943
+    ],
+    [
+     3066.7846462767766,
+     417.7838930421535,
+     3167.9829360899707
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    304.9955281185398,
+    511.5315273263109,
+    288.6145931670276
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0276",
+   "bounds": [
+    [
+     2649.422701193792,
+     -77.44820295423642,
+     2922.389550514394
+    ],
+    [
+     2896.0426858988862,
+     425.55954580772277,
+     3168.77178682686
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    246.61998470509434,
+    503.0077487619592,
+    246.38223631246592
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0288",
+   "bounds": [
+    [
+     2294.589067589206,
+     -61.722937579450445,
+     2737.45078574093
+    ],
+    [
+     2713.779482093124,
+     404.52170574724096,
+     3138.8196706516546
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    419.19041450391796,
+    466.2446433266914,
+    401.3688849107248
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0300",
+   "bounds": [
+    [
+     2057.106800933076,
+     -93.29265339342919,
+     2652.997449113117
+    ],
+    [
+     2402.738328827386,
+     351.3689681895503,
+     2896.09421388605
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    345.6315278943098,
+    444.6616215829795,
+    243.09676477293306
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0312",
+   "bounds": [
+    [
+     1706.2433788769688,
+     -102.81974673196873,
+     2559.4653388879983
+    ],
+    [
+     2175.0758137069542,
+     346.4684096582773,
+     2885.911637155447
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    468.83243482998546,
+    449.28815639024606,
+    326.4462982674486
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0324",
+   "bounds": [
+    [
+     1414.7874368399775,
+     -135.0430791957251,
+     2304.617491287543
+    ],
+    [
+     1794.759010864533,
+     343.0793964157192,
+     2742.115916680025
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    379.97157402455537,
+    478.1224756114443,
+    437.49842539248175
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0336",
+   "bounds": [
+    [
+     1096.4208403301782,
+     -135.0430791957251,
+     2135.7914456454555
+    ],
+    [
+     1531.3715042106683,
+     335.06804668280756,
+     2457.1696306868525
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    434.9506638804901,
+    470.1111258785327,
+    321.37818504139705
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0348",
+   "bounds": [
+    [
+     880.739280314005,
+     -108.46246493519493,
+     2095.5697724577544
+    ],
+    [
+     1226.1619906905194,
+     327.0576511850636,
+     2371.9618439419833
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    345.4227103765144,
+    435.52011612025854,
+    276.39207148422884
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0360",
+   "bounds": [
+    [
+     425.8818103356325,
+     -32.301358217070174,
+     2063.7024367197905
+    ],
+    [
+     903.038795289925,
+     326.61904541772583,
+     2381.3230554230518
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    477.1569849542925,
+    358.920403634796,
+    317.62061870326124
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0372",
+   "bounds": [
+    [
+     156.9572619310378,
+     -104.15149556883807,
+     1832.717309545079
+    ],
+    [
+     549.8094793109578,
+     322.6509987879931,
+     2210.351449203142
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    392.85221737992003,
+    426.8024943568312,
+    377.63413965806285
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0384",
+   "bounds": [
+    [
+     -148.4049402666186,
+     -114.28126978232467,
+     1696.1777675382366
+    ],
+    [
+     267.5425825379308,
+     321.0355603583848,
+     1999.4824851570409
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    415.9475228045494,
+    435.3168301407095,
+    303.30471761880426
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0396",
+   "bounds": [
+    [
+     -385.6369150604926,
+     -110.58757603106869,
+     1635.9763466826964
+    ],
+    [
+     -17.343711763650987,
+     320.81215605720126,
+     1880.7723112860704
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    368.2932032968416,
+    431.39973208826996,
+    244.79596460337393
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0408",
+   "bounds": [
+    [
+     -692.993924763383,
+     -93.1960535403723,
+     1523.0568011260016
+    ],
+    [
+     -210.51110471403138,
+     326.50112027960313,
+     1886.628465243606
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    482.48282004935163,
+    419.69717381997543,
+    363.5716641176043
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0420",
+   "bounds": [
+    [
+     -1008.7664703449029,
+     -113.10406337805125,
+     1454.412461492875
+    ],
+    [
+     -611.1177383491079,
+     333.6405243408849,
+     1696.723983109976
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    397.64873199579506,
+    446.74458771893615,
+    242.31152161710088
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0432",
+   "bounds": [
+    [
+     -1329.1972706610154,
+     -127.70273981517585,
+     1405.2198631279784
+    ],
+    [
+     -972.2742353103397,
+     337.49623470827464,
+     1659.9767545063114
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    356.9230353506757,
+    465.1989745234505,
+    254.75689137833297
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0444",
+   "bounds": [
+    [
+     -1682.5604969355031,
+     -122.19213004341509,
+     1360.9719973846784
+    ],
+    [
+     -1186.4569400847693,
+     347.1707675755688,
+     1652.1423696593738
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    496.10355685073387,
+    469.3628976189839,
+    291.1703722746954
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0456",
+   "bounds": [
+    [
+     -2072.528193358063,
+     -120.38540049103358,
+     1307.726906854247
+    ],
+    [
+     -1651.2717098862847,
+     359.08350561983116,
+     1552.5720392298213
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    421.25648347177844,
+    479.46890611086474,
+    244.84513237557417
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0468",
+   "bounds": [
+    [
+     -2381.4744934822384,
+     -112.21630900608125,
+     1251.242761257959
+    ],
+    [
+     -2019.6031871094626,
+     365.22589557332776,
+     1500.7303971862923
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    361.87130637277573,
+    477.442204579409,
+    249.48763592833325
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0480",
+   "bounds": [
+    [
+     -2630.577841806894,
+     -81.14430292309862,
+     1270.994761257959
+    ],
+    [
+     -2332.6220585494625,
+     365.703,
+     1615.0664559320116
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    297.95578325743145,
+    446.8473029230986,
+    344.07169467405265
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0492",
+   "bounds": [
+    [
+     -3011.9486383724898,
+     85.74682450138152,
+     1434.5330857031624
+    ],
+    [
+     -2561.18837289659,
+     371.647894367612,
+     1661.9188128486533
+    ]
+   ],
+   "triangles": 72,
+   "line": 27,
+   "sizeM": [
+    450.7602654758998,
+    285.9010698662305,
+    227.38572714549082
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_27_0504",
+   "bounds": [
+    [
+     -3077.76063837249,
+     108.80040383768448,
+     1472.1707458100898
+    ],
+    [
+     -2982.628490775167,
+     374.58886576274335,
+     1729.5488128486534
+    ]
+   ],
+   "triangles": 18,
+   "line": 27,
+   "sizeM": [
+    95.13214759732318,
+    265.78846192505887,
+    257.3780670385636
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_28_0000",
+   "bounds": [
+    [
+     3596.710433227157,
+     -6.766847518658324,
+     1356.6979181733202
+    ],
+    [
+     3871.7107515899306,
+     322.3387322072017,
+     1623.882863829071
+    ]
+   ],
+   "triangles": 72,
+   "line": 28,
+   "sizeM": [
+    275.00031836277367,
+    329.10557972586,
+    267.1849456557509
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_28_0012",
+   "bounds": [
+    [
+     3614.656433227157,
+     9.678243121019932,
+     1414.905848034592
+    ],
+    [
+     3869.510751589931,
+     326.16122552274965,
+     1664.8778638290712
+    ]
+   ],
+   "triangles": 30,
+   "line": 28,
+   "sizeM": [
+    254.85431836277394,
+    316.4829824017297,
+    249.97201579447915
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_29_0000",
+   "bounds": [
+    [
+     4257.220710085563,
+     -63.194882847111785,
+     1571.5986181683945
+    ],
+    [
+     4488.818152660962,
+     345.33,
+     1844.068727474084
+    ]
+   ],
+   "triangles": 72,
+   "line": 29,
+   "sizeM": [
+    231.59744257539933,
+    408.52488284711177,
+    272.47010930568945
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_30_0000",
+   "bounds": [
+    [
+     2933.3314437775966,
+     -96.34368498277263,
+     1828.684491951522
+    ],
+    [
+     3096.571098701116,
+     346.131,
+     2112.979967203232
+    ]
+   ],
+   "triangles": 60,
+   "line": 30,
+   "sizeM": [
+    163.23965492351954,
+    442.4746849827726,
+    284.29547525170983
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_30_0012",
+   "bounds": [
+    [
+     2989.0724786427986,
+     -96.34368498277263,
+     1921.7744919515221
+    ],
+    [
+     3052.456820358023,
+     335.412,
+     2113.453967203232
+    ]
+   ],
+   "triangles": 6,
+   "line": 30,
+   "sizeM": [
+    63.38434171522431,
+    431.7556849827726,
+    191.67947525170985
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_31_0000",
+   "bounds": [
+    [
+     3209.8322424356643,
+     -114.27042581425121,
+     1927.1833893578064
+    ],
+    [
+     3503.4489743868944,
+     363.234,
+     2274.1367883279695
+    ]
+   ],
+   "triangles": 72,
+   "line": 31,
+   "sizeM": [
+    293.6167319512301,
+    477.5044258142512,
+    346.9533989701631
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_31_0012",
+   "bounds": [
+    [
+     3181.994242435664,
+     -115.15631472822815,
+     2015.4833893578061
+    ],
+    [
+     3490.0449743868944,
+     366.50754824731484,
+     2274.0297883279695
+    ]
+   ],
+   "triangles": 60,
+   "line": 31,
+   "sizeM": [
+    308.0507319512303,
+    481.663862975543,
+    258.5463989701634
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_32_0000",
+   "bounds": [
+    [
+     5722.088181727704,
+     14.212975572275809,
+     2049.6843577395653
+    ],
+    [
+     6013.615586082604,
+     384.251,
+     2362.2113636373197
+    ]
+   ],
+   "triangles": 72,
+   "line": 32,
+   "sizeM": [
+    291.5274043548998,
+    370.03802442772417,
+    312.5270058977544
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_32_0012",
+   "bounds": [
+    [
+     5709.596181727704,
+     16.76460999379742,
+     2085.9189349915823
+    ],
+    [
+     5932.719997259101,
+     385.845,
+     2392.33736363732
+    ]
+   ],
+   "triangles": 30,
+   "line": 32,
+   "sizeM": [
+    223.12381553139676,
+    369.0803900062026,
+    306.41842864573755
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_33_0000",
+   "bounds": [
+    [
+     5428.522512194095,
+     17.639953359555875,
+     2169.2335087737024
+    ],
+    [
+     5773.90052735214,
+     420.66407605397217,
+     2478.750566378813
+    ]
+   ],
+   "triangles": 72,
+   "line": 33,
+   "sizeM": [
+    345.37801515804495,
+    403.0241226944163,
+    309.5170576051105
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_33_0012",
+   "bounds": [
+    [
+     5441.870059717337,
+     123.36694032703326,
+     2227.758461891233
+    ],
+    [
+     5747.171746097434,
+     421.0207522052924,
+     2523.100403143758
+    ]
+   ],
+   "triangles": 72,
+   "line": 33,
+   "sizeM": [
+    305.3016863800967,
+    297.65381187825915,
+    295.341941252525
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_33_0024",
+   "bounds": [
+    [
+     5395.7894220912285,
+     54.43981178418835,
+     2198.074504317805
+    ],
+    [
+     5516.048668631568,
+     409.7710897159468,
+     2523.100403143758
+    ]
+   ],
+   "triangles": 42,
+   "line": 33,
+   "sizeM": [
+    120.25924654033952,
+    355.33127793175845,
+    325.02589882595294
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_34_0000",
+   "bounds": [
+    [
+     5177.879031870649,
+     24.936839843694543,
+     2329.8788241674056
+    ],
+    [
+     5408.497264541957,
+     405.607,
+     2568.5721450555066
+    ]
+   ],
+   "triangles": 48,
+   "line": 34,
+   "sizeM": [
+    230.61823267130785,
+    380.6701601563055,
+    238.69332088810097
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_35_0000",
+   "bounds": [
+    [
+     5952.221010560428,
+     -72.06619724582151,
+     3032.172645697199
+    ],
+    [
+     6247.462243509763,
+     397.8282921763448,
+     3327.601307510502
+    ]
+   ],
+   "triangles": 72,
+   "line": 35,
+   "sizeM": [
+    295.2412329493345,
+    469.8944894221663,
+    295.4286618133028
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_35_0012",
+   "bounds": [
+    [
+     6100.527878697698,
+     -76.83884093397683,
+     3109.7329166689588
+    ],
+    [
+     6257.541819534523,
+     394.8491735209691,
+     3279.983938888736
+    ]
+   ],
+   "triangles": 12,
+   "line": 35,
+   "sizeM": [
+    157.013940836825,
+    471.6880144549459,
+    170.25102221977704
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_36_0000",
+   "bounds": [
+    [
+     4298.616636273185,
+     -130.3643715634489,
+     3573.081078455172
+    ],
+    [
+     4567.517360502765,
+     401.979,
+     3784.9571442647625
+    ]
+   ],
+   "triangles": 72,
+   "line": 36,
+   "sizeM": [
+    268.9007242295802,
+    532.343371563449,
+    211.87606580959073
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_36_0012",
+   "bounds": [
+    [
+     4212.976636273184,
+     -72.63025362027656,
+     3554.644790382349
+    ],
+    [
+     4468.877937543598,
+     388.444,
+     3864.9361442647623
+    ]
+   ],
+   "triangles": 72,
+   "line": 36,
+   "sizeM": [
+    255.90130127041357,
+    461.0742536202766,
+    310.2913538824132
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_36_0024",
+   "bounds": [
+    [
+     4277.918936846031,
+     123.4654821307845,
+     3726.3734313623195
+    ],
+    [
+     4491.163937543598,
+     388.444,
+     3754.2229045758454
+    ]
+   ],
+   "triangles": 6,
+   "line": 36,
+   "sizeM": [
+    213.24500069756687,
+    264.9785178692155,
+    27.849473213525926
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_37_0000",
+   "bounds": [
+    [
+     5951.439987860793,
+     -77.86451846940508,
+     4198.14468743928
+    ],
+    [
+     6124.666267475947,
+     389.695,
+     4439.149688410808
+    ]
+   ],
+   "triangles": 48,
+   "line": 37,
+   "sizeM": [
+    173.22627961515445,
+    467.5595184694051,
+    241.00500097152872
+   ],
+   "licence": "authored project join geometry; CC0 basalt detail material",
+   "source": "authored recessed lip/scan closure, not a measured basalt wall",
+   "credit": "Authored joins follow the already credited Mars lip/ground; dark_rock_02 by Amal Kumar / Poly Haven, CC0 1.0"
+  },
+  {
+   "name": "wall_seal_scan_repair_00",
+   "bounds": [
+    [
+     -2763.554723395279,
+     138.0,
+     -3164.2460830368555
+    ],
+    [
+     -2721.8154377223586,
+     255.0,
+     -3125.392483916659
+    ]
+   ],
+   "triangles": 1191,
+   "sizeM": [
+    41.73928567292023,
+    117.0,
+    38.85359912019658
+   ],
+   "licence": "CC BY-NC 4.0",
+   "source": "devils-postpile",
+   "sourceUrl": "https://sketchfab.com/3d-models/devils-postpile-national-monument-usa-c1e498cc38994911a06e28b1903912f2",
+   "credit": "Devils Postpile National Monument, USA by Matthew Strong, CC BY-NC 4.0",
+   "material": "Localized overlapping scan copy with original albedo, normals and UVs; scan-derived authored caps. Native HRL remains neutral compatibility data.",
+   "assemblyRepair": {
+    "sourceModule": "wall_scan_07_postpile-column",
+    "sourceLOD": 2,
+    "centre": [
+     -2744,
+     210,
+     -3144
+    ],
+    "scale": [
+     0.34285715033083564,
+     0.9,
+     0.15380189803454689
+    ],
+    "authored": "Placement and scale close the verified corner sightline; no new measured morphology."
+   }
+  }
+ ],
+ "authored": "recessed vertical join faces and plateau underside caps; scan kit remains the exposed rock",
+ "backsetM": 80,
+ "localizedScanRepairs": 1,
+ "capOutwardRangeM": [
+  -180,
+  12
+ ],
+ "floorBurialM": 80,
+ "triangleCount": 17889
+}

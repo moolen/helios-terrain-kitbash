@@ -1,0 +1,34 @@
+{
+  "sourceUrl": "https://stac.astrogeology.usgs.gov/api/collections/mro_ctx_controlled_usgs_dtms (see raw/ctx-olympus-nw-rim/SOURCES.txt)",
+  "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"unknown\",SPHEROID[\"unknown\",3396190,0]],PRIMEM[\"Reference meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Azimuthal_Equidistant\"],PARAMETER[\"latitude_of_center\",18.4641],PARAMETER[\"longitude_of_center\",-133.8446],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "cropBounds": {
+    "left": -6000.0,
+    "bottom": -6000.0,
+    "right": 6000.0,
+    "top": 6000.0
+  },
+  "cropPixelsNative": [
+    600,
+    600
+  ],
+  "nativeMetresPerPixel": [
+    20.0,
+    20.0
+  ],
+  "heightmapPixels": [
+    600,
+    600
+  ],
+  "metresPerPixel": [
+    20.0,
+    20.0
+  ],
+  "minElevationM": 18369.79296875,
+  "maxElevationM": 20396.92578125,
+  "reliefM": 2027.1328125,
+  "encoding": "uint16 0..65535 = minElevationM..maxElevationM (linear)",
+  "nodataFraction": 0.002202777777777778,
+  "nodataFill": "nearest valid neighbour",
+  "hillshade": "gdaldem hillshade -multidirectional -z 1.0",
+  "note": "USGS controlled CTX DTM mosaic (20 m, geoid-adjusted heights above the areoid), 12 x 12 km centred on the current map anchor 18.4641N 226.1554E (NW caldera rim of Olympus Mons). 10 pair DTMs stacked."
+}

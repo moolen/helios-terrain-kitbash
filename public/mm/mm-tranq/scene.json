@@ -1,0 +1,138 @@
+{
+ "size": 12000.0,
+ "h0": -800.0,
+ "defaultHour": 6.9,
+ "heightfield": {
+  "n": 1501,
+  "size": 12000.0
+ },
+ "views": {
+  "close": {
+   "label": "close 350 m (West crater)",
+   "target": [
+    -3300,
+    33.03790283203125,
+    -1010
+   ],
+   "dist": 350,
+   "pitch": 24,
+   "yaw": 10,
+   "fov": 50,
+   "hour": 8.4
+  },
+  "gameplay": {
+   "label": "gameplay 2350 m (pit + fresh craters)",
+   "target": [
+    1900,
+    21.26031494140625,
+    -2150
+   ],
+   "dist": 2350,
+   "pitch": 40,
+   "yaw": 0,
+   "fov": 50,
+   "hour": 7.2
+  },
+  "overview": {
+   "label": "overview",
+   "target": [
+    0,
+    25.60614013671875,
+    0
+   ],
+   "dist": 15500,
+   "pitch": 55,
+   "yaw": 0,
+   "fov": 50,
+   "hour": 6.9
+  },
+  "wall": {
+   "label": "pit wall hero",
+   "target": [
+    1956,
+    -48,
+    -1519
+   ],
+   "dist": 150,
+   "pitch": 33,
+   "yaw": 90,
+   "fov": 45,
+   "hour": 8.6,
+   "exposure": 0.78
+  },
+  "pit": {
+   "label": "pit hero (sunlit floor)",
+   "target": [
+    1990,
+    -85,
+    -1519
+   ],
+   "dist": 270,
+   "pitch": 57,
+   "yaw": 125,
+   "fov": 45,
+   "hour": 10.4,
+   "exposure": 0.85
+  },
+  "earth": {
+   "label": "Earth through the skylight (from the pit floor)",
+   "posAbs": [
+    2034,
+    -112,
+    -1512
+   ],
+   "lookAz": 262,
+   "lookEl": 47,
+   "fov": 62,
+   "hour": 8.8,
+   "exposure": 1.6
+  }
+ },
+ "pit": {
+  "centre": [
+   1996.3241106719368,
+   -1519.3501976284585
+  ],
+  "lipA": 50.0,
+  "lipB": 44.0,
+  "axisAz": 165.0,
+  "lipLevelM": -803.3697069625575,
+  "floorLevelM": -908.3697069625575,
+  "funnelR": 71.5,
+  "plainLevelM": -782.9606323242188
+ },
+ "earth": {
+  "azDeg": 257.6,
+  "elDeg": 55.9,
+  "note": "mean sub-Earth point (0N 0E) seen from 8.2855N 33.1553E: 34.1 deg from the zenith toward WSW; libration moves it by up to ~7 deg"
+ },
+ "latDeg": 8.2855,
+ "lonDeg": 33.1553,
+ "landmarks": [
+  {
+   "name": "Mare Tranquillitatis pit",
+   "x": 1996,
+   "z": -1519
+  },
+  {
+   "name": "Fresh blocky crater (West crater stamp)",
+   "x": -3350,
+   "z": -900
+  },
+  {
+   "name": "West mare bench (hub)",
+   "x": -1700,
+   "z": 900
+  },
+  {
+   "name": "Pit overlook (hub)",
+   "x": 1050,
+   "z": 350
+  },
+  {
+   "name": "Elongated doublet crater",
+   "x": -2050,
+   "z": -3450
+  }
+ ]
+}

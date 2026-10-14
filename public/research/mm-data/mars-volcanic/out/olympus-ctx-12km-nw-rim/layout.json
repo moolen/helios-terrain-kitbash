@@ -1,0 +1,95 @@
+{
+ "title": "mars.olympus_mons on CTX 20 m: 12 x 12 km at the current anchor 18.4641N 226.1554E, north up. Orange: black-rock outcrop band along the lip.",
+ "polys": [
+  {
+   "label": "jagged black-rock band (Ka'u kit), fading W into sand",
+   "pts": [
+    [
+     -1800,
+     6000
+    ],
+    [
+     2600,
+     6000
+    ],
+    [
+     -600,
+     -6000
+    ],
+    [
+     -3600,
+     -6000
+    ]
+   ],
+   "color": [
+    255,
+    140,
+    60,
+    255
+   ]
+  },
+  {
+   "label": "caldera wall: CTX spur-and-gully + Kilauea bench modules",
+   "pts": [
+    [
+     2700,
+     6000
+    ],
+    [
+     6000,
+     6000
+    ],
+    [
+     6000,
+     -6000
+    ],
+    [
+     -400,
+     -6000
+    ]
+   ],
+   "color": [
+    80,
+    200,
+    255,
+    255
+   ]
+  }
+ ],
+ "marks": [
+  {
+   "x": -3600,
+   "y": -1500,
+   "label": "Hub 1 - rim plain bench",
+   "color": [
+    120,
+    255,
+    120,
+    255
+   ]
+  },
+  {
+   "x": -3000,
+   "y": 4000,
+   "label": "Hub 2 - north flow bench",
+   "color": [
+    120,
+    255,
+    120,
+    255
+   ]
+  },
+  {
+   "x": 1300,
+   "y": 300,
+   "label": "Deposit: Ti-basalt ledge 400 m below lip",
+   "color": [
+    255,
+    220,
+    60,
+    255
+   ],
+   "shape": "diamond"
+  }
+ ]
+}

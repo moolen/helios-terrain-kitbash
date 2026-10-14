@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Helios rift A</title>
+<style>
+html,body{margin:0;height:100%;background:#000;color:#ddd;font:12px/1.4 system-ui,sans-serif}
+#view{position:fixed;inset:0}#view canvas{width:100%!important;height:100%!important}
+#bar{position:fixed;left:8px;top:8px;display:flex;gap:6px;z-index:2}
+#bar button{font:inherit;color:#ddd;background:#1d2327;border:1px solid #2c353b;border-radius:4px;padding:3px 8px;cursor:pointer}
+#status{position:fixed;left:8px;bottom:6px;font:11px ui-monospace,monospace;text-shadow:0 1px 2px #000;pointer-events:none}
+body.capture #bar,body.capture #status{display:none}
+</style>
+</head>
+<body>
+<div id="view"></div>
+<div id="bar"><b style="color:#d47740;padding:3px">RIFT A · ice rift canyon</b><button data-view="game">gameplay</button><button data-view="close">close-up</button><button data-view="hero">hero</button></div>
+<div id="status">loading…</div>
+<script>if (new URLSearchParams(location.search).has("capture")) document.body.classList.add("capture");</script>
+<script type="module" src="./src/rifts/a/main.js"></script>
+</body>
+</html>

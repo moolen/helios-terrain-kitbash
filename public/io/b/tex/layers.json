@@ -1,0 +1,135 @@
+{
+ "res": 1024,
+ "layers": [
+  {
+   "name": "basalt",
+   "credit": "Io kit 'basalt-cinder-ground' (CC0 1.0 Universal; Terrain Red 01 by Rob Tuytel, Poly Haven (polyhaven.com), CC0)",
+   "tile": 2.0,
+   "albedoMean": [
+    0.314,
+    0.254,
+    0.212
+   ]
+  },
+  {
+   "name": "tephra",
+   "credit": "Io kit 'basalt-old-weathered' (CC0 1.0 Universal; Dark Rock by Amal Kumar, Poly Haven (polyhaven.com), CC0)",
+   "tile": 2.42,
+   "albedoMean": [
+    0.352,
+    0.313,
+    0.275
+   ]
+  },
+  {
+   "name": "cliff",
+   "credit": "Io kit 'basalt-cliff' (CC0 1.0 Universal; Dark Rock 02 by Amal Kumar, Poly Haven (polyhaven.com), CC0)",
+   "tile": 2.0,
+   "albedoMean": [
+    0.329,
+    0.296,
+    0.261
+   ]
+  },
+  {
+   "name": "fresh",
+   "credit": "Io kit 'basalt-pahoehoe-fresh' (CC BY 4.0; \"Lava field from Mauna Ulu - Kilauea, Hawaii\" by Tom (trbaker, https://sketchfab.com/trbaker), CC BY 4.0)",
+   "tile": 3.6,
+   "albedoMean": [
+    0.247,
+    0.249,
+    0.254
+   ]
+  },
+  {
+   "name": "aa",
+   "credit": "Io kit 'basalt-aa-clinker' (CC0 1.0 Universal; Rock031 from ambientCG.com, CC0 1.0)",
+   "tile": 2.0,
+   "albedoMean": [
+    0.216,
+    0.211,
+    0.197
+   ]
+  },
+  {
+   "name": "crust",
+   "credit": "Io kit 'lava-crust-hot' (CC0 1.0 Universal; Lava001 from ambientCG.com, CC0 1.0)",
+   "tile": 3.0,
+   "albedoMean": [
+    0.254,
+    0.201,
+    0.213
+   ]
+  },
+  {
+   "name": "sulfur",
+   "credit": "Io kit 'dallol-sulfur-yellow' (CC BY-NC 4.0; Grunwald, O.; Delage, E.; van Wyk de Vries, B. Topographic 3D model: Dallol domes - Dataset. OPGC / LMV, Universite Clermont Auvergne. https://doi.org/10.25519/TXZC-1724)",
+   "tile": 32.0,
+   "albedoMean": [
+    0.802,
+    0.705,
+    0.085
+   ]
+  },
+  {
+   "name": "redcrust",
+   "credit": "Io kit 'dallol-iron-red' (CC BY-NC 4.0; Grunwald, O.; Delage, E.; van Wyk de Vries, B. Topographic 3D model: Dallol domes - Dataset. OPGC / LMV, Universite Clermont Auvergne. https://doi.org/10.25519/TXZC-1724)",
+   "tile": 28.0,
+   "albedoMean": [
+    0.6,
+    0.444,
+    0.347
+   ]
+  },
+  {
+   "name": "salt",
+   "credit": "Io kit 'dallol-salt-white' (CC BY-NC 4.0; Grunwald, O.; Delage, E.; van Wyk de Vries, B. Topographic 3D model: Dallol domes - Dataset. OPGC / LMV, Universite Clermont Auvergne. https://doi.org/10.25519/TXZC-1724)",
+   "tile": 30.0,
+   "albedoMean": [
+    0.793,
+    0.741,
+    0.625
+   ]
+  },
+  {
+   "name": "iron",
+   "credit": "Io kit 'dallol-mixed-ochre' (CC BY-NC 4.0; Grunwald, O.; Delage, E.; van Wyk de Vries, B. Topographic 3D model: Dallol domes - Dataset. OPGC / LMV, Universite Clermont Auvergne. https://doi.org/10.25519/TXZC-1724)",
+   "tile": 30.0,
+   "albedoMean": [
+    0.697,
+    0.659,
+    0.428
+   ]
+  },
+  {
+   "name": "darkrock",
+   "credit": "Poly Haven dark_rock (CC0)",
+   "tile": 7.0,
+   "albedoMean": [
+    0.13,
+    0.111,
+    0.092
+   ]
+  },
+  {
+   "name": "green",
+   "credit": "Io kit 'dallol-green-crust' (CC BY-NC 4.0; Grunwald, O.; Delage, E.; van Wyk de Vries, B. Topographic 3D model: Dallol domes - Dataset. OPGC / LMV, Universite Clermont Auvergne. https://doi.org/10.25519/TXZC-1724)",
+   "tile": 20.0,
+   "albedoMean": [
+    0.886,
+    0.919,
+    0.649
+   ]
+  },
+  {
+   "name": "terrace",
+   "credit": "Io kit 'dallol-terrace-pools' (CC BY-NC 4.0; Grunwald, O.; Delage, E.; van Wyk de Vries, B. Topographic 3D model: Dallol domes - Dataset. OPGC / LMV, Universite Clermont Auvergne. https://doi.org/10.25519/TXZC-1724)",
+   "tile": 18.0,
+   "albedoMean": [
+    0.577,
+    0.484,
+    0.282
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Mt Tarawera 1886 fissure chasm, New Zealand (LINZ/BOPLASS lidar DEM, 1 m averaged to 2 m)",
+  "source": "LINZ nz-elevation bay-of-plenty_2019-2022 dem_1m (EPSG:2193), averaged to 2 m",
+  "crs": "EPSG:2193",
+  "bounds": {
+    "xmin": 1903500.0,
+    "ymin": 5759500.0,
+    "xmax": 1911500.0,
+    "ymax": 5766000.0
+  },
+  "bounds_lonlat": {
+    "west": 176.46589243285848,
+    "south": -38.26129694341011,
+    "east": 176.55994235533112,
+    "north": -38.20009187995551
+  },
+  "width_px": 4000,
+  "height_px": 3250,
+  "metres_per_pixel": 2.0,
+  "extent_m": [
+    8000.0,
+    6500.0
+  ],
+  "min_elev_m": 313.5535583496094,
+  "max_elev_m": 1109.6253662109375,
+  "relief_m": 796.0718078613281,
+  "nodata_fraction": 0.0,
+  "encoding": "16-bit greyscale PNG, 0 = min_elev_m, 65535 = max_elev_m (linear)",
+  "oblique_vertical_exaggeration": 1.5
+}

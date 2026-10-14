@@ -1,0 +1,30 @@
+{
+  "title": "Big Obsidian Flow, Newberry Volcano, Oregon (USGS 3DEP lidar, 1 m)",
+  "source": "USGS 3DEP OPR DEM, project OR_Western_D23 (lidar), resampled 0.5 m -> 1 m",
+  "crs": "EPSG:26910",
+  "bounds": {
+    "xmin": 641097.1226452802,
+    "ymin": 4838126.590612314,
+    "xmax": 643497.1226452802,
+    "ymax": 4840926.590612314
+  },
+  "bounds_lonlat": {
+    "west": -121.24943003048026,
+    "south": 43.6822908274936,
+    "east": -121.2189217704399,
+    "north": 43.70795002026278
+  },
+  "width_px": 2400,
+  "height_px": 2800,
+  "metres_per_pixel": 1.0,
+  "extent_m": [
+    2400.0,
+    2800.0
+  ],
+  "min_elev_m": 1931.478759765625,
+  "max_elev_m": 2324.89501953125,
+  "relief_m": 393.416259765625,
+  "nodata_fraction": 0.0,
+  "encoding": "16-bit greyscale PNG, 0 = min_elev_m, 65535 = max_elev_m (linear)",
+  "oblique_vertical_exaggeration": 2.0
+}

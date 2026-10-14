@@ -1,0 +1,34 @@
+{
+  "sourceUrl": "https://hirise-pds.lpl.arizona.edu/PDS/DTM/PSP/ORB_009200_009299/PSP_009280_1905_PSP_009557_1905/DTEEC_009280_1905_009557_1905_A01.IMG",
+  "crs": "PROJCS[\"EQUIRECTANGULAR MARS\",GEOGCS[\"GCS_MARS\",DATUM[\"D_MARS\",SPHEROID[\"MARS_localRadius\",3395582.0270805,0]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Equirectangular\"],PARAMETER[\"standard_parallel_1\",10],PARAMETER[\"central_meridian\",156.95],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "cropBounds": {
+    "left": -3096.0348767342266,
+    "bottom": 607283.9043911138,
+    "right": 2970.656586494173,
+    "top": 614260.5995738264
+  },
+  "cropPixelsNative": [
+    6000,
+    6900
+  ],
+  "nativeMetresPerPixel": [
+    1.0111152438714,
+    1.0111152438714
+  ],
+  "heightmapPixels": [
+    1781,
+    2048
+  ],
+  "metresPerPixel": [
+    3.406589444683916,
+    3.406589444683916
+  ],
+  "minElevationM": -3174.16845703125,
+  "maxElevationM": -2528.51171875,
+  "reliefM": 645.65673828125,
+  "encoding": "uint16 0..65535 = minElevationM..maxElevationM (linear)",
+  "nodataFraction": 0.16459152173913044,
+  "nodataFill": "nearest valid neighbour",
+  "hillshade": "gdaldem hillshade -multidirectional -z 1.0",
+  "note": "HiRISE DTM DTEEC_009280_1905_009557_1905_A01 (1 m), window srcwin 800 4000 6000 6900. Two parallel Cerberus Fossae troughs (graben/fissures) at the head of Athabasca Valles, with stepped, layered walls."
+}

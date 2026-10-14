@@ -1,0 +1,154 @@
+{
+ "res": 1024,
+ "layers": [
+  {
+   "name": "regolith",
+   "kit": "mars-dusty-regolith",
+   "credit": "Mars kit 'mars-dusty-regolith' (CC0 1.0; red_sand by Rohit Seervi, Poly Haven (polyhaven.com), CC0)",
+   "tile": 3.0,
+   "albedoMean": [
+    0.515,
+    0.38,
+    0.275
+   ]
+  },
+  {
+   "name": "dustrock",
+   "kit": "mars-dust-mantled-bedrock",
+   "credit": "Mars kit 'mars-dust-mantled-bedrock' (CC0 1.0; dark_rock by Amal Kumar, Poly Haven (polyhaven.com), CC0)",
+   "tile": 2.42,
+   "albedoMean": [
+    0.534,
+    0.384,
+    0.277
+   ]
+  },
+  {
+   "name": "basaltcliff",
+   "kit": "mars-layered-basalt-cliff",
+   "credit": "Mars kit 'mars-layered-basalt-cliff' (CC0 1.0; dark_rock_02 by Amal Kumar, Poly Haven (polyhaven.com), CC0)",
+   "tile": 2.0,
+   "albedoMean": [
+    0.382,
+    0.304,
+    0.247
+   ]
+  },
+  {
+   "name": "dustycliff",
+   "kit": "mars-layered-sedimentary-cliff",
+   "credit": "Mars kit 'mars-layered-sedimentary-cliff' (CC0 1.0; cliff_side by James Ray Cock, Dario Barresi and Jenelle van Heerden, Poly Haven (polyhaven.com), CC0)",
+   "tile": 1.83,
+   "albedoMean": [
+    0.629,
+    0.459,
+    0.33
+   ]
+  },
+  {
+   "name": "pebbly",
+   "kit": "mars-pebbly-soil",
+   "credit": "Mars kit 'mars-pebbly-soil' (CC0 1.0; dry_ground_rocks by Rob Tuytel, Poly Haven (polyhaven.com), CC0)",
+   "tile": 4.0,
+   "albedoMean": [
+    0.483,
+    0.358,
+    0.257
+   ]
+  },
+  {
+   "name": "sand",
+   "kit": "mars-basaltic-sand",
+   "credit": "Mars kit 'mars-basaltic-sand' (CC0 1.0; coast_sand_05 by Rob Tuytel and Dario Barresi, Poly Haven (polyhaven.com), CC0)",
+   "tile": 25.0,
+   "albedoMean": [
+    0.352,
+    0.244,
+    0.147
+   ]
+  },
+  {
+   "name": "windripples",
+   "kit": "mars-wind-ripples",
+   "credit": "Mars kit 'mars-wind-ripples' (CC0 1.0; aerial_beach_01 by Rob Tuytel, Poly Haven (polyhaven.com), CC0)",
+   "tile": 30.0,
+   "albedoMean": [
+    0.585,
+    0.398,
+    0.252
+   ]
+  },
+  {
+   "name": "lightbedrock",
+   "kit": "mars-light-toned-bedrock",
+   "credit": "Mars kit 'mars-light-toned-bedrock' (CC0 1.0; rock_boulder_cracked by Dimitrios Savva and Dario Barresi, Poly Haven (polyhaven.com), CC0)",
+   "tile": 1.39,
+   "albedoMean": [
+    0.692,
+    0.509,
+    0.371
+   ]
+  },
+  {
+   "name": "blacklava",
+   "kit": "mars-olympus-black-lava",
+   "credit": "Mars kit 'mars-olympus-black-lava' (CC BY 4.0; \"Lava field from Mauna Ulu - Kilauea, Hawaii\" by Tom (trbaker, https://sketchfab.com/trbaker), CC BY 4.0; tileable set from the Io kit (basalt-pahoehoe-fresh))",
+   "tile": 3.6,
+   "albedoMean": [
+    0.225,
+    0.181,
+    0.148
+   ]
+  },
+  {
+   "name": "cracked",
+   "kit": "mars-polygon-cracked-ground",
+   "credit": "Mars kit 'mars-polygon-cracked-ground' (CC0 1.0; mud_cracked_dry_03 by Dario Barresi and Dimitrios Savva, Poly Haven (polyhaven.com), CC0)",
+   "tile": 1.5,
+   "albedoMean": [
+    0.526,
+    0.381,
+    0.272
+   ]
+  },
+  {
+   "name": "ripples",
+   "kit": "jz:mars-tex-ripples-acg",
+   "credit": "mars-tex-ripples-acg (mars-jezero-kit candidate, ambientcg, CC0; regraded to #9c6943)",
+   "tile": 2.0,
+   "albedoMean": [
+    0.62,
+    0.407,
+    0.26
+   ]
+  }
+ ],
+ "unusedInteriorPacking": {
+  "slots": [
+   3,
+   6
+  ],
+  "borderPixels": 16,
+  "activePixelsExact": true,
+  "files": [
+   {
+    "file": "albedo.jpg",
+    "beforeBytes": 3269667,
+    "afterBytes": 2554451,
+    "activeRGBSHA256": "bbe9c286e4ced21bc549ea2d2a4f4ee978532ccac2f0d4eff03458bc537684d4"
+   },
+   {
+    "file": "normal.jpg",
+    "beforeBytes": 5283243,
+    "afterBytes": 4157707,
+    "activeRGBSHA256": "1de452a852b89ae2df41e851623eb3c88f0341160681b21fb0d65f8c5a929a1b"
+   },
+   {
+    "file": "rgh.jpg",
+    "beforeBytes": 2409199,
+    "afterBytes": 1886917,
+    "activeRGBSHA256": "c08de1c3200653730fb67cc8524bd2804f507bdb7005476dd9d38200c7079db3"
+   }
+  ]
+ }
+}

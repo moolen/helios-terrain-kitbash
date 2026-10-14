@@ -1,0 +1,40 @@
+{
+  "regionId": "moon.marius_hills",
+  "product": "LRO LOLA global DEM, 118 m/px (Lunar_LOLA_118m.tif; NASA GSFC LOLA team / USGS Astrogeology, public domain)",
+  "sourceBytes": 8494203833,
+  "anchorLatitudeDeg": 14.05,
+  "anchorLongitudeDeg": 303.2,
+  "sourceCatalogCoordinate": [
+    14.0,
+    303.0
+  ],
+  "anchorReason": "Marius Hills pit (14.091N 303.223E) in a sinuous rille among low domes; source anchor 6 km WSW",
+  "projection": "+proj=aeqd +lat_0=14.05 +lon_0=303.2 +R=1737400 (x east, z south = -northing)",
+  "levels": [
+    {
+      "spacingMetres": 62.5,
+      "size": 384,
+      "halfExtentMetres": 12000.0,
+      "resampling": "cubic"
+    },
+    {
+      "spacingMetres": 125.0,
+      "size": 384,
+      "halfExtentMetres": 24000.0,
+      "resampling": "average"
+    },
+    {
+      "spacingMetres": 500.0,
+      "size": 256,
+      "halfExtentMetres": 64000.0,
+      "resampling": "average"
+    }
+  ],
+  "units": "int16 LOLA DN, 0.5 m per unit above the 1,737.4 km sphere",
+  "datumDn": -3113,
+  "datumMetres": -1556.5,
+  "sha256Uncompressed": "305cd0ee8183c25a79f5ed9cdd507a075a1dbe939b729387fc2a68786ba6a0a1",
+  "use": "Measured large-scale base of the deterministic region generator (core/Game/Region); gameplay landforms, deposits, flags and detail are authored on top in C#.",
+  "sourceUrl": "https://astrogeology.usgs.gov/search/map/moon_lro_lola_dem_118m",
+  "presentation": "Interactive browser view shows only the preserved measured base. Native render gallery includes authored game geometry and photographic detail."
+}

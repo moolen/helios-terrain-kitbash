@@ -1,0 +1,236 @@
+[
+ {
+  "file": "photo-M144395745L-zoom.jpg",
+  "name": "M144395745L-zoom",
+  "title": "LROC NAC M144395745L (~280 m pit zoom), emission 50.51 deg, incidence 47.91 deg, 0.81 m/px",
+  "note": "THE famous oblique: spacecraft slewed so emission is 50.5 deg, incidence 47.9 deg (Nov 2010). Looks into the pit at the sunlit wall and shows the stacked layers of mare basalt flows (layer bands of a few metres) and the overhang lip. Raw camera geometry: the wall is foreshortened. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M144395745LE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1005/EXTRAS/BROWSE/2010318/M144395745LC_pyr.tif",
+  "srcwin": [
+   3610,
+   47430,
+   700,
+   1460
+  ],
+  "date": "(DOY:318) 2010-11-14T17:41:17"
+ },
+ {
+  "file": "photo-M144395745L-wide.jpg",
+  "name": "M144395745L-wide",
+  "title": "LROC NAC M144395745L (~800 m context), emission 50.51 deg, incidence 47.91 deg, 0.81 m/px",
+  "note": "THE famous oblique: spacecraft slewed so emission is 50.5 deg, incidence 47.9 deg (Nov 2010). Looks into the pit at the sunlit wall and shows the stacked layers of mare basalt flows (layer bands of a few metres) and the overhang lip. Raw camera geometry: the wall is foreshortened. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M144395745LE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1005/EXTRAS/BROWSE/2010318/M144395745LC_pyr.tif",
+  "srcwin": [
+   3610,
+   47430,
+   700,
+   1460
+  ],
+  "date": "(DOY:318) 2010-11-14T17:41:17"
+ },
+ {
+  "file": "photo-M175057326R-zoom.jpg",
+  "name": "M175057326R-zoom",
+  "title": "LROC NAC M175057326R (~280 m pit zoom), emission 29.53 deg, incidence 41.61 deg, 0.43 m/px",
+  "note": "29.5 deg off-nadir, incidence 41.6 deg, 0.43 m (Nov 2011): the sharpest wall view: crisp rim, layered wall, shadow edge. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M175057326RE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1009/EXTRAS/BROWSE/2011308/M175057326RC_pyr.tif",
+  "srcwin": [
+   0,
+   22220,
+   2666,
+   1428
+  ],
+  "date": "(DOY:308) 2011-11-04T14:47:38"
+ },
+ {
+  "file": "photo-M175057326R-wide.jpg",
+  "name": "M175057326R-wide",
+  "title": "LROC NAC M175057326R (~800 m context), emission 29.53 deg, incidence 41.61 deg, 0.43 m/px",
+  "note": "29.5 deg off-nadir, incidence 41.6 deg, 0.43 m (Nov 2011): the sharpest wall view: crisp rim, layered wall, shadow edge. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M175057326RE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1009/EXTRAS/BROWSE/2011308/M175057326RC_pyr.tif",
+  "srcwin": [
+   0,
+   22220,
+   2666,
+   1428
+  ],
+  "date": "(DOY:308) 2011-11-04T14:47:38"
+ },
+ {
+  "file": "photo-M152662021R-zoom.jpg",
+  "name": "M152662021R-zoom",
+  "title": "LROC NAC M152662021R (~280 m pit zoom), emission 26.13 deg, incidence 36.78 deg, 0.51 m/px",
+  "note": "26 deg off-nadir, incidence 36.8 deg (Feb 2011). Sunlit layered wall plus floor boulders; second-best wall view. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M152662021RE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1006/EXTRAS/BROWSE/2011049/M152662021RC_pyr.tif",
+  "srcwin": [
+   1189,
+   22583,
+   1702,
+   1454
+  ],
+  "date": "(DOY:049) 2011-02-18T09:52:34"
+ },
+ {
+  "file": "photo-M152662021R-wide.jpg",
+  "name": "M152662021R-wide",
+  "title": "LROC NAC M152662021R (~800 m context), emission 26.13 deg, incidence 36.78 deg, 0.51 m/px",
+  "note": "26 deg off-nadir, incidence 36.8 deg (Feb 2011). Sunlit layered wall plus floor boulders; second-best wall view. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M152662021RE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1006/EXTRAS/BROWSE/2011049/M152662021RC_pyr.tif",
+  "srcwin": [
+   1189,
+   22583,
+   1702,
+   1454
+  ],
+  "date": "(DOY:049) 2011-02-18T09:52:34"
+ },
+ {
+  "file": "photo-M126710873R-zoom.jpg",
+  "name": "M126710873R-zoom",
+  "title": "LROC NAC M126710873R (~280 m pit zoom), emission 1.13 deg, incidence 26.56 deg, 0.48 m/px",
+  "note": "Nadir, Sun 26.6 deg from zenith (Sept 2010 'New Views of Lunar Pits' image). Boulders on the sunlit floor, west wall lit, east half in shadow. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M126710873RE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1003/EXTRAS/BROWSE/2010114/M126710873RC_pyr.tif",
+  "srcwin": [
+   302,
+   11119,
+   2000,
+   1454
+  ],
+  "date": "(DOY:114) 2010-04-24T01:13:26"
+ },
+ {
+  "file": "photo-M126710873R-wide.jpg",
+  "name": "M126710873R-wide",
+  "title": "LROC NAC M126710873R (~800 m context), emission 1.13 deg, incidence 26.56 deg, 0.48 m/px",
+  "note": "Nadir, Sun 26.6 deg from zenith (Sept 2010 'New Views of Lunar Pits' image). Boulders on the sunlit floor, west wall lit, east half in shadow. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M126710873RE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1003/EXTRAS/BROWSE/2010114/M126710873RC_pyr.tif",
+  "srcwin": [
+   302,
+   11119,
+   2000,
+   1454
+  ],
+  "date": "(DOY:114) 2010-04-24T01:13:26"
+ },
+ {
+  "file": "photo-M155016845R-zoom.jpg",
+  "name": "M155016845R-zoom",
+  "title": "LROC NAC M155016845R (~280 m pit zoom), emission 4.82 deg, incidence 10.58 deg, 0.47 m/px",
+  "note": "Near-nadir with the Sun 10.6 deg from zenith (Mar 2011): the floor is fully lit, showing a flat boulder-strewn floor and the dark rim of the overhang. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M155016845RE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1007/EXTRAS/BROWSE/2011076/M155016845RC_pyr.tif",
+  "srcwin": [
+   2282,
+   24313,
+   2000,
+   1454
+  ],
+  "date": "(DOY:076) 2011-03-17T15:59:38"
+ },
+ {
+  "file": "photo-M155016845R-wide.jpg",
+  "name": "M155016845R-wide",
+  "title": "LROC NAC M155016845R (~800 m context), emission 4.82 deg, incidence 10.58 deg, 0.47 m/px",
+  "note": "Near-nadir with the Sun 10.6 deg from zenith (Mar 2011): the floor is fully lit, showing a flat boulder-strewn floor and the dark rim of the overhang. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M155016845RE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1007/EXTRAS/BROWSE/2011076/M155016845RC_pyr.tif",
+  "srcwin": [
+   2282,
+   24313,
+   2000,
+   1454
+  ],
+  "date": "(DOY:076) 2011-03-17T15:59:38"
+ },
+ {
+  "file": "photo-M155023632R-zoom.jpg",
+  "name": "M155023632R-zoom",
+  "title": "LROC NAC M155023632R (~280 m pit zoom), emission 41.47 deg, incidence 11.3 deg, 0.61 m/px",
+  "note": "41.5 deg off-nadir, Sun 11.3 deg from zenith (Mar 2011): high-Sun oblique, the near floor sits under the overhang and stays dark. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M155023632RE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1007/EXTRAS/BROWSE/2011076/M155023632RC_pyr.tif",
+  "srcwin": [
+   2427,
+   24596,
+   1194,
+   1454
+  ],
+  "date": "(DOY:076) 2011-03-17T17:52:44"
+ },
+ {
+  "file": "photo-M155023632R-wide.jpg",
+  "name": "M155023632R-wide",
+  "title": "LROC NAC M155023632R (~800 m context), emission 41.47 deg, incidence 11.3 deg, 0.61 m/px",
+  "note": "41.5 deg off-nadir, Sun 11.3 deg from zenith (Mar 2011): high-Sun oblique, the near floor sits under the overhang and stays dark. Calibrated CDR, raw camera geometry resampled to ground-scale pixels and flipped to roughly north-up (not orthorectified).",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_lroc/LRO-L-LROC-2-EDR-V1.0/M155023632RE",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-3-CDR-V1.0/LROLRC_1007/EXTRAS/BROWSE/2011076/M155023632RC_pyr.tif",
+  "srcwin": [
+   2427,
+   24596,
+   1194,
+   1454
+  ],
+  "date": "(DOY:076) 2011-03-17T17:52:44"
+ },
+ {
+  "file": "photo-ortho-M137332905_60CM-500m.jpg",
+  "name": "ortho-M137332905_60CM",
+  "title": "LROC NAC DTM orthoimage NAC_DTM_TRANQPIT1_M137332905_60CM (0.6 m), 500 x 500 m, map-registered on the DTM grid",
+  "note": "Orthorectified; the pit interior is masked (no-data, black) because the DTM has no valid heights there.",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_rdr_product/NAC_DTM_TRANQPIT1_M137332905_60CM",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-5-RDR-V1.0/LROLRC_2001/EXTRAS/BROWSE/NAC_DTM/TRANQPIT1/NAC_DTM_TRANQPIT1_M137332905_60CM.TIF"
+ },
+ {
+  "file": "photo-ortho-M152662021_60CM-500m.jpg",
+  "name": "ortho-M152662021_60CM",
+  "title": "LROC NAC DTM orthoimage NAC_DTM_TRANQPIT1_M152662021_60CM (0.6 m), 500 x 500 m, map-registered on the DTM grid",
+  "note": "Orthorectified; the pit interior is masked (no-data, black) because the DTM has no valid heights there.",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_rdr_product/NAC_DTM_TRANQPIT1_M152662021_60CM",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-5-RDR-V1.0/LROLRC_2001/EXTRAS/BROWSE/NAC_DTM/TRANQPIT1/NAC_DTM_TRANQPIT1_M152662021_60CM.TIF"
+ },
+ {
+  "file": "photo-ortho-M155016845_70CM-500m.jpg",
+  "name": "ortho-M155016845_70CM",
+  "title": "LROC NAC DTM orthoimage NAC_DTM_TRANQPIT1_M155016845_70CM (0.7 m), 500 x 500 m, map-registered on the DTM grid",
+  "note": "Orthorectified; the pit interior is masked (no-data, black) because the DTM has no valid heights there.",
+  "credit": "NASA/GSFC/Arizona State University (LROC)",
+  "licence": "Public domain (LROC PDS products; NASA imagery). Credit NASA/GSFC/Arizona State University.",
+  "url": "https://data.lroc.im-ldi.com/lroc/view_rdr_product/NAC_DTM_TRANQPIT1_M155016845_70CM",
+  "downloadUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-5-RDR-V1.0/LROLRC_2001/EXTRAS/BROWSE/NAC_DTM/TRANQPIT1/NAC_DTM_TRANQPIT1_M155016845_70CM.TIF"
+ }
+]

@@ -1,0 +1,76 @@
+{
+ "chunks": [
+  {
+   "name": "chunk_qeq_00",
+   "source": "qeq",
+   "faces": 234,
+   "metres": 6.195578923440913
+  },
+  {
+   "name": "chunk_qeq_01",
+   "source": "qeq",
+   "faces": 138,
+   "metres": 3.8969914679378164
+  },
+  {
+   "name": "chunk_qeq_02",
+   "source": "qeq",
+   "faces": 290,
+   "metres": 3.6391212192620594
+  },
+  {
+   "name": "chunk_qeq_03",
+   "source": "qeq",
+   "faces": 216,
+   "metres": 5.501467891985271
+  },
+  {
+   "name": "chunk_qeq_04",
+   "source": "qeq",
+   "faces": 126,
+   "metres": 6.596401963283099
+  },
+  {
+   "name": "chunk_qeq_05",
+   "source": "qeq",
+   "faces": 230,
+   "metres": 6.780253787283645
+  },
+  {
+   "name": "chunk_qeq_06",
+   "source": "qeq",
+   "faces": 182,
+   "metres": 7.733383411510438
+  },
+  {
+   "name": "chunk_qeq_07",
+   "source": "qeq",
+   "faces": 162,
+   "metres": 4.9814341738634695
+  },
+  {
+   "name": "chunk_qeq_08",
+   "source": "qeq",
+   "faces": 238,
+   "metres": 6.1130685932734785
+  },
+  {
+   "name": "chunk_qeq_09",
+   "source": "qeq",
+   "faces": 140,
+   "metres": 4.33217214082925
+  },
+  {
+   "name": "chunk_qeq_10",
+   "source": "qeq",
+   "faces": 120,
+   "metres": 6.198719193300781
+  },
+  {
+   "name": "chunk_qeq_11",
+   "source": "qeq",
+   "faces": 164,
+   "metres": 3.7418485397876298
+  }
+ ]
+}

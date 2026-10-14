@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Helios Io C · Krafla plume field</title>
+<style>
+html,body{margin:0;height:100%;background:#000;color:#ddd;font:12px/1.4 system-ui,sans-serif;overflow:hidden}
+#view{position:fixed;inset:0}#view canvas{width:100%!important;height:100%!important;display:block}
+#bar{position:fixed;left:8px;top:8px;display:flex;flex-wrap:wrap;gap:5px;z-index:2;max-width:70vw}
+#bar b{color:#e8a040;padding:3px 4px}
+button{font:inherit;color:#ddd;background:#1d2327cc;border:1px solid #2c353b;border-radius:4px;padding:3px 8px;cursor:pointer}
+button.on{background:#5a3a18;border-color:#a8682a}
+#panel{position:fixed;right:8px;top:8px;width:230px;background:#11161acc;border:1px solid #2c353b;border-radius:6px;padding:8px;z-index:2;max-height:92vh;overflow:auto}
+#panel label{display:flex;align-items:center;gap:6px;margin:2px 0}
+#panel input[type=range]{flex:1}
+#panel h4{margin:8px 0 3px;color:#e8a040;font-size:11px;text-transform:uppercase;letter-spacing:.05em}
+#panel select{font:inherit;background:#1d2327;color:#ddd;border:1px solid #2c353b}
+#status{position:fixed;left:8px;bottom:6px;font:11px ui-monospace,monospace;text-shadow:0 1px 2px #000;pointer-events:none;white-space:pre}
+#help{position:fixed;left:8px;bottom:22px;font:11px system-ui;color:#999;pointer-events:none}
+body.capture #bar,body.capture #status,body.capture #panel,body.capture #help{display:none}
+</style>
+</head>
+<body>
+<div id="view"></div>
+<div id="bar"><b>IO C · Krafla plume field</b></div>
+<div id="panel"></div>
+<div id="help">drag orbit · right-drag pan · wheel zoom · WASD/QE fly (shift fast)</div>
+<div id="status">loading…</div>
+<script>if (new URLSearchParams(location.search).has("capture")) document.body.classList.add("capture");</script>
+<script type="module" src="./src/io/c/main.js"></script>
+</body>
+</html>

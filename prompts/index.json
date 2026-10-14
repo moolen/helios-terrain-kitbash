@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Rift scene A: ice canyon",
+    "file": "01-rift-scene-a-ice-canyon.md"
+  },
+  {
+    "title": "Rift scene B: fault scarp",
+    "file": "02-rift-scene-b-fault-scarp.md"
+  },
+  {
+    "title": "Rift scene C: graben field",
+    "file": "03-rift-scene-c-graben-field.md"
+  },
+  {
+    "title": "Iceland lava/caldera scan research",
+    "file": "04-iceland-lava-caldera-scan-research.md"
+  },
+  {
+    "title": "Io map A: Kilauea patera prototype",
+    "file": "05-io-map-a-kilauea-patera-prototype.md"
+  },
+  {
+    "title": "Io asset kit: Dallol, basalt, rocks",
+    "file": "06-io-asset-kit-dallol-basalt-rocks.md"
+  },
+  {
+    "title": "Io map B: Tarawera fissure (Tvashtar)",
+    "file": "07-io-map-b-tarawera-fissure-tvashtar.md"
+  },
+  {
+    "title": "Io map C: Krafla plume field (Pele)",
+    "file": "08-io-map-c-krafla-plume-field-pele.md"
+  },
+  {
+    "title": "Prototype: Mare Tranquillitatis",
+    "file": "09-prototype-mare-tranquillitatis.md"
+  },
+  {
+    "title": "Prototype: Cerberus Fossae (Mars)",
+    "file": "10-prototype-cerberus-fossae-mars.md"
+  },
+  {
+    "title": "Io research and scan-built workflow",
+    "file": "11-io-research-and-scan-built-workflow.md"
+  },
+  {
+    "title": "Moon and Mars landmark selection",
+    "file": "12-moon-and-mars-landmark-selection.md"
+  },
+  {
+    "title": "Io scene A brief",
+    "file": "13-io-scene-a-brief.md"
+  },
+  {
+    "title": "Io scenes B/C brief",
+    "file": "14-io-scenes-b-c-brief.md"
+  },
+  {
+    "title": "Europa rift scene brief",
+    "file": "15-europa-rift-scene-brief.md"
+  },
+  {
+    "title": "Moon/Mars scan brief",
+    "file": "16-moon-mars-scan-brief.md"
+  },
+  {
+    "title": "Moon native review: domes, rille and polar ridges",
+    "file": "17-moon-native-composition-review.md"
+  },
+  {
+    "title": "Moon photographic texture adoption",
+    "file": "18-moon-photographic-texture-brief.md"
+  },
+  {
+    "title": "Moon scanned-rock adoption",
+    "file": "19-moon-scanned-rock-brief.md"
+  }
+]

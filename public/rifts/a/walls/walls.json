@@ -1,0 +1,96 @@
+{
+ "source": "2023_06_20_17_16_17_31_win_HB1_TLS.las",
+ "cell": 0.5,
+ "frontSlope": -0.04756326459420291,
+ "water": -11.6,
+ "modules": [
+  {
+   "name": "wall_00",
+   "u0": 20,
+   "span": 72.0,
+   "height": 42.000003814697266,
+   "back": -15.0,
+   "coverage": 0.898,
+   "fullFaces": 23302,
+   "faces": 2600,
+   "verts": 1302
+  },
+  {
+   "name": "wall_01",
+   "u0": 95,
+   "span": 72.0,
+   "height": 42.00168991088867,
+   "back": -15.0,
+   "coverage": 0.898,
+   "fullFaces": 22964,
+   "faces": 2600,
+   "verts": 1302
+  },
+  {
+   "name": "wall_02",
+   "u0": 170,
+   "span": 72.0,
+   "height": 39.0000114440918,
+   "back": -15.0,
+   "coverage": 0.89,
+   "fullFaces": 20056,
+   "faces": 2600,
+   "verts": 1302
+  },
+  {
+   "name": "wall_03",
+   "u0": 250,
+   "span": 72.0,
+   "height": 30.5,
+   "back": -15.0,
+   "coverage": 0.872,
+   "fullFaces": 15706,
+   "faces": 2600,
+   "verts": 1302
+  },
+  {
+   "name": "wall_04",
+   "u0": 330,
+   "span": 72.0,
+   "height": 25.500003814697266,
+   "back": -15.0,
+   "coverage": 0.851,
+   "fullFaces": 12710,
+   "faces": 2600,
+   "verts": 1302
+  },
+  {
+   "name": "wall_05",
+   "u0": 410,
+   "span": 72.0,
+   "height": 29.0,
+   "back": -15.0,
+   "coverage": 0.856,
+   "fullFaces": 13632,
+   "faces": 2600,
+   "verts": 1302
+  },
+  {
+   "name": "wall_06",
+   "u0": 490,
+   "span": 72.0,
+   "height": 37.000003814697266,
+   "back": -15.0,
+   "coverage": 0.885,
+   "fullFaces": 18948,
+   "faces": 2600,
+   "verts": 1302
+  },
+  {
+   "name": "wall_07",
+   "u0": 570,
+   "span": 72.0,
+   "height": 39.5,
+   "back": -15.0,
+   "coverage": 0.883,
+   "fullFaces": 19624,
+   "faces": 2600,
+   "verts": 1302
+  }
+ ]
+}

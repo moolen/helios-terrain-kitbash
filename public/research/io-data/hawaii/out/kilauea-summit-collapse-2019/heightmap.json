@@ -1,0 +1,35 @@
+{
+  "source": "USGS 3DEP lidar point cloud HI_Volcano_B1_2019 (July 2019 airborne lidar of Kilauea, same survey as Mosbrucker, Zoeller & Ramsey 2020, doi:10.5066/P9F1ZU8O), read from the public Entwine Point Tile at s3://usgs-lidar-public/HI_Volcano_B1_2019 (EPT depth <= 9), ground class 2 gridded to 1 m mean Z, gaps filled by inverse-distance (rasterio fillnodata, 40 px)",
+  "despikeClampM": [
+    519.3155516540527,
+    1245.3165283264161
+  ],
+  "crs": "EPSG:6635",
+  "epsg": 6635,
+  "bounds": {
+    "left": 258500.0,
+    "bottom": 2145400.0,
+    "right": 262700.0,
+    "top": 2149600.0
+  },
+  "widthM": 4200.0,
+  "heightM": 4200.0,
+  "nativeResolutionM": [
+    1.0,
+    1.0
+  ],
+  "heightmapPx": [
+    2048,
+    2048
+  ],
+  "metresPerPixel": 2.05078125,
+  "minElevationM": 519.3155517578125,
+  "maxElevationM": 1245.3165283203125,
+  "encoding": "uint16 grey, 0 = minElevationM, 65535 = maxElevationM, linear",
+  "hillshadeAndReliefMetresPerPixel": 4.1015625,
+  "reliefStretchM": [
+    636.7520599365234,
+    1235.2304382324219
+  ],
+  "obliqueVerticalExaggeration": 1.5
+}

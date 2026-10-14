@@ -1,0 +1,44 @@
+{
+  "region": "moon.shackleton_ridge",
+  "view": "close",
+  "terrain": {
+    "ShownTriangles": 489992,
+    "ResidentTriangles": 492872,
+    "ShownChunks": 492,
+    "ChunksPerLod": [
+      7,
+      8,
+      129,
+      348,
+      0,
+      0,
+      0
+    ],
+    "Builds": 507,
+    "BuildMs": 188321.1401,
+    "SunUpdates": 1,
+    "LastSunUpdateMs": 15.4566,
+    "DrawnHeightsMs": 0.0302
+  },
+  "rocks": {
+    "triangles": 126536,
+    "instances": 1413,
+    "foundationsClear": true
+  },
+  "camera": {
+    "yaw": 292,
+    "pitch": 28,
+    "distance": 220,
+    "focus": "(4390.625, 496.9474, 1703.125)",
+    "eye": "(4570.729, 600.23114, 1775.8917)"
+  },
+  "sun": {
+    "AzimuthDeg": 53.920956086550746,
+    "ElevationDeg": 2.0007739199349865,
+    "Direction": {}
+  },
+  "mapHash": "DF8D852E1FAF21465558DE444D072A5A9DA75643DDA8EB8AF2482BD5C5B97608",
+  "productionDefaults": true,
+  "captureStage": "Textured native Moon terrain / round 18 production",
+  "sha256Image": "68f9183f90ff06a77821cae4fa233e1c13d98ba3e21d9597974dc1b6b2f04ce2"
+}

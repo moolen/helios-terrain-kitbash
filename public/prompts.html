@@ -1,0 +1,622 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Scan-built planetary terrain: real elevation data, terrestrial analogues, Claude-assisted code and screenshot review."><title>Recovered prompts · Helios terrain</title><link rel="stylesheet" href="site.css"></head><body><nav><a class="brand" href="index.html">HELIOS / TERRAIN STUDIES</a><a href="index.html#maps">Live maps</a><a href="process.html">Process</a><a href="reviews/index.html">Reviews</a><a href="prompts.html">Prompts</a><a href="credits.html">Credits</a></nav><main><div class="prose"><div class="eyebrow">From local Claude session history</div><h1>The briefs behind the maps.</h1><p>Selected original prompts and the referenced briefs that supplied their context. Local paths and private preview addresses are replaced. These are instructions for research, data processing and scene code, not image-generation prompts.</p><div class="note">Dataset access, source assets and repeated screenshot feedback were essential. These prompts document the process; they are not a one-shot recipe that reproduces the final maps.</div><details><summary>Rift scene A: ice canyon</summary><a href="prompt-files/01-rift-scene-a-ice-canyon.md" download>Download original excerpt (.md)</a><pre># Rift scene A: ice canyon
+
+You are building scene A (&quot;ice rift canyon&quot;) of a three.js terrain proof of concept for the Helios space-colony game. Read the brief first: [path removed] It has the sources, look, camera, conventions, resource limits, and the iteration budget. Follow it exactly.
+
+Your worktree: [path removed] (branch rifts/a, already created, node_modules symlinked). Your scene letter is &quot;a&quot;, dev-server port [removed], raw data folder [path removed] Two other agents are building scenes B and C in sibling worktrees at the same time. Don&#x27;t touch their folders or the shared files in [path removed] Use `flock [path removed]` for heavy steps.
+
+Goal: a reviewable page `rift-a.html`. It shows a Charon-style branching ice rift at game scale (1–3 km map). The walls are built from real laser-scanned glacier ice: Hornsund TLS, plus Zenodo iceberg OBJ meshes as a secondary source. The scans are processed into stylized faceted wall modules, with broken ice slabs and blocks scattered on the floor and talus, in a Europa palette. Make sure it reads well at the gameplay camera, and at the close-up and hero cameras.
+
+You have up to ~15 iterations, each one being: change → capture → look at the captures yourself → log. Then write [path removed], commit everything (code, small processed assets, docs, CREDITS.md) on rifts/a, and stop.
+
+Your final message to me must contain:
+- the paths of the 3 best final captures
+- what is scan-derived and what is procedural
+- the pipeline used
+- any source problems
+- the commit hash
+</pre></details><details><summary>Rift scene B: fault scarp</summary><a href="prompt-files/02-rift-scene-b-fault-scarp.md" download>Download original excerpt (.md)</a><pre># Rift scene B: fault scarp
+
+You are building scene B, &quot;fault scarp + chaos edge&quot;, of a three.js terrain proof of concept for the Helios space-colony game. Read the brief first: [path removed] It has the sources, look, camera, conventions, resource limits and iteration budget. Follow it exactly.
+
+Your worktree is [path removed], on branch rifts/b. It already exists and has node_modules symlinked. Your scene letter is &quot;b&quot;, your dev-server port is 5312, and your raw data folder is [path removed] The Europa DTMs are already in [path removed]
+
+Two other agents are building scenes A and C in sibling worktrees at the same time. Don&#x27;t touch their folders, and don&#x27;t touch the shared files in [path removed] Use `flock [path removed]` for heavy steps.
+
+Goal: a reviewable page, `rift-b.html`, at game scale (a 1–3 km map). It shows a raised Conamara-like ice plateau whose layout and block heights come from the real Europa DTMs, with procedural detail on top. The plateau ends in a jointed, blocky fault scarp, 100–250 m tall:
+- Build the scarp from real CC0 rock scans: the San Gabriel cliff LAZ, and Poly Haven rock_face / namaqualand_cliff.
+- Process the scans into stylized faceted wall modules re-materialled as Europa ice.
+- Add toppled blocks, a talus skirt and Poly Haven CC0 rock scatter.
+
+It must read well at the gameplay camera, and at the close-up and hero cameras.
+
+You have up to ~15 iterations. Each iteration is change, capture, look at the captures yourself, log. Then write [path removed] and commit everything on rifts/b: code, small processed assets, docs and CREDITS.md. Then stop.
+
+Your final message to me must contain:
+- the paths of the 3 best final captures
+- what is scan-derived and what is procedural
+- the pipeline you used
+- any source problems
+- the commit hash
+</pre></details><details><summary>Rift scene C: graben field</summary><a href="prompt-files/03-rift-scene-c-graben-field.md" download>Download original excerpt (.md)</a><pre># Rift scene C: graben field
+
+You are building scene C (&quot;graben + fissure field&quot;) of a three.js terrain proof of concept for the Helios space-colony game. Read the brief first: [path removed] It covers sources, look, camera, conventions, resource limits and the iteration budget. Follow it exactly.
+
+**Setup**
+- Worktree: [path removed], branch rifts/c. It is already created, with node_modules symlinked.
+- Scene letter &quot;c&quot;, dev-server port [removed], raw data folder [path removed]
+- Two other agents are building scenes A and B in sibling worktrees at the same time. Don&#x27;t touch their folders or the shared files in [path removed]
+- Use `flock [path removed]` for heavy steps.
+
+**Goal:** a reviewable page `rift-c.html` showing a stepped Europa graben at game scale (1–3 km map):
+- Parallel normal faults drop a floor block between them, with open fissures across the surrounding plain.
+- Take the layout from a Canyonlands Needles lidar subset if obtainable. Otherwise build it procedurally from real graben geometry, and say which you did.
+- Build the walls from the Zion Cable Mountain UAV LAZ (a tall wall with a scar and talus). Process the scans into stylized faceted wall modules, re-textured as Europa ice.
+- Scatter Poly Haven CC0 boulders and ice blocks.
+- Keep gameplay readability in mind: passable floor, ramps where fault relays connect, chokepoints.
+- It must read well at the gameplay camera, and at the close-up and hero cameras.
+
+**Iterations:** up to ~15. Each iteration: change → capture → look at the captures yourself → log. Then write [path removed], commit everything (code, small processed assets, docs, CREDITS.md) on rifts/c, and stop.
+
+**Final message to me** must contain:
+- paths of the 3 best final captures
+- what is scan-derived vs procedural
+- the pipeline used
+- any source problems
+- the commit hash
+</pre></details><details><summary>Iceland lava/caldera scan research</summary><a href="prompt-files/04-iceland-lava-caldera-scan-research.md" download>Download original excerpt (.md)</a><pre># Iceland lava/caldera scan research
+
+Read [path removed] first and follow it exactly. Your topic is `iceland`, and your directory is [path removed]
+
+Scope: Icelandic (and other Arctic) volcanic terrain data. Leads to check, though you are not limited to these:
+- IslandsDEM v1 from Landmælingar Íslands (LMI): 2 m and 10 m, licence to be checked, possibly downloadable as tiles or COG.
+- ArcticDEM from PGC: 2 m strips and mosaics, available as COGs on AWS/STAC, so /vsicurl reads work.
+- Holuhraun 2014–15: the flow field, the Baugur crater row, the eruptive fissure, the flow channels and the open channel lava. Published TanDEM-X and Pléiades DEMs and UAS surveys exist, e.g. Dirscherl, Pedersen and others.
+- The Bárðarbunga caldera subsidence (2014–15).
+- Askja: the Öskjuvatn caldera, Víti, and the 1961 flows.
+- Fagradalsfjall, Geldingadalir, Meradalir and Sundhnúkur 2021–2024: the NSI/LMI photogrammetric DEM series on Zenodo, Pedersen et al. 2022 and similar, plus the Grindavík graben and fissures.
+- Laki (Lakagígar): the crater row and the Eldhraun moss-covered lava.
+- Eldgjá: the fissure canyon.
+- Þingvellir graben. The scans are CC BY-NC, which is acceptable.
+- Krafla and Leirhnjúkur: fissures and steaming ground with sulfur.
+- Námafjall / Hverir: sulfur fumarole field and solfataras.
+- Sketchfab photogrammetry of Icelandic lava fields (record only).
+- Wikimedia Commons photos.
+
+Priorities: (1) fissure plus crater-row plus flow-field layouts (Holuhraun, Laki, Fagradalsfjall) at metre scale, (2) caldera and collapse rims (Askja, Bárðarbunga), (3) sulfur fumarole ground (Hverir). Produce samples for the best 5–8. When you finish, reply with a concise summary: top picks, each with resolution, licence and output paths.
+</pre></details><details><summary>Io map A: Kilauea patera prototype</summary><a href="prompt-files/05-io-map-a-kilauea-patera-prototype.md" download>Download original excerpt (.md)</a><pre># Io map A: Kilauea patera prototype
+
+You are building an Io terrain prototype in three.js. Read `[path removed]` in full first and follow it; it is the authoritative brief. Your worktree is `[path removed]` on branch `[path removed]`; node_modules is symlinked from the main workbench. Also skim `[path removed]` and the FINDINGS.md files for the owner&#x27;s picks and the data locations.
+
+Key points (the brief has the details):
+- One map, &quot;Kīlauea patera&quot;. Use the real Kīlauea summit DEM almost directly, extended to about 6–8 km. Kit-bash in a compound flow field (Etna 2004–05 or Big Obsidian tiles) and a spatter-cone row (Great Rift).
+- Add sulfur vents with an offline Io-ballistic deposit simulation coloured in the Dallol palette, glowing active lava (subtle and many-detailed, not a big pool), and particles.
+- Photoreal, scan-faithful texturing with triplanar walls, real-time cascaded shadows, Jupiter fill and bloom.
+- Bake everything offline; the browser only renders. Crisp walls; never soften cliffs.
+- Run the dev server on [address removed] and leave it running at the end. The owner reviews at [local preview URL]
+- Another agent is building an asset kit in `[path removed]` (manifest.json) at the same time. Use it when it appears, and don&#x27;t wait for it.
+- Run heavy steps under `flock [path removed]`.
+- Up to about 20 iterations, each with Playwright captures that you inspect critically yourself. Then write [path removed], LOG.md and CREDITS.md, commit on io/a, and stop.
+
+Notes:
+- The harness may block you from writing .md files with the Write tool. If so, write them with a Bash heredoc. They are deliverables in the repo, not reports.
+
+When done, reply with:
+- a concise summary of what was built;
+- the URL and the capture paths (list the best 6 captures);
+- triangle counts and fps;
+- known problems;
+- your honest assessment of how close it is to &quot;looks finished&quot;.
+</pre></details><details><summary>Io asset kit: Dallol, basalt, rocks</summary><a href="prompt-files/06-io-asset-kit-dallol-basalt-rocks.md" download>Download original excerpt (.md)</a><pre># Io asset kit: Dallol, basalt, rocks
+
+You build the shared **asset kit** for Io terrain prototypes. A separate agent is building the three.js map at the same time (brief: `[path removed]`; read it for context) and will pick up your outputs from `[path removed]`.
+
+Context: Helios is a non-commercial game. CC0, CC BY, CC BY-SA, CC BY-NC and CC BY-NC-SA are all fine with credit; ND licences are not. The research is in `[path removed]` and FINDINGS.md. `[path removed]` and `[path removed]` list the kit candidates, including Sketchfab entries with their URLs and licences. Downloaded CC0 textures are in `[path removed]`.
+
+Deliverables in `[path removed]`, all with a `manifest.json` that the map agent can read. Update the manifest incrementally as each item is finished, so it can start using items early. For each item, the manifest records: id, type (texture-set | mesh | decal), files (relative paths), size in metres, tri count, licence, credit, source URL, and notes on intended use.
+
+1. **Dallol sulfur texture sets** (highest priority; the owner loves the Dallol look). From the OPGC Dallol textured photogrammetry model (CC BY-NC 4.0), in `[path removed]` (48 OBJ tiles with 4K textures; see `[path removed]` and `[path removed]` in `[path removed]`), produce **tileable** 2K PBR-ish detail sets:
+   - albedo with lighting de-baked as much as practical (remove large-scale shading by high-pass or ratio against a blurred luminance);
+   - a height and normal map derived from the mesh geometry, baked from the high-poly mesh with Blender headless if practical, or else from the gridded DEM plus luminance;
+   - roughness.
+   Make 4–6 distinct sets: acid-yellow sulfur crust, orange and red iron or hot-sulfur crust, white salt/frost crust, dark mound or altered ground, greenish pool crust, and a mixed transition set. Make them seamlessly tileable (e.g. a histogram-preserving blend or a texture-synthesis quilt) and check the tiling with a 3×3 contact sheet. Also produce 2–4 **mesh pieces** (chimneys, salt pillars, crust mounds) cut from the Dallol tiles and decimated to 2–20k tris, as GLB.
+2. **Basalt and lava PBR sets** (2K, tileable): fresh glassy pahoehoe, a&#x27;a clinker, old weathered basalt, cinder/scoria ground, and a cliff rock for triplanar walls. Start from the downloaded CC0 sets (ambientCG, Poly Haven) and colour-grade them consistently toward Io basalt. Note which are procedural and which are real scans.
+3. **Scanned lava rocks and blocks for scatter**: 6–12 rocks or blocks as GLB, with LODs (about 2k / 500 / 100 tris) and baked albedo and normal. Sources:
+   - Poly Haven CC0 rocks recoloured to basalt.
+   - Sketchfab CC0/CC BY scans: DAAL a&#x27;a/pahoehoe/scoria specimens (CC0), Linosa lava blocks, the Mangere ropy pahoehoe, the Mauna Ulu lava field, Batur, and the fissure 8 cone (CC BY). Optionally also the Institute of Natural History Iceland eruption surveys (CC BY) listed in `[path removed]`.
+   - Re-check every licence on the model page; exclude ND, and exclude scans built from third-party video.
+4. **Asset access.** Account-specific access instructions removed.
+5. **A kit contact sheet** at `[path removed]`: every texture set as a lit sphere or plane preview, plus every mesh rendered with Blender headless (Eevee or Cycles at low samples).
+6. `[path removed]` with a citation, licence, URL and modifications for every item.
+
+Rules:
+- Python: `[path removed] -I script.py &lt;args&gt;`. The venv has open3d, pymeshlab, trimesh, rasterio, numpy, scipy and PIL; add packages with `uv pip install --python [path removed] &lt;pkg&gt;`.
+- Blender is at [path removed] (headless, `-b -P script.py -- args`).
+- Keep your scripts in `[path removed]`.
+- Run heavy steps (Blender bakes, big meshes) under `flock [path removed]`. The machine has shared processing resources and is shared with the map agent.
+- Keep the whole kit under about 2 GB including raw files, and the processed outputs under about 300 MB.
+- Don&#x27;t touch the Helios repo or the workbench worktree.
+- The harness may block .md report files, which is why the credits file is .txt.
+
+When done, reply with:
+- a concise summary of the kit items with their licences;
+- the contact sheet path.
+</pre></details><details><summary>Io map B: Tarawera fissure (Tvashtar)</summary><a href="prompt-files/07-io-map-b-tarawera-fissure-tvashtar.md" download>Download original excerpt (.md)</a><pre># Io map B: Tarawera fissure (Tvashtar)
+
+You are building Io map B, &quot;Tarawera fissure&quot; (to become the game region io.tvashtar), as an HTML/three.js prototype in the terrain workbench.
+
+Read these first and follow them:
+1. `[path removed]`, the general Io map brief.
+2. `[path removed]`. Its &quot;Map B&quot; section and the shared sections are your specific brief.
+
+Setup:
+- Your worktree is `[path removed]`, branch `[path removed]`. node_modules is symlinked.
+- Start by copying map A&#x27;s pipeline and code from `[path removed]` (read-only, uncommitted, still being finished by another agent) into your own `[path removed]`, `[path removed]` and `io-b.html`, then adapt them.
+- Use the shared asset kit at `[path removed]` (manifest.json).
+- The dev server listens on [address removed] and stays running at the end. The owner reviews at [local preview URL]
+- Run heavy steps under `flock [path removed]`. Use at most one Playwright browser at a time.
+
+The round:
+- Up to about 20 iterations, each with captures you inspect critically. Compare them to `[path removed]` and to the map A captures in `[path removed]`.
+- Then write ROUND-1.md, LOG.md and CREDITS.md in [path removed], plus the export README described in BRIEF-BC.md, commit on io/b, and stop.
+- If the Write tool blocks .md files, use a Bash heredoc.
+
+Reply with:
+- a summary of the map;
+- the URL;
+- the best 6 capture paths;
+- triangle counts and fps;
+- known problems;
+- an honest quality assessment.
+</pre></details><details><summary>Io map C: Krafla plume field (Pele)</summary><a href="prompt-files/08-io-map-c-krafla-plume-field-pele.md" download>Download original excerpt (.md)</a><pre># Io map C: Krafla plume field (Pele)
+
+You are building Io map C, &quot;Krafla plume field&quot; (to become the game region io.pele), as an HTML/three.js prototype in the terrain workbench.
+
+Read these first and follow them:
+1. `[path removed]`, the general Io map brief.
+2. `[path removed]`. Its &quot;Map C&quot; section and the shared sections are your specific brief.
+
+Setup:
+- Your worktree is `[path removed]`, branch `[path removed]`. node_modules is symlinked.
+- Start by copying map A&#x27;s pipeline and code from `[path removed]` (read-only, uncommitted, still being finished by another agent) into your own `[path removed]`, `[path removed]` and `io-c.html`, then adapt them.
+- Use the shared asset kit at `[path removed]` (manifest.json).
+- The dev server listens on [address removed] and stays running at the end. The owner reviews at [local preview URL]
+- Run heavy steps under `flock [path removed]`. Use at most one Playwright browser at a time.
+
+The round:
+- Up to about 20 iterations, each with captures you inspect critically. Compare them to `[path removed]` and to the map A captures in `[path removed]`.
+- Then write ROUND-1.md, LOG.md and CREDITS.md in [path removed], plus the export README described in BRIEF-BC.md, commit on io/c, and stop.
+- If the Write tool blocks .md files, use a Bash heredoc.
+
+Reply with:
+- a summary of the map;
+- the URL;
+- the best 6 capture paths;
+- triangle counts and fps;
+- known problems;
+- an honest quality assessment.
+</pre></details><details><summary>Prototype: Mare Tranquillitatis</summary><a href="prompt-files/09-prototype-mare-tranquillitatis.md" download>Download original excerpt (.md)</a><pre># Prototype: Mare Tranquillitatis
+
+Build the scene `mm-tranq` (Mare Tranquillitatis, `moon.mare_tranquillitatis`) as an HTML/three.js prototype in the terrain workbench.
+
+Read and follow these:
+- `[path removed]` (the general brief, including the Io lessons and owner rules);
+- the Moon research: `[path removed]`. Its &quot;proposed kit-bash&quot; is your plan.
+
+Setup:
+- Worktree `[path removed]`, branch `[path removed]`, dev server on [address removed].
+- Start by copying the Io pipeline (`[path removed]`, `[path removed]`) and adapting it.
+
+The key goals:
+1. **The real Tranquillitatis pit as the hero landmark.** TRANQPIT1 (2 m) has no data inside the pit, so build the pit as a mesh from the research measurements and the NAC images in `[path removed]`:
+   - a funnel about 143 m wide and 20 m deep, with a bright halo;
+   - a shaft about 95 m wide with sheer layered walls and a recess band at about 40 m;
+   - a 10–15 m overhang on the E, W and N sides;
+   - a floor about 105 m down, covered with boulders.
+   Layered basalt walls must be crisp; the Io kit&#x27;s basalt cliff set and the lava-tube scan are possible sources. The pit floor must be visible in sunlight from the hero camera.
+2. **The base:**
+   - the Kaguya TC DTM at 8.4 m for the map and the context ring;
+   - SLDEM2015 for the skyline;
+   - the TRANQPIT1 strip blended in at its real position.
+   The real wrinkle ridge should stay visible.
+3. **Craters:**
+   - the Apollo 11 West crater as a fresh blocky crater stamp, with the steep-access basalt deposit on its inner rim;
+   - crisper small craters;
+   - a Fecunditatis bouldered-ridge stamp.
+4. **Boulders and jagged rocks:** Apollo sample scans, densest at fresh rims and the pit, with dense small rubble at the close camera. Use `[path removed]` Moon rocks if they&#x27;re there.
+5. **Look:** lunar photometry, a very hard sun with long shadows, a time-of-day slider, Earth in the sky, and bright fresh-crater halos and rays.
+
+At the end, export the game format and write `ROUND-1.md`, as the brief says. Reply with:
+- a summary;
+- the URL;
+- the best 6 capture paths;
+- triangle counts;
+- known problems;
+- your honest quality estimate.
+</pre></details><details><summary>Prototype: Cerberus Fossae (Mars)</summary><a href="prompt-files/10-prototype-cerberus-fossae-mars.md" download>Download original excerpt (.md)</a><pre># Prototype: Cerberus Fossae (Mars)
+
+Build the scene `mm-cerberus` (Cerberus Fossae, the NEW region `mars.cerberus_fossae`) as an HTML/three.js prototype in the terrain workbench.
+
+Read and follow these:
+- `[path removed]` (the general brief, Io lessons and owner rules);
+- the research: `[path removed]` (the Cerberus part and its proposed kit-bash), and `[path removed]` there.
+
+Setup:
+- Worktree `[path removed]`, branch `[path removed]`, dev server on [address removed].
+- Start by copying the Io pipeline (`[path removed]`, `[path removed]`) and adapting it to Mars.
+
+The key goals:
+1. **Base:** use anchor A (10.30N 156.95E). Take the HiRISE PSP_009280_1905 1 m strip through the middle (sample in `[path removed]`, raw in `[path removed]`), blended into the CTX 20 m DTM for the rest of the 12 km (the layout is in `[path removed]`). Use CTX only for layout and padding; it has height spikes at wall edges.
+2. **Crisp fissure walls (the hard part).** The HiRISE stereo fills the shadowed lower walls with smooth guessed triangles. Kit-bash the walls:
+   - a top cliff band from the Snake River / Malad Gorge lidar (stacked thin basalt flows), scaled 2–3×;
+   - Kīlauea 2018 talus slopes below (`[path removed]`);
+   - Dry Falls for benched sections.
+   Use them as heightfield stamps along the wall lines where that works, or as cliff mesh modules (from `[path removed]` when available) where the walls are too steep. The walls must be crisp and layered, with dust on the ledges, boulder trails and fall boulders on the talus (after the DTEEC_017719 images).
+3. **Plains:** young platy and rafted lava (Athabasca style; the Amazonis platy DTM in `[path removed]` makes good stamps), rootless-cone clusters, and dust and sand in the lows, with wind streaks.
+4. **Mars look:** the measured palette, a butterscotch sky, distance dust haze and a hard sun. Use the Mars kit from `[path removed]` as it appears; until then, use the regraded candidates in `[path removed]`.
+5. **Gameplay:** hubs on the north and south plains, the steep-only deposit on the collapsed block in the northern trough, and possible thermal cells (young volcanism) along the fissure floors, marked in the masks.
+
+At the end, export the game format and write `ROUND-1.md`. Reply with:
+- a summary;
+- the URL;
+- the best 6 capture paths;
+- triangle counts;
+- known problems;
+- your honest quality estimate.
+</pre></details><details><summary>Io research and scan-built workflow</summary><a href="prompt-files/11-io-research-and-scan-built-workflow.md" download>Download original excerpt (.md)</a><pre># Io research and scan-built workflow
+
+Below is the summary of an approach that i have used to build terrain for the icy moons.
+
+My goal is to build maps for IO following the same approach. those terrain maps are really hard in particular, because they have/need very distinct terrain: basalt flow fields, patera rims and caldera scarps, and sulfur frost and plume deposits. A starting point could be a real lava field scans / DEMs, such as Hawaiian or Icelandic flows and caldera walls. It doesn&#x27;t have to be active volcanoes, it can be old ones as well. as long as they have very distinct landform.
+
+First, lets start with the research: have a look what data DTM / lidar or other scans you can find and present me the results. I guess i want pictures, height maps etc. to get a feel. 
+What is important to me: lava flow fields, patera rim etc. 
+
+Then once we got that, i want to build a prototype with HTML/threejs and generate a terrain inspired by what we&#x27;ve found. procedurally generate the terrain, add / kit-bash the height maps, scans etc. into the terrain to see what works and what doesnt. generate several options. 
+Then we got to do the dressing to get a feel of how it looks like when its finished. Very important to me is that i want to get some sort of active lava flow vibe. not a huge pool of fresh lava, but some light emitting lava, some glow, and many more subtle things to make it look right. Also, the sulfur frost / deposits are important to get in. they make up most of the dressing. Maybe we need to simulat the plume exhaust and deposit procedurally. We&#x27;ll need to experiment with that. 
+
+Once we&#x27;re happy with the prototype and have 3-4 candidates e can bring them into the game.
+
+---
+Here’s a summary of the approach we used for the eight ice maps, written so a new session can start Io from it.
+
+Scan-built terrain: the approach
+
+Core idea. Each map has two layers. The large shapes come from real elevation data (DEMs) or procedural fields shaped to a real layout. The steep faces (cliffs, scarps, chasma walls) are not drawn by the heightfield. Instead, mesh modules cut from real lidar, photogrammetry and laser scans are placed along every steep edge. Then come scanned rocks and ice blocks, and per-body shading that hides the low-poly facets.
+
+1. Research and pick references
+I searched for open scans and DEMs of real places that look like the target landforms. The ice maps used Conamara on Europa (DLR Galileo DEM), Charon’s chasma, the Canyonlands Needles graben (lidar), San Gabriel and Mirror Fault scarps (photogrammetry), the Zion Cable Mountain wall, the Hornsund glacier front (laser scan), Volcanic Tablelands fissures, and Poly Haven rock faces and rocks.
+Every source is credited. The project is non-commercial, so non-commercial licences are fine.
+2. Prototype in the three.js workbench first
+The workbench is [path removed] Each family got a browser scene: real layout data, plus wall modules cut from the scans, plus scatter.
+You approved those scenes before anything went into the game.
+From them came three reusable families:
+A, ice rift canyon: a chasma profile with calving-front walls.
+B, fault scarp plus chaos edge: a DEM layout with jointed fault-column walls.
+C, graben plus fissure field: a lidar graben layout with a sheer cliff wall kit.
+Each family is used for several bodies.
+3. Assign families to regions
+Each in-game region got the family that fits its real geology, for example Europa chaos with family B and Ganymede’s grooves with family C.
+The port went one map at a time, and each later map reused the earlier tooling.
+4. Build the in-game field
+Size and layout: each map is a 384×384 grid of 31.25 m cells, so 12 km across. The layout is scaled from the prototype’s real data, with procedural detail added where the data stops.
+Gameplay contract: every map keeps the same rules: two recommended hubs on buildable ground, three or more resource deposits, and one deposit that’s only reachable up steep ground. The tests check all of this.
+Versions: each map gets a new generator version with its content hash pinned in the tests. In the end the old versions were deleted.
+5. Wall modules
+The scans are baked into wall kits with LODs (project/assets/world/cliffs/bake_cliffs.py, giving files like europa_scarp.hcliff).
+Placement: ScarpEdges finds the steep edges in the field. CliffWallField places modules along them deterministically.
+Per-body look: CliffLook settings control each body’s wall look; new options are opt-in per map.
+Fixes for problems we kept hitting:
+Tuck module tops just under the edge of the drop and sink their feet into the rubble slope.
+Trim modules at sharp corners.
+Shade the faces between modules from the cliff’s true outward direction. That fixes the vertical “straw” streaks on stretched terrain cliffs and the coarse cliffs far away.
+6. Shading at Shackleton’s level
+Texture layers are projected from several directions so they don’t stretch on steep faces. Detail normals, ambient occlusion and staining make facets read as rock or ice, not triangles.
+Each body gets its own palette, sun, sky and haze, so each one feels distinct.
+Your preference: crisp, sharp cliffs. Fix broken modules, never soften the walls.
+7. Scatter
+Scanned rocks and blocks go through the shared LibraryRockField, with rubble slopes at wall feet.
+Density is matched to Shackleton: about 6,000 rocks at the gameplay camera.
+8. Budgets
+The ceiling is 500,000 triangles per view. Walls get about 100,000–110,000 of those.
+9. Plates and the sign-off loop
+Plates come from the ice-rift-plates capture mode and [path removed]
+Cameras: the same ones as Shackleton: close at 350 m, gameplay at 2,350 m, approach at 14 km, plus wall and hero shots.
+Each plate set shows: side-by-sides against Shackleton, the workbench prototype, and the other map in the same family.
+The plates are published as an artifact page for your sign-off. Feedback rounds show before and after. A map is done only when you sign it off.
+After each round, the earlier maps are re-captured and must stay within 1/255 average brightness of their accepted plates.
+10. How the work was organised
+Work happens in a separate git worktree on a branch, never in the main checkout. One agent works on one map round, with a brief that sets the goal and a capture limit.
+Before merging, all tests run (regions plus each body’s playable test) and every pin is checked. Then a fast-forward to main.
+Detailed logs are in [path removed], and the overall status is in ice-rift-port.md.
+</pre></details><details><summary>Moon and Mars landmark selection</summary><a href="prompt-files/12-moon-and-mars-landmark-selection.md" download>Download original excerpt (.md)</a><pre># Moon and Mars landmark selection
+
+what other maps should we improve on? My thoughts:
+- Mare Tranquillitatis should use the &quot;LROC NAC DTM TRANQPIT1&quot; data - the pit is the major landmark i would like to get into the game. the other stuff craters etc is nice to have as well. i guess this would be a good candidate to build upon
+- Cerberus Fossae twin fissures (HiRISE DTM PSP_009280_1905) is a very nice piece that i would like to lean on. The cliff walls are hard to model, they might need to be composed / kit-bashed out of other bits and pieces. not sure what mars region to replace with this one. where does it belong geologically and do we have a existing map? What is the weakest map on mars that we can replace with this one?
+-  San Francisco Volcanic Field, Arizona, USA (35.58 N, 111.63 W) · DEM raster - that one could be a good candidate for mars or so?
+
+What other maps are weak and should be replaced? Lets first figure that out and find something matching. i think im setlled on the Mare tranquillitatis, but i want to build a roster of 2-3 more maps to improve before letting the agents roll.  We might need to add/extend the kit for different landscapes. moon may already be covered by what we have with shackleton. Mars might need more adaption due to its difference in color and shape. I want to follow the same process, as this was very well done and the results are good
+</pre></details><details><summary>Io scene A brief</summary><a href="prompt-files/13-io-scene-a-brief.md" download>Download original excerpt (.md)</a><pre># Io scene A brief
+
+
+# Io scan-built map prototype: brief (2026-10-12)
+
+The owner reviewed ~200 open DEM/lidar sources for Io&#x27;s terrain and wants real heightmaps used **almost directly**: &quot;they look really really good&quot;. Add a flow field here or there, plus hot sulfur vents and plumes. This round builds **one map** as an HTML/three.js prototype that looks finished: real terrain, nice texturing, lighting, shadows, shading, sulfur vents with a deposit simulation, glowing lava and particles. If it works, more maps follow, then the move into the game (Godot, `[path removed]`).
+
+Research page (all sources, hillshades, credits): `[path removed]`. Each topic&#x27;s findings are in `[path removed]` and `FINDINGS.md`. Data from the research is in `[path removed]` and `[path removed]`, including `heightmap.json`, which records the source GeoTIFF used for each sample.
+
+## Owner&#x27;s picks (all liked; this map uses the first, the rest are for kit-bashing and later maps)
+- **Kīlauea summit collapse 2018**: `[path removed]` (1 m from USGS 3DEP EPT `HI_Volcano_B1_2019`; script `[path removed]`) and `-jul2018` (0.5 m OpenTopography DTM).
+- **Plosky Tolbachik summit pit**: `[path removed]` (ArcticDEM 2 m).
+- **Krafla caldera / Leirhnjúkur**: `[path removed]` (ArcticDEM 2 m).
+- **Big Obsidian Flow, Newberry**: `[path removed]` (3DEP OPR 0.5–1 m).
+- **Etna 2004–05 compound flow field**: `[path removed]` (INGV 1 m). The owner suggests stitching it into a larger flow field.
+- **Great Rift, Big Craters and Spatter Cones**: `[path removed]` (3DEP 1 m).
+- **Mt Tarawera 1886 fissure chasm**, plus the close-up: `[path removed]` and `tarawera-chasm-closeup` (LINZ 1 m).
+
+## Map 1: &quot;Kīlauea patera&quot; (scene `io-a`)
+- **Base:** the real Kīlauea summit, used directly. Extend the crop beyond the 4.2 km sample to roughly **6–8 km square**, which is smaller than the game&#x27;s 12 km and acceptable to the owner. Take it from the 2019 EPT ground points at 1–2 m. It should cover the 2018 down-dropped block with its stepped ring-fault benches and the deep Halemaʻumaʻu pit, the caldera floor and walls, and, if they fit, Kīlauea Iki, Keanakākoʻi and the SW rift fissures.
+  - Clean up human artifacts that read at map scale, such as roads, parking lots and buildings: flatten or inpaint them, and say so in the log.
+  - **Keep the walls crisp.** The owner strongly prefers sharp, crisp cliff faces; never soften walls.
+- **Kit-bash additions,** each blended carefully into the base with feathered masks and no visible seams:
+  1. A **fresh compound flow field** on the caldera floor or flank. Stitch tiles from Etna 2004–05 (channels and levees) and/or Big Obsidian (pressure ridges, scaled down in relief to the 2–10 m flow fronts typical of basalt). It should come from a vent or fissure and spread as lobes.
+  2. A **spatter-cone row along a fissure**, with cones and craters taken from the Great Rift DEM, placed on an eruptive fissure (Kīlauea&#x27;s SW rift line or a new ring-fault fissure).
+  3. Optional: a Tarawera-style chasm segment or a Tolbachik-style pit, if it fits naturally.
+- **Active lava** (the owner: &quot;not a huge pool of fresh lava, but some light emitting lava, some glow, and many more subtle things&quot;):
+  - glowing cracks in crusted flow surfaces, hot lobe fronts and breakouts, incandescent fissure segments and spatter-cone vents, and a lava-lake glimpse deep in the pit;
+  - a skylight or two on a tube, plus heat shimmer or emissive pulsing;
+  - glow that lights the surrounding terrain: bake an &quot;irradiance from lava&quot; light map and/or use a few dynamic lights, with bloom;
+  - subtle is better than a lot.
+- **Sulfur vents and the deposit simulation** (the owner: &quot;the sulfur frost / deposits ... make up most of the dressing&quot;; &quot;simulate the plume exhaust and deposit procedurally&quot;):
+  - Place several vents: fumaroles on the ring faults and fissures (Kīlauea really has Sulphur Banks on its ring fault), plus one or two larger &quot;plume&quot; vents.
+  - Run an **offline** deposit simulation:
+    - Io-correct **ballistic** particles: no atmosphere, g = 1.796 m/s², umbrella-shaped plumes with vent speeds scaled so deposits land within the map.
+    - Terrain collision, and accumulation into a deposit map.
+    - Fumarole condensation along hot fractures.
+    - Cold-trap SO₂ frost in shadowed lows and pit walls.
+  - Colour the deposits by temperature and age, after the **Dallol** palette the owner loves:
+    - red and orange near hot vents (short-chain sulfur), acid yellow further out, pale cream and white SO₂ frost at the cold fringes;
+    - orange-brown iron-like stains and occasional greenish tints.
+  - Keep the simulation parameters in a JSON so it can be re-run. The browser should show the plumes live: ballistic particle umbrellas, plus vent steam or puffs.
+- **Particles:** plume particles, fumarole gas, faint dust drifting along the ground near vents, smoke and outgassing over hot lava. Keep these cheap; GPU points or instanced sprites are fine.
+
+## Look and texturing
+- **Not the stylized &quot;S&quot; look.** This scene is photoreal-leaning and scan-faithful, at the quality bar of the ice maps.
+  - Texturing: triplanar projection on steep faces, so nothing stretches. Use detail normals at several scales, baked AO or horizon occlusion, and full-resolution normals from the DEM, so the 1 m detail survives where the mesh is coarser.
+  - Base basalt: dark grey-brown, fresh glassy black on new flows, rough a&#x27;a and pahoehoe sheen. CC0 textures are in `[path removed]`, with previews in `[path removed]`: ambientCG Lava001/Lava005/Rock031/Gravel024/Gravel025/Ground089, and Poly Haven dark_rock/dark_rock_02/rock_ground/terrain_red_01.
+  - Sulfur zones: the **Dallol** textured scan (CC BY-NC 4.0, OPGC). Its 4K textures are under `[path removed]` and its ortho at `[path removed]`. Cut tileable detail patches from them (sulfur crust, iron crust, salt) for deposit areas.
+  - A separate kit agent is building `[path removed]` in parallel. It contains tileable Dallol patches, basalt PBR sets, and decimated scanned lava rocks and blocks for scatter, possibly from Sketchfab. Check `[path removed]` from time to time and use what&#x27;s there; until then, use the raw CC0 kits above.
+- **Lighting:** Io at 5.2 AU, so there is no atmosphere and the sky is black. One hard, low sun (add a time-of-day slider). Jupiter is large in the sky and gives a faint warm fill on the night side; add a Jupiter-shine fill. Lava gives local warm light.
+  - Use real-time shadows: cascaded shadow maps (three.js `CSM` addon or equivalent) that work at both the close and the overview distances.
+  - Use ACES or AgX tone mapping, bloom for lava, and light distance haze from the plumes only (Io has no real atmosphere, so keep it subtle).
+- **Scatter:** scanned lava blocks and boulders at wall feet and on flow surfaces, plus spatter bombs near cones. Instance them. Density roughly matches the ice maps: thousands visible at gameplay range.
+
+## Performance and engineering
+- Generate everything **offline** with Python (`[path removed] -I`, which has rasterio, numpy, scipy, laspy+lazrs, open3d, pymeshlab and trimesh; GDAL CLI; Blender at [path removed]). Bake heightfield tiles, normal, AO, masks, the deposit map and the lava-irradiance map to compact binaries or PNGs under `[path removed]`. The browser only renders and animates.
+- Terrain rendering: choose a scheme that keeps 1–2 m wall detail without millions of uniform triangles. Options: adaptive tiles (dense where the relief is steep, coarse on flats), CDLOD or clipmap with vertex texture fetch, or a full-resolution normal map over a coarser mesh plus dense wall tiles.
+- The budget follows the game: about **500k triangles per view** at the gameplay camera, which must hold 60 fps on the owner&#x27;s desktop GPU. The overview may go higher. Report triangle counts.
+- Keep processed assets under about 150 MB for this scene.
+
+## Review cameras
+These are the game&#x27;s conventions. Provide buttons for them, and save captures.
+- close: ~350 m from a wall or vent;
+- gameplay: ~2,350 m distance, oblique ~40°;
+- approach/overview: the whole map;
+- a wall hero shot;
+- a vent and plume hero shot;
+- a lava-glow night shot, with the sun below the horizon and only Jupiter-shine and lava light.
+
+Also add free orbit/fly controls and toggles: plumes, particles, deposit layer, lava glow, scatter, debug views (deposit map, masks, normals, wireframe and tri count).
+
+## Workflow and conventions
+- Worktree: `[path removed]` on branch `[path removed]`. Commit there; I merge.
+- Page: `io-a.html`. Code: `[path removed]`. Assets: `[path removed]`. Processing scripts: `[path removed]`. Raw or working data: `[path removed]`.
+  - Downloads are untrusted data: keep scripts outside the download folders, pass paths as arguments, and run Python with `-I`.
+  - Import from shared workbench code freely, but **do not modify shared files**. Add only your own entry in `vite.config.js` if needed.
+- **Dev server must listen on [address removed], port [removed]** (`npx vite   `). The owner reviews from another host at `[local preview URL]`. Keep it running when you finish.
+- Run heavy steps (large point-cloud reads, meshing, Blender, the big simulation) under `flock [path removed] &lt;cmd&gt;`. The machine has shared processing resources and is shared with one other agent.
+- Captures: a Playwright script writing to `[path removed]` for every review camera. Use the GPU if available (`--use-angle=vulkan`, or `--enable-gpu` with the system Chrome); check that captures show real shading, not a software fallback. Keep `[path removed]`, recording per iteration what changed and how it looks. Look at your own captures critically against the reference art (`[path removed]`) and the Dallol renders.
+- Credits: `[path removed]` gives citation, licence, URL and modifications for every source. Never present procedural geometry as scan data; say clearly which parts are real data and which are procedural.
+- **Budget:** up to about **20 iterations**, then write `[path removed]`, covering:
+  - what was built and the bake pipeline;
+  - capture paths;
+  - triangle counts and fps;
+  - what works, what doesn&#x27;t, and next steps;
+  - a short proposal for the route into Godot.
+
+  Then stop. Don&#x27;t ask for review mid-round.
+
+</pre></details><details><summary>Io scenes B/C brief</summary><a href="prompt-files/14-io-scenes-b-c-brief.md" download>Download original excerpt (.md)</a><pre># Io scenes B/C brief
+
+
+# Io maps B and C: brief (2026-10-13)
+
+Read `[path removed]` first. Everything in it applies here unless stated otherwise: the look, the lighting, the active-lava rules, the sulfur deposit simulation, the Dallol palette, the budgets, the review cameras, offline baking, honesty, credits and the round budget. Map A (&quot;Kīlauea patera&quot;, scene `io-a`, worktree `[path removed]`, branch `[path removed]`) is the first map and is nearly through its round. **Start from its pipeline.** At the start, copy (don&#x27;t link) its `[path removed]`, `[path removed]` and `io-a.html` into your own scene folders, then adapt them. Its `[path removed]` explains what worked. The io-a worktree is read-only for you. If you need a later fix from it, copy it again.
+
+The owner&#x27;s goal: &quot;implement the Kīlauea patera, and then create two more maps using the kit and the examples we&#x27;ve discussed earlier. once they are implemented port them into the game.&quot; The three game regions are `io.loki_patera` (map A), `io.tvashtar` (map B) and `io.pele` (map C). Each map is about 6–8 km square; the game&#x27;s 12 km is allowed to shrink slightly.
+
+The shared asset kit is in `[path removed]`: `manifest.json`, `CREDITS.txt` and `contact-sheet.jpg`. It contains 7 Dallol sulfur sets, 6 basalt/lava sets (including a hot crust with emission), 4 Dallol mesh pieces and 10 scanned lava rocks with LODs. Use anti-tiling sampling for the Dallol sets: their distinctive features repeat.
+
+Lessons from map A&#x27;s mid-round review:
+- Avoid a uniform khaki wash. Use a dark basalt base with sharp, patchy, terrain-controlled sulfur crusts on top, and never soft radial discs.
+- Walls are dark layered basalt with sulfur staining in bands, kept crisp.
+- Active lava is thin glowing crack networks, hot lobe fronts and small round vents. No flat orange blobs, no square sprites.
+- A plume is a ballistic umbrella with a canopy and a falling curtain, not a puff.
+- Scatter must be visible.
+
+## Map B: &quot;Tarawera fissure&quot; → `io.tvashtar` (scene `io-b`)
+Tvashtar Paterae: en-echelon eruptive fissures with a curtain of fire (1999–2000 and 2007 Galileo/New Horizons), fresh dark flows, stepped patera walls and a layered mesa.
+- **Base (used directly):** the Mt Tarawera 1886 fissure chasm. LINZ `nz-elevation` bay-of-plenty_2019-2022 `dem_1m`, CC BY 4.0, EPSG:2193. The research samples are `[path removed]` (2 m, 8×6.5 km) and `tarawera-chasm-closeup` (1 m); the raw files are in `[path removed]`, with fetch scripts in `[path removed]`. LINZ tiles use LERC compression, so read them with rasterio (`merge_rio.py`). Extend or re-crop to about 7–8 km square at 1–2 m, so the joined crater chain runs diagonally through the map with the dome plateau and the Lake Rotomahana basin.
+  - Lake and water surfaces are perfectly flat in the DEM. Turn them into a **flooded patera floor**: a crusted lava plain with a slightly raised rim and pressure-ridge texture.
+  - Inpaint forestry roads and tracks.
+- **Kit-bash:**
+  - The **Great Rift spatter-cone row** (`[path removed]`, 3DEP 1 m) along a second, en-echelon fissure segment.
+  - A **Plosky Tolbachik** pit (`[path removed]`, ArcticDEM 2 m), scaled down if needed, as the collapse pit beside the hub.
+  - Fresh flows from the fissures, using **Etna 2004–05** leveed channels (`[path removed]`) and **Big Obsidian** pressure ridges (`[path removed]`) at basalt-scale relief.
+- **Active lava (the signature of this map):** one or two short incandescent fissure segments with a low **curtain of fire**. These are fountain particles: ballistic, under Io gravity, glowing and cooling as they fall. Add spatter ramparts, hot channels, and cooling flows with crack glow. Keep it restrained: most of the fissure is dormant and steaming.
+- **Sulfur:**
+  - Fumaroles all along the fissure and the chasm rims, with yellow and white crusts on rims and ledges.
+  - One vent with a mid-size ballistic plume whose deposit falls across the plateau.
+  - Cold-trap SO₂ frost on the shadowed chasm walls.
+- Dev server: **[address removed]**. Worktree: `[path removed]`, branch `[path removed]`. Work data: `[path removed]`.
+
+## Map C: &quot;Krafla plume field&quot; → `io.pele` (scene `io-c`)
+Pele: a hot vent and lava-lake margin at the centre of a giant red plume-deposit ring, with dark pyroclastic fans, dark flows and collapse pits. At 7 km, the map sits near the vent, so local fallout dominates.
+- **Base (used directly):** the Krafla caldera and Leirhnjúkur fissure swarm. ArcticDEM v4.1 2 m mosaic, CC BY 4.0; the research sample is `[path removed]` (2 m, 8×7 km), with scripts in `[path removed]`. Re-crop to about 7–8 km square around the caldera, the fissure swarm, the 1975–84 Krafla Fires lavas and the Víti explosion crater.
+  - Inpaint the geothermal power plant, the pipes, the roads and the drill pads.
+- **Kit-bash:**
+  - A **stitched compound flow field** on the plain. The owner explicitly suggested stitching the **Etna 2004–05** compound flow field into a larger field; combine several Etna tiles (flipped, rotated and feathered) with **Big Obsidian** ridge zones, flowing from the vent fissure as dark tongues and lobes.
+  - The **Great Rift** spatter cones on the vent fissure.
+  - A Tolbachik or Puʻu ʻŌʻō-style collapse pit.
+  - A small **lava-lake margin**: a crusted pond in a pit or depression with a glowing broken rim, after Galileo&#x27;s I32 Pele night image (`[path removed]`).
+- **Sulfur (the signature of this map):**
+  - One **dominant plume vent** with a large Io-ballistic umbrella in the browser, and an offline deposit simulation producing the Pele look.
+    - Red and orange short-chain sulfur deposits dominate. Use concentric, patchy zones from the vent: a dark pyroclastic fan close in, then red/orange, then yellow, then pale.
+    - Terrain shadowing and lee effects break up the rings, so they must not read as perfect circles.
+  - Add fumarole crusts along the Krafla fissures in the Dallol style.
+  - Colour reference: the Io mosaic crops in `[path removed]` and the reference art `[path removed]`.
+- Dev server: **[address removed]**. Worktree: `[path removed]`, branch `[path removed]`. Work data: `[path removed]`.
+
+## For both maps
+- **Game port is next.** A separate agent is preparing the Godot port right now. Bake outputs in a form that is easy to export:
+  - a float32 or 16-bit height raster with a JSON (metres per pixel, origin, vertical range);
+  - deposit, lava, emissive and material masks as aligned rasters;
+  - vent, plume, fissure and pit positions as JSON;
+  - a scatter instance list as JSON.
+  - Also write `[path removed]` listing these files.
+- Run heavy steps under `flock [path removed]`. There are three map agents plus a game agent on a shared processing resources machine, so be frugal and don&#x27;t run more than one Playwright capture browser at a time.
+- Budget: up to about 20 iterations, then write `[path removed]`, `LOG.md` and `CREDITS.md`, commit on your branch, leave the dev server running, and stop.
+- The harness may block .md files written with the Write tool; if so, write them with a Bash heredoc.
+
+</pre></details><details><summary>Europa rift scene brief</summary><a href="prompt-files/15-europa-rift-scene-brief.md" download>Download original excerpt (.md)</a><pre># Europa rift scene brief
+
+
+# Europa rift workbench: brief (2026-10-11)
+
+The owner wants cliff faces, fault scarps and rifts for Europa, reusable on other ice moons. The method: compose real scan data (point clouds and meshes) with a DTM or procedural heightfield, then scatter ice and stones on top. This is a three.js proof of concept for review; moving it into the game comes later.
+
+Research and source review page: [endpoint removed] The owner approved all three scenes, A, B and C.
+
+## Scenes
+
+### A: ice rift canyon (Charon-style chasma with calving-front walls)
+A deep, branching rift in the ice shell. Two opposing walls of real laser-scanned glacier ice, and a floor of broken ice slabs.
+- **Layout:** Charon chasma profile from the New Horizons DEM (300 m grid, public domain). A local crop already exists at `[path removed]` (int16 m, 300 m/px, 3600×1600 px). Take the rhythm of the walls and terraces (cross-section shape, stepped walls, branching) and scale it down to a 1–3 km game map. Do not use it 1:1.
+- **Walls:** Hornsund TLS 2023, Svalbard, CC BY 4.0: https://dataportal.igf.edu.pl/dataset/tls_hornsund_2023, files at https://geodata.igf.edu.pl/Dataset_TLS/ (LAS/XYZ, 16–584 MB per scan; pick one or two front scans). Supporting source: Qeqertarsuaq grounded iceberg OBJ, CC BY 4.0, https://zenodo.org/records/4014709 (OBJ about 103 MB). More icebergs: Zenodo 4309942, 4309956, 4309930, 4309851.
+- **Scatter:** ice blocks cut from the iceberg meshes, plus broken slabs.
+
+### B: fault scarp + chaos edge (Conamara plateau breaking along a fault)
+A raised ice plateau ending in a jointed, blocky scarp, with toppled blocks and a talus skirt below. It matches Europa&#x27;s chaos margins (100–250 m cliffs in published stereo; Nimmo &amp; Giese 2005; Schenk &amp; Pappalardo 2004).
+- **Layout:** DLR Galileo stereo DTMs, CC BY 4.0 (Steinbrügge et al. 2020), at `[path removed]`: `Conamara_HighRes.tiff` (30 m, relief 351 m), `Yelland_HighRes.tiff` (25 m; stored as Byte 1–232, so the height scale is uncertain; treat it as relative) and `Powys.tiff` (80 m). USGS CC0 DTMs are there too (Agenor, Rhadamanthys, …). Use them for real block heights and ridge spacing; procedural detail goes on top.
+- **Walls:** San Gabriel &amp; San Jacinto bedrock cliffs (SfM LAZ, ~1000 pts/m², **CC0**): https://doi.org/10.5069/G96H4FKG (82 files; choose one or two cliffs of 20–380 MB). Poly Haven rock_face_01 / rock_face_02 (CC0, 20k/30k faces) and namaqualand_cliff_01/02 (CC0) are available through https://api.polyhaven.com.
+- **Scatter:** Poly Haven moon_rock_01…07, namaqualand_boulders_01, boulder_01, stone_01 (CC0). NASA Astromaterials 3D samples are CC0 but on Sketchfab, so they need the token.
+- Re-material every rock scan as Europa ice (see Look).
+
+### C: graben + fissure field (stepped graben with open fissures)
+Parallel normal faults dropping a block between them, with narrow open cracks across the plain. A match for Europa&#x27;s troughs and bands, and reusable on Ganymede and Enceladus. This one has the strongest gameplay layout: passable floors, ramps, chokepoints.
+- **Layout:** Canyonlands Needles grabens, airborne lidar 10.5 pts/m², CC BY 4.0: https://doi.org/10.5069/G9X34VNQ. Use OpenTopography&#x27;s public bulk or raster access for a small subset of a few km². If only a key-gated API works, check `[path removed]`; without a key, build the layout procedurally from published graben geometry and say so.
+- **Walls:** 2019 Cable Mountain rockfall, Zion (UAV SfM LAZ 532 MB, 66.8 pts/m², CC BY 4.0): https://doi.org/10.5069/G9VT1Q8M; dataspace files under https://opentopography.s3.sdsc.edu/dataspace/OTDS.092020.4269.1/. A wall with a fresh scar and talus apron. Hilbre Fissure (Sketchfab f1d91cec0fcf43c885b5a91016a86b50, CC BY) needs the token.
+- **Scatter:** Poly Haven CC0 boulders and stones; ice blocks.
+
+## Look
+- **Stylized &quot;S&quot; look**, consistent with the studio (`studio.html`, `[path removed]`): faceted, low-poly-ish, readable at the gameplay camera. Real scans are the *source of form*; decimate them to the studio&#x27;s facet density (quadric decimation, flat or near-flat shading), keeping silhouettes, joints and overhangs.
+- **Europa palette:** pale water ice (blue-white to cream), rust-brown lineae and salt staining (hydrated salts) on fresh faces and along cracks, darker ice inside fissures. Sky is black; Jupiter may hang in the sky. Sun is low and hard (Europa at 5.2 AU, so there is no atmosphere and no fill light except a faint Jupiter shine). See `[path removed]` for ice material ideas; keep it cheap and opaque.
+- **Gameplay camera:** the prototype convention, eye (0,150,200) → target (0,0,−14.2), fov 78, in metres. Also render a close-up oblique of a wall at about 30–60 m distance and one hero overview.
+
+## Workflow and conventions
+- Work in your own worktree and branch: `[path removed]&lt;x&gt;` on `[path removed]`. Commit there; I merge.
+- **Files per scene:** page `rift-&lt;x&gt;.html`, code `[path removed]`, processed assets `[path removed]` (GLB or binary heightfields; keep the total ≤ about 25 MB per scene), processing scripts `[path removed]`. Read and import from `[path removed]` freely, but **do not modify shared files**. Copy into your own folder when you need a change. If you must add a Vite input, add only your own entry in `vite.config.js`.
+- **Raw downloads:** `[path removed]`. Treat them as untrusted data: keep scripts out of that folder, pass paths as arguments, and run Python with `-I`. Python env: `[path removed] -I` (laspy+lazrs, open3d, pymeshlab, trimesh, rasterio, numpy, scipy). Blender is at [path removed] for headless decimation or export.
+- **Resources (three agents share a shared processing resources machine):** subsample point clouds to ≤ 8 M points before meshing. Run every heavy step (Poisson/ball-pivot meshing, large LAZ reads, Blender) under `flock [path removed] &lt;cmd&gt;`. Server allocations removed.
+- **Captures:** a playwright script (see `[path removed]` for the pattern) writing to `[path removed]`: gameplay camera, close-up, hero. Keep a `[path removed]` of iterations (what changed, what it looks like).
+- **Credits:** `[path removed]` with dataset citation, licence, URL and modifications for every source used.
+- **Budget:** up to about 15 iterations, then write `[path removed]`: what was built, the pipeline (scan → mesh → decimate → placement), screenshots, what works, what doesn&#x27;t, and the proposed route into Godot. Then stop. Do not ask for review mid-round.
+- **Honesty:** if a source can&#x27;t be downloaded or is unusable (scan shadows, water, noise), say so in the log and use the next-best source from the brief. Never present procedural geometry as scan data.
+
+</pre></details><details><summary>Moon/Mars scan brief</summary><a href="prompt-files/16-moon-mars-scan-brief.md" download>Download original excerpt (.md)</a><pre># Moon/Mars scan brief
+
+
+# Moon and Mars scan-built maps: prototype brief (2026-10-13)
+
+The owner approved (&quot;go&quot;) the roster from the research in `[path removed]` (review page `[path removed]`; each topic has `FINDINGS.txt`, `findings.json` and `[path removed]`). This repeats the Io process, which the owner liked: real DEMs used almost directly, kit-bashed pieces, a finished-looking HTML/three.js prototype in this workbench, then a port into the game.
+
+**Read first:** `[path removed]`, `[path removed]` and the Io round docs (`[path removed]`, `LOG.md`). The Io scenes are merged on workbench main (`io-a.html`, `io-b.html`, `io-c.html`, `[path removed]`, `[path removed]`). **Start from their pipeline.** Copy, don&#x27;t import-modify: `[path removed]` (bake: DEM crop and inpaint, maps, horizon/AO, kit-bash stamping, scatter, export) and `[path removed]` (terrain LOD, triplanar material, CSM shadows, scatter, sky).
+
+## Owner rules learned so far (all apply)
+- **Crisp, sharp cliff faces.** Never soften or smooth walls; fix artefacts some other way (use the 1 m DEM normals, triplanar projection and real slope breaks).
+- Use the real heightmaps almost directly. Keep relief exaggeration modest and stated.
+- **No pattern-y procedural textures:** no Voronoi cells, camouflage blobs, leopard print or soft radial discs. Colour and deposits must follow the terrain.
+- Boulders and jagged rocks were missing everywhere before. Make scatter dense enough to read at the gameplay camera (about 6,000 rocks at gameplay, as on Shackleton).
+- Exposure: lit faces and shadows must separate clearly. No murky underexposure, no washed-out pale.
+- Budget: ≤ 500k triangles per view at gameplay, 60 fps. Processed assets ≤ about 150 MB per scene, excluding the export.
+- Game export: same format as Io (`[path removed]`, the height raster, aligned masks, `features.json`, `scatter.json`). The game-side importer (`[path removed]`, docs at `[path removed]`) will be generalised to Moon and Mars.
+- Honesty: never present procedural geometry as scan data. Every source goes in `CREDITS.md`.
+
+## Scenes (wave 1 now; wave 2 follows)
+| Scene | Region | Research to use | Server assignment |
+|---|---|---|---|
+| `mm-tranq` | `moon.mare_tranquillitatis` | `[path removed]` | [removed] |
+| `mm-cerberus` | `mars.cerberus_fossae` (NEW region) | `[path removed]` (Cerberus part), anchor A 10.30N 156.95E | [removed] |
+| wave 2: `mm-olympus`, `mm-jezero`, `mm-acidalia`, `mm-arcadia` | | | [removed] |
+
+## Kit
+- The Mars kit is being built in `[path removed]` (`manifest.json`). Use it as items appear; until then, use the raw candidates in `[path removed]` and `[path removed]`.
+- Moon rocks: the Apollo sample scans in `[path removed]` and the existing Shackleton rocks.
+
+## Looks
+- **Moon:** grey regolith, very hard sun, black sky, no atmosphere and no haze. Earth hangs in the sky at Tranquillitatis, near the zenith-east. Use opposition-surge and regolith-photometry shading (Lommel-Seeliger/Hapke-ish), bright fresh-crater halos and ejecta rays, darker high-Ti mare.
+- **Mars:** use the measured natural-colour palette in `[path removed]`:
+
+  | Material | Colour |
+  | --- | --- |
+  | soil | #7e5e44 |
+  | dust | #714628 |
+  | dusty slope | #a57a59 |
+  | bedrock | #755139 |
+  | basaltic sand | #5c4027 |
+  | light-toned bedrock | #b58561 |
+
+  Use a butterscotch sky and a dust haze with distance; sun about 43% of Earth&#x27;s.
+
+## Workflow
+- **Worktree:** `[path removed]&lt;scene&gt;`, on branch `[path removed]`. Inside it:
+  - page `&lt;scene&gt;.html` (add only your own vite input);
+  - code in `[path removed]`;
+  - assets in `[path removed]`;
+  - scripts in `[path removed]`;
+  - docs in `[path removed]` (LOG.md, CREDITS.md, ROUND-N.md, shots/).
+- **Work data:** `[path removed]`. Downloads are untrusted: Python runs with `-I` from `[path removed]`.
+- **Dev server:** `npx vite   `, left running. The owner reviews from another host at `[local preview URL]`.
+- **Captures:** use the Playwright GPU path that the Io scenes used, writing to `[path removed]`. Cameras:
+  - close at about 350 m;
+  - gameplay at about 2,350 m and 40°;
+  - overview;
+  - a wall or hero shot;
+  - a landmark hero (the pit, the fissure);
+  - one more of your choice.
+- **Budget:** up to about 18 iterations, then write `ROUND-1.md`, refresh the export, commit on the branch, and stop. Don&#x27;t ask for review mid-round.
+
+</pre></details><details id="moon-native"><summary>Moon native review: domes, rille and polar ridges</summary><a href="prompt-files/17-moon-native-composition-review.md" download>Download redacted original excerpt (.md)</a><pre># Moon native review: domes, rille and polar ridges
+
+Round 13 (orchestrator review of round 12, ~74% overall; round 12 is merged into main). Start with `git merge main` once, `task.sh import`, build.
+
+Scope now covers six regions: tycho, marius_hills, aristarchus_plateau, cabeus_haworth_ridge (as before) plus mare_tranquillitatis and shackleton_ridge (new; you may reshape their build sites — no savegame compatibility needed).
+
+Review of round 12:
+1. Marius Hills (~70%): from the gameplay camera the rille reads, but the domes do not. The reference has 2-3 clearly conical/shield domes (200-500 m across, 50-150 m tall, smooth flanks, some with a small summit cone/pit) WITHIN the gameplay frame. Move/place domes so at least two sit 0.8-2.5 km from the hub in view, and make them read in silhouette and shading. Rille: wider, sharper rim lip, boulder-lined banks with scanned rocks sized 3-10 m so they read from 460 m.
+2. Aristarchus (~65%): bring the bright rugged ejecta/rim zone into the gameplay frame — either move the build site toward the crater (allowed) or place a bright, blocky, hummocky ejecta ridge 1-3 km away. The bright side must be a boulder-strewn blanket with high albedo contrast against the dark pyroclastic side, not a soft streak.
+3. Low-sun rocks (Cabeus): fix pale over-bright scans at grazing sun (clamp scan albedo/roughness response) and add contact darkening under small stones.
+4. Mare Tranquillitatis -&gt; [path removed]: dark smooth basalt, a wrinkle ridge crossing the view, craters of all ages (fresh with bright ejecta + boulders, old soft dimples).
+5. Shackleton ridge and Cabeus -&gt; [path removed]: outpost on a sunlit ridge crest flanked by pitch-black permanently shadowed crater interiors, very low sun, long shadows.
+Budgets ~500k per view. Validation: build, moon-terrain-checks, art-lab-checks, HELIOS_GAME_ONLY=regions task.sh test. Evidence: reference-vs-gameplay sheets for all six regions + REPORT.md. Commit, report honest % per region, stop.
+</pre></details><details><summary>Moon photographic texture adoption</summary><a href="prompt-files/18-moon-photographic-texture-brief.md" download>Download redacted original excerpt (.md)</a><pre># Moon photographic texture adoption
+
+Orchestrator: new round. The shared terrain detail-texture system is in main ([revision removed]). Read [path removed] first (API: TerrainTextureLibrary recipes, 12 CC0 layers incl. Regolith, RegolithCratered, RockFace, RockStrata, Boulder, Gravel, MarsSand/Ground/Cracked, Ice, TitanSand, TitanPebbles; per-slot tint keeps your palette; rock instances can use the Boulder/RockFace maps). Steps: (1) with labs stopped, git merge main once, then run bash [path removed] import (new texture assets must be imported, otherwise checks fail with &#x27;Unable to open file ...ctexarray&#x27;), rebuild. (2) Opt your regions in with a recipe and tune it against your references; apply the rock maps to your rock instances. (3) Replace instanced gravel/pebble clutter with the Gravel/debris texture where the texture now carries it, cutting rock triangle cost (keep larger rocks as geometry). (4) Compare before/after at close, gameplay and far, keep palettes body-specific, no visible tiling. A shared scanned-rock library (CC0 Poly Haven moon_rock_01..07 and boulders) is being built on [branch removed]; do not build your own. Full force allowed. Same validation (region suite, your terrain checks, art-lab checks, production budget), lean evidence, about 500k terrain triangles per view. Merge main only once this round. Commit, report, stop.
+
+Family notes: Moon (Tycho already has a starter recipe from the texture session; extend it and add Aristarchus, Marius, Cabeus with regolith/rock, darker pyroclastic tint for Aristarchus).
+</pre></details><details><summary>Moon scanned-rock adoption</summary><a href="prompt-files/19-moon-scanned-rock-brief.md" download>Download redacted original excerpt (.md)</a><pre># Moon scanned-rock adoption
+
+Orchestrator: new round. Main ([revision removed]) now has (a) the shared scanned-rock library (RockLibrary: CC0 Poly Haven scans incl. moon_rock_01..07 and boulders, three LODs; read [path removed] and terrain-textures.md; Tycho&#x27;s MoonRockField and Gale are the worked examples) and (b) a new detail-texture layer DirtyIce (index 12) from the owner&#x27;s dirty-ice texture. Steps: with labs stopped, git merge main once, run bash [path removed] import, rebuild. Then adopt the scanned rocks for your large and medium rocks (keep procedural chips/gravel only where cheaper), place rock clusters around the view focus rather than the camera eye where your rock field allows it, keep honest separate terrain and rock triangle accounting with about 500k per view total, and compare before/after at close, gameplay and far against your references. Note: terrain-cache-checks fails until the baked geometry is regenerated (deleted on purpose; re-bake happens after the families settle), so skip it. Same validation (region suite, your terrain checks, art-lab checks, production budget), lean evidence, merge main only once. Commit, report, stop.
+
+Family notes: extend the Tycho rock setup to Aristarchus, Marius and Cabeus; fix the gravel reading as fine grain at gameplay distance by letting small scanned stones carry it near the camera.
+</pre></details></div></main><footer>Local review edition · Original session artifacts and measured data, with authored additions identified. Dataset terms remain with their creators.</footer></body></html>

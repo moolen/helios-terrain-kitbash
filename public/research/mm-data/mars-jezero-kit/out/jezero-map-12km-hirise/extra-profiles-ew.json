@@ -1,0 +1,22 @@
+{
+ "y=+4.0 km (north delta lobe vs north rim massif)": {
+  "minM": -2542.252197265625,
+  "maxM": -1922.0047607421875,
+  "maxSlopeDeg20m": 89.59384090623617
+ },
+ "y=+2.5 km (Neretva inlet, delta apex)": {
+  "minM": -2558.21875,
+  "maxM": -2074.930419921875,
+  "maxSlopeDeg20m": 89.59508118784969
+ },
+ "y=+0.5 km (delta body vs rim)": {
+  "minM": -2565.204833984375,
+  "maxM": -1979.6278076171875,
+  "maxSlopeDeg20m": 89.59793149004977
+ },
+ "y=-2.0 km (Kodiak latitude, rim to floor)": {
+  "minM": -2613.82275390625,
+  "maxM": -1745.7955322265625,
+  "maxSlopeDeg20m": 89.60542177943863
+ }
+}

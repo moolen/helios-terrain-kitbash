@@ -1,0 +1,248 @@
+{
+  "walls": [
+    {
+      "name": "wall_sg1605_3_0",
+      "file": "wall_sg1605_3_0.glb",
+      "tris": 8999,
+      "size": [
+        21.540000915527344,
+        26.290000915527344,
+        16.399999618530273
+      ],
+      "source": "San Gabriel SG1605_3 (SfM LAZ, CC0)",
+      "note": "window x[-21,0] y[0,27] m of the Poisson mesh, quadric to 9000, margins curled back"
+    },
+    {
+      "name": "wall_sg1605_3_1",
+      "file": "wall_sg1605_3_1.glb",
+      "tris": 9000,
+      "size": [
+        21.850000381469727,
+        26.3799991607666,
+        18.100000381469727
+      ],
+      "source": "San Gabriel SG1605_3 (SfM LAZ, CC0)",
+      "note": "window x[-8,13] y[0,27] m of the Poisson mesh, quadric to 9000, margins curled back"
+    },
+    {
+      "name": "wall_sg1605_3_2",
+      "file": "wall_sg1605_3_2.glb",
+      "tris": 8999,
+      "size": [
+        19.540000915527344,
+        22.440000534057617,
+        19.020000457763672
+      ],
+      "source": "San Gabriel SG1605_3 (SfM LAZ, CC0)",
+      "note": "window x[2,21] y[0,22] m of the Poisson mesh, quadric to 9000, margins curled back"
+    },
+    {
+      "name": "wall_sg1608_5_0",
+      "file": "wall_sg1608_5_0.glb",
+      "tris": 9000,
+      "size": [
+        41.380001068115234,
+        60.84000015258789,
+        40.529998779296875
+      ],
+      "source": "San Gabriel SG1608_5 (SfM LAZ, CC0)",
+      "note": "window x[-58,-18] y[0,60] m of the Poisson mesh, quadric to 9000, margins curled back"
+    },
+    {
+      "name": "wall_sg1608_5_1",
+      "file": "wall_sg1608_5_1.glb",
+      "tris": 6134,
+      "size": [
+        41.630001068115234,
+        66.7699966430664,
+        60.63999938964844
+      ],
+      "source": "San Gabriel SG1608_5 (SfM LAZ, CC0)",
+      "note": "window x[-20,20] y[15,80] m of the Poisson mesh, quadric to 9000, margins curled back"
+    },
+    {
+      "name": "wall_sg1608_5_2",
+      "file": "wall_sg1608_5_2.glb",
+      "tris": 6460,
+      "size": [
+        41.459999084472656,
+        71.5999984741211,
+        34.2400016784668
+      ],
+      "source": "San Gabriel SG1608_5 (SfM LAZ, CC0)",
+      "note": "window x[12,52] y[30,100] m of the Poisson mesh, quadric to 9000, margins curled back"
+    },
+    {
+      "name": "wall_rock_face_01",
+      "file": "wall_rock_face_01.glb",
+      "tris": 7000,
+      "size": [
+        5.010000228881836,
+        5.090000152587891,
+        4.119999885559082
+      ],
+      "source": "Poly Haven rock_face_01 (CC0)",
+      "note": "PCA face frame, quadric decimation"
+    },
+    {
+      "name": "wall_rock_face_02",
+      "file": "wall_rock_face_02.glb",
+      "tris": 7000,
+      "size": [
+        3.0899999141693115,
+        3.119999885559082,
+        3.6700000762939453
+      ],
+      "source": "Poly Haven rock_face_02 (CC0)",
+      "note": "PCA face frame, quadric decimation"
+    }
+  ],
+  "blocks": [
+    {
+      "name": "namaqualand_cliff_01",
+      "file": "namaqualand_cliff_01.glb",
+      "tris": 5000,
+      "size": [
+        8.279999732971191,
+        4.949999809265137,
+        4.389999866485596
+      ],
+      "source": "Poly Haven namaqualand_cliff_01 (CC0)",
+      "note": "LOD0, quadric to 5000"
+    },
+    {
+      "name": "namaqualand_cliff_02",
+      "file": "namaqualand_cliff_02.glb",
+      "tris": 6999,
+      "size": [
+        20.260000228881836,
+        7.179999828338623,
+        6.590000152587891
+      ],
+      "source": "Poly Haven namaqualand_cliff_02 (CC0)",
+      "note": "LOD0, quadric to 7000"
+    },
+    {
+      "name": "boulder_01",
+      "file": "boulder_01.glb",
+      "tris": 2500,
+      "size": [
+        1.2699999809265137,
+        1.0,
+        1.8200000524520874
+      ],
+      "source": "Poly Haven boulder_01 (CC0)",
+      "note": "LOD0, quadric to 2500"
+    }
+  ],
+  "rocks": [
+    {
+      "name": "namaqualand_boulders_01",
+      "file": "namaqualand_boulders_01.glb",
+      "tris": 320,
+      "size": [
+        0.36000001430511475,
+        0.25,
+        0.550000011920929
+      ],
+      "source": "Poly Haven namaqualand_boulders_01 (CC0)",
+      "note": "LOD0, quadric to 320"
+    },
+    {
+      "name": "stone_01",
+      "file": "stone_01.glb",
+      "tris": 220,
+      "size": [
+        0.14000000059604645,
+        0.07000000029802322,
+        0.07999999821186066
+      ],
+      "source": "Poly Haven stone_01 (CC0)",
+      "note": "LOD0, quadric to 220"
+    },
+    {
+      "name": "moon_rock_01",
+      "file": "moon_rock_01.glb",
+      "tris": 180,
+      "size": [
+        0.20999999344348907,
+        0.07000000029802322,
+        0.10999999940395355
+      ],
+      "source": "Poly Haven moon_rock_01 (CC0)",
+      "note": "LOD0, quadric to 180"
+    },
+    {
+      "name": "moon_rock_02",
+      "file": "moon_rock_02.glb",
+      "tris": 180,
+      "size": [
+        0.25,
+        0.20000000298023224,
+        0.25
+      ],
+      "source": "Poly Haven moon_rock_02 (CC0)",
+      "note": "LOD0, quadric to 180"
+    },
+    {
+      "name": "moon_rock_03",
+      "file": "moon_rock_03.glb",
+      "tris": 180,
+      "size": [
+        0.10999999940395355,
+        0.05999999865889549,
+        0.07999999821186066
+      ],
+      "source": "Poly Haven moon_rock_03 (CC0)",
+      "note": "LOD0, quadric to 180"
+    },
+    {
+      "name": "moon_rock_04",
+      "file": "moon_rock_04.glb",
+      "tris": 180,
+      "size": [
+        0.11999999731779099,
+        0.05000000074505806,
+        0.17000000178813934
+      ],
+      "source": "Poly Haven moon_rock_04 (CC0)",
+      "note": "LOD0, quadric to 180"
+    },
+    {
+      "name": "moon_rock_05",
+      "file": "moon_rock_05.glb",
+      "tris": 180,
+      "size": [
+        0.07000000029802322,
+        0.07000000029802322,
+        0.07999999821186066
+      ],
+      "source": "Poly Haven moon_rock_05 (CC0)",
+      "note": "LOD0, quadric to 180"
+    },
+    {
+      "name": "moon_rock_06",
+      "file": "moon_rock_06.glb",
+      "tris": 180,
+      "size": [
+        0.07999999821186066,
+        0.05000000074505806,
+        0.09000000357627869
+      ],
+      "source": "Poly Haven moon_rock_06 (CC0)",
+      "note": "LOD0, quadric to 180"
+    },
+    {
+      "name": "moon_rock_07",
+      "file": "moon_rock_07.glb",
+      "tris": 180,
+      "size": [
+        0.09000000357627869,
+        0.05999999865889549,
+        0.07000000029802322
+      ],
+      "source": "Poly Haven moon_rock_07 (CC0)",
+      "note": "LOD0, quadric to 180"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "file": "photo-1.jpg",
+    "title": "File:Öskjuvatn und Viti.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:%C3%96skjuvatn_und_Viti.jpg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%C3%96skjuvatn_und_Viti.jpg/1920px-%C3%96skjuvatn_und_Viti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/%C3%96skjuvatn_und_Viti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "originalSize": [
+      7200,
+      4103
+    ],
+    "description": "Luftbild des Kratersees Öskjuvatn mit dem Schwefelkratersee Viti im Vordergrund",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Areuland",
+    "credit": "\"Öskjuvatn und Viti.jpg\" by Areuland, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons"
+  },
+  {
+    "file": "photo-2.jpg",
+    "title": "File:Öskjuvatn mit Viti.jpg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:%C3%96skjuvatn_mit_Viti.jpg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%C3%96skjuvatn_mit_Viti.jpg/1920px-%C3%96skjuvatn_mit_Viti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/%C3%96skjuvatn_mit_Viti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "originalSize": [
+      4032,
+      3024
+    ],
+    "description": "Luftbild des Kratersees Öskjuvatn mit dem Schwefelkratersee Viti im Vordergrund",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Areuland",
+    "credit": "\"Öskjuvatn mit Viti.jpg\" by Areuland, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons"
+  },
+  {
+    "file": "photo-3.jpg",
+    "title": "File:Askja Herðubreið Iceland (174167471).jpeg",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Askja_Her%C3%B0ubrei%C3%B0_Iceland_(174167471).jpeg",
+    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Askja_Her%C3%B0ubrei%C3%B0_Iceland_%28174167471%29.jpeg/1920px-Askja_Her%C3%B0ubrei%C3%B0_Iceland_%28174167471%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Askja_Her%C3%B0ubrei%C3%B0_Iceland_%28174167471%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "originalSize": [
+      2048,
+      1152
+    ],
+    "description": "500px provided description: Got lucky with exceptional weather on this heli tour of Iceland's highlands... Flying over Askja with Her?ubrei? crater (Iceland's national mountain) in the distance. [#volcano ,#highlands ,#mountain ,#crater ,#iceland ,#askja ,#Her?ubrei?]",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Ilya Grigorik",
+    "credit": "\"Askja Herðubreið Iceland (174167471).jpeg\" by Ilya Grigorik, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons"
+  }
+]

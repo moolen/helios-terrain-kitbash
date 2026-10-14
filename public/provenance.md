@@ -1,0 +1,70 @@
+# Terrain showcase provenance and pipeline findings
+
+Investigated 2026-10-14. Read-only inspection of Helios terrain code, workbench source, research findings and provider policies. No AGENTS.md or CLAUDE.md was found in the inspected project roots/subdirectories. This note is outside the dirty game repository.
+
+## What to ship locally
+
+The source of the interactive showcase is `[path removed]`, with focused map branches in sibling `[checkout removed]*` directories. The main workbench already includes `io-a.html`, `io-b.html`, `io-c.html`, `rift-a.html`, `rift-b.html`, `rift-c.html`; `vite.config.js` builds these entry points with `[path removed]`. They import their focused `[path removed]` or `[path removed]` modules plus shared modules. Keep relevant `[path removed]`, `[path removed]`, source [path removed] and asset manifests with each demo.
+
+The workbench LICENSE is MIT; original code can retain it. The README's sentence “Original code and generated assets are MIT licensed” cannot cover derived third-party assets. Use MIT for original code and documentation only, and per-asset notices for data, scans, textures and their derivatives. Do not simply copy a blanket assets licence into the new showcase.
+
+Native game importer scripts are useful as pipeline examples but are not necessary to expose the browser maps. `[path removed]` often embeds source credit text and distinguishes authored additions. Include only carefully selected pipeline material, not the whole game.
+
+Full `[path removed]` size is about 552 MB (A 208 MB, B 202 MB, C 142 MB), including engine exports. Europa rift A is only 528 KB; B 5.8 MB and C 8.4 MB. Trim unused export rasters or optional highest-detail mesh LODs only after checking all runtime fetch references. Keep the public dataset overview HTML pages with just their referenced preview imagery and heightmap metadata; copying raw multi-GB scans is unnecessary.
+
+## Actual high-level process, verified from code
+
+1. **Research landforms and choose donors.** NASA/USGS lunar and Mars DTMs supply geographic structure. Earth volcanic, cliff and glacier lidar/photogrammetry supplies reusable landform shapes, relief bands and scan geometry. The `mm-data` and `io-data` findings JSON and generated review pages document candidates, accepted samples and rejected sources with source URLs, resolution and licences.
+2. **Put data in one measured frame.** Reproject source rasters with GDAL into a local metre coordinate system, preserve elevation units, fill no-data carefully, remove isolated stereo spikes, register overlapping DEM vertical datums by plane/quadratic fits, and separate useful wavelengths from stereo noise. Human roads, buildings and geothermal infrastructure in the Earth maps are masked from OpenStreetMap and inpainted.
+3. **Kitbash measured relief deliberately.** Cut and detrend crater/cone/ridge/flow donors; rotate, mirror, uniformly scale or explicitly exaggerate them; place features for the desired map composition and feather edges. Detail patches are blended with overlapping raised-cosine windows; record when real shapes move to invented positions. Keep a real-data/authored distinction.
+4. **Author simulation and gameplay layers.** Lava spread determines new flow outlines/thickness over the real base; Earth lidar adds the small flow texture. Io's sulfur pattern is an offline ballistic plume/deposit simulation plus fumarole and frost masks. Rocks and scan wall modules are placed by terrain rules. Pits with overhangs need separate authored mesh geometry; a heightfield cannot represent the underside of an overhang.
+5. **Bake outputs and inspect.** Bake the elevation raster, normal maps, material/deposit/emission masks, context apron, scan meshes and scatter transforms; generate adaptive error-bounded quadtree terrain mesh LODs. Review maps in Three.js and iterate on landform readability, seams, cliffs, material masks, scale and placement. Export 16-bit height PNG + decoding metadata, geometry, collision/height data and feature/scatter JSON for the game.
+
+Evidence: workbench `[path removed]`, `kitbash.py`, `deposits.py`, `bake_mesh.py`, `bake_maps.py`, `bake_export.py`; mm-tranq sibling `[path removed]`, `kitbash.py`, `bake_pit.py`, `bake_export.py`; per-map CREDITS and asset JSON. Be careful: some script docstrings and export source strings retain round-1 Tolbachik references after round-2 replacement with Puʻu ʻŌʻō. The current Io C credits describe the replacement; inspect the effective kitbash JSON before copying a pipeline claim.
+
+## Concrete maps and truthful captions
+
+- **Moon / Mare Tranquillitatis (`mm-tranq`[path removed]`[checkout removed]`.
+- **Mars / Acidalia.** HiRISE DTEEC_019018_2210_018728_2210_A01 1.1 m core, USGS-controlled CTX 20 m context, extra HiRISE high-pass texture and crater/cone stamps. Earth mud-volcano summit/profile/outcrop details are transplants. Current native provenance reports 1.5× vertical exaggeration about −4560 m. Do not describe it as an untouched NASA map.
+- **Io A / Loki.** Real Kīlauea July 2019 USGS lidar landscape, with authored flows, lava lake and deposits.
+- **Io B / Tvashtar.** Real Mt Tarawera New Zealand LINZ/BOPLASS 1 m lidar landscape, re-dressed for Io; simulated flow units and transplanted Great Rift cones/Tolbachik pit.
+- **Io C / Pele.** Real Krafla caldera Iceland ArcticDEM 2 m terrain, reprojected/resampled to a 1 m work grid; transplanted Puʻu ʻŌʻō 2018 collapse pit, Great Rift cones and Etna/Big Obsidian flow relief. Plume/deposit and lava composition are authored. None of the Io A/B/C base maps is measured Io topography.
+- **Europa A.** Hornsund glacier-front TLS wall modules and Greenland Qeqertarsuaq iceberg fragments re-materialled as ice, with a procedural branching layout informed by a measured Charon chasma profile. This is an Earth/Charon analog composition, not a measured Europa region.
+- **Europa B / Conamara Chaos.** Galileo/DLR stereo DTM provides plate layout; terrestrial cliff scans provide wall detail. One Mirror Fault module has no stated redistribution licence; keep the original local prototype, but remove/replace this module before claiming public redistribution is cleared.
+- **Europa C / Needles graben.** Canyonlands Needles lidar supplies layout; Cable Mountain rockfall scan supplies walls; Volcanic Tablelands-derived fissure planforms have no stated licence. Keep the original local prototype, but replace those planform stamps before a cleared public release.
+
+## Verified provider terms and corrections
+
+| Source | Verified terms | Required handling/source |
+| --- | --- | --- |
+| LROC NAC PDS DTMs | Public domain specifically for PDS archive data. LROC website imagery outside PDS is copyrighted; commercial non-PDS imagery needs permission. | Credit NASA/GSFC/Arizona State University. TRANQPIT1 source is explicitly the PDS archive. [Official terms](https://lroc.im-ldi.com/about/terms). |
+| HiRISE imagery/products | HiRISE usage policy states its produced images are public domain and asks for NASA/JPL/University of Arizona credit. | Current policy URL is `[path removed]`; inherited `/usage.php` returns 404. [Official policy](https://www.uahirise.org/media/usage.php). Retain exact DTM IDs and archive URLs. |
+| USGS-authored data | U.S. public domain; third-party material hosted by USGS is an exception. | Credit U.S. Geological Survey and specific survey/DOI. [Official copyrights policy](https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits). This supports actual USGS lidar acquisitions, not every OpenTopography-hosted scan. |
+| ArcticDEM v4.1 2 m mosaic | CC BY 4.0 confirmed in provider STAC collection's `license: CC-BY-4.0`. | [STAC collection](https://stac.pgc.umn.edu/api/v1/collections/arcticdem-mosaics-v4.1-2m); cite Porter et al. 2023 DOI 10.7910/DVN/3VDC4W and PGC acknowledgements. [Current acknowledgement policy](https://www.pgc.umn.edu/guides/user-services/acknowledgement-policy/). Do not ship source Vantor imagery under the DEM licence. |
+| Etna 2004–05 lidar/orthophotos | CC BY 4.0 explicitly on provider page. | Cite Fornaciai et al./INGV and describe modifications. [Official dataset](https://www.pi.ingv.it/banche-dati/2005-04-etna-lava-flow-data/). |
+| Fagradalsfjall 2021 DEMs/orthos | CC BY 4.0 verified in Zenodo provider API. | [Record](https://zenodo.org/records/7866738), [API](https://zenodo.org/api/records/7866738). Good Iceland source overview candidate. |
+| Holuhraun 2015 UAS SE margin | **CC BY-NC-SA 4.0**, confirmed by dataset API. | [Dataset DOI](https://doi.org/10.25422/azu.data.13269464.v2), [API](https://api.figshare.com/v2/articles/13269464). Keep this sample and its derived preview/heightmaps separately marked with NC/SA terms, or omit that specific candidate from a freely reusable asset set. Other Holuhraun ArcticDEM candidates are CC BY. |
+| Dallol domes textured 3D model | **Correction: current provider landing page and DataCite record both say CC BY 4.0.** Local Claude findings, kit manifest and Io credits incorrectly/stalely say CC BY-NC 4.0. | [Provider DOI landing page](https://www.opgc.fr/DOI/10.25519/txzc-1724/index.php), [DataCite rights metadata](https://api.datacite.org/dois/10.25519/txzc-1724). Both point to same `Dallol_Dome_03222020.zip` used locally. Preserve evidence and clearly mark corrected metadata in the showcase. Credit Emmanuel Delage, Olivier Grunwald and Benjamin van Wyk de Vries, OPGC, 2023; note extracted/tiled textures and decimated/cropped geometry. |
+| Hornsund TLS 2023 | CC BY 4.0 in the dataset's **Additional Info Licence** field. Generic sidebar says No License Provided, but the explicit Licence field is populated. | [Dataset](https://dataportal.igf.edu.pl/dataset/tls_hornsund_2023). Use provider citation: Lewińska, Maniktala & Glowacki (2026), TLS captured summer 2023. |
+| Qeqertarsuaq iceberg | CC BY 4.0 confirmed by Zenodo API. | Carlson (2020), [Record](https://zenodo.org/records/4014709), [API](https://zenodo.org/api/records/4014709). |
+| Needles fault-zone lidar | CC BY 4.0 confirmed by OpenTopography page. | [Dataset](https://opentopography.org/meta/OT.072020.6341.1), DOI 10.5069/G9X34VNQ. |
+| Cable Mountain Rockfall | CC BY 4.0 confirmed by OpenTopography page. | [Dataset](https://opentopography.org/dataspace/OTDS.092020.4269.1), DOI 10.5069/G9VT1Q8M. |
+| Mirror Fault | **Use License: Not Provided** verified at provider page; DataCite rightsList empty. | [Dataset](https://opentopography.org/dataspace/OTDS.022019.4326.1), DOI 10.5069/G9GQ6VVB. Local non-commercial use assertion is not a redistribution licence. |
+| Volcanic Tablelands 2019 | **Use License: Not Provided** verified at provider page; DataCite rightsList empty. | [Dataset](https://opentopography.org/meta/OT.062020.26911.1), DOI 10.5069/G97S7KXT. Same public redistribution limitation as above. |
+| Kaguya TC DTM via DARTS | ISAS open-data policy allows use, copying, forwarding and modification for commercial/noncommercial purposes, with credit and modifications stated; third-party restrictions can override. | [ISAS policy](https://www.isas.jaxa.jp/en/researchers/data-policy/), [SELENE archive](https://legacy.darts.isas.jaxa.jp/app/pdap/selene/). Use `[path removed]`, TC-team/archive credit, data IDs. Do not apply more restrictive Virtual Planet web-product policy indiscriminately to DARTS numerical data. |
+
+Mars/Moon kit `[path removed]` states its accepted kit contains CC0, public-domain and CC BY items only, no NC/ND. Sketchfab licences are documented from API at acquisition time in neighboring raw `meta.json`[path removed]`photos.json` attribution beside images and do not relicense them MIT.
+
+## Remaining release limits
+
+This investigation supports local staging of all requested maps with accurate notices. It is not a blanket clearance audit of every research candidate or every preview photo. Most main demo sources are straightforward PD/CC0/CC BY; unresolved public redistribution is concentrated in Europa B's Mirror Fault module and Europa C's Volcanic Tablelands stamps. Dallol is not currently an NC blocker after checking the provider. Holuhraun's selected UAS overview remains NC-SA. The source and demo repository can be open source while the optional showcase samples retain individually stated terms. No external publication, licence selection, or contact to data owners was performed.
+
+## Local showcase corrections
+
+Europa B’s Mirror Fault manifest entry and mesh are removed from the adapted browser demo. Original final native renders are retained as historical evidence, with the donor limitation stated; they are not a grant of reuse rights for those meshes. Europa C donor geometry is not packaged. The six post attachments are original unmodified captures. The final code/documentation license remains pending.
+
+## Shackleton ridge and Marius Hills
+
+Both preserved regional bases use the [118 m LRO LOLA global DEM](https://astrogeology.usgs.gov/search/map/moon_lro_lola_dem_118m), NASA/GSFC LOLA team via USGS Astrogeology (public domain). The original HRGN regional payloads are unchanged; sanitized per-region provenance retains uncompressed hashes and projection/grid details. The 62.5 m finest grid is resampling. Native round-18 production captures are preserved with image hashes and selected non-private sidecar fields. Source viewers omit authored game geometry.
+
+Shackleton combines measured polar geography with authored terraces, cold traps and construction sites. Marius combines measured mare/domes/trough relief with a traced channel whose wall profile, crossings, pit and smaller landforms are authored. The pit geometry follows [published LROC measurements](https://www.lroc.im-ldi.com/images/202), rather than a local pit DTM. Photographic terrain layers include Poly Haven CC0 regolith, rock-face, boulder and gravel material detail. Recovered native review briefs document the composition and scan/texture adoption; they are not a standalone recreation pipeline. The separate high-resolution Shackleton DTM PoC is outside this added archive.

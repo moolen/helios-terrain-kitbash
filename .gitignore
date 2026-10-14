@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+
+# Keep the Reddit draft local.
+post/reddit-post.md
+
+# Generated Python caches may embed private checkout paths.
+__pycache__/
+*.py[cod]

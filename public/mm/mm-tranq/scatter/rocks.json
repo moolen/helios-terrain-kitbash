@@ -1,0 +1,382 @@
+{
+ "rocks": [
+  {
+   "id": "moon-rock-a11-10017",
+   "group": "basalt",
+   "glb": "kit/moon-rock-a11-10017.glb",
+   "lods": [
+    "moon-rock-a11-10017_LOD0",
+    "moon-rock-a11-10017_LOD1",
+    "moon-rock-a11-10017_LOD2"
+   ],
+   "lod3": "moon-rock-a11-10017_lod3.bin",
+   "lodTris": [
+    2000,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -1.367537260055542,
+    -0.002598320599645376,
+    -1.507483720779419
+   ],
+   "max": [
+    1.3719879388809204,
+    2.7241971492767334,
+    1.4959995746612549
+   ],
+   "maxExtent": 3.003483295440674,
+   "meanLinear": 0.10510317236185074,
+   "licence": "CC0 1.0",
+   "credit": "\"Apollo Lunar Sample 10017,15\" by NASA Astromaterials 3D (Astromaterials Acquisition and Curation Office, NASA JSC; sketchfab.com/Astromaterials3D), CC0",
+   "source": "mm-data kit moon-rock-a11-10017"
+  },
+  {
+   "id": "moon-rock-a11-10022",
+   "group": "basalt",
+   "glb": "kit/moon-rock-a11-10022.glb",
+   "lods": [
+    "moon-rock-a11-10022_LOD0",
+    "moon-rock-a11-10022_LOD1",
+    "moon-rock-a11-10022_LOD2"
+   ],
+   "lod3": "moon-rock-a11-10022_lod3.bin",
+   "lodTris": [
+    2000,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -0.5983836054801941,
+    -0.0025595896877348423,
+    -0.8000493049621582
+   ],
+   "max": [
+    0.5922515392303467,
+    1.2824490070343018,
+    0.7948256731033325
+   ],
+   "maxExtent": 1.5948749780654907,
+   "meanLinear": 0.09827510267496109,
+   "licence": "CC0 1.0",
+   "credit": "\"Apollo Lunar Sample 10022,53\" by NASA Astromaterials 3D (Astromaterials Acquisition and Curation Office, NASA JSC; sketchfab.com/Astromaterials3D), CC0",
+   "source": "mm-data kit moon-rock-a11-10022"
+  },
+  {
+   "id": "moon-rock-a17-70017",
+   "group": "basalt",
+   "glb": "kit/moon-rock-a17-70017.glb",
+   "lods": [
+    "moon-rock-a17-70017_LOD0",
+    "moon-rock-a17-70017_LOD1",
+    "moon-rock-a17-70017_LOD2"
+   ],
+   "lod3": "moon-rock-a17-70017_lod3.bin",
+   "lodTris": [
+    1998,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -0.7980068922042847,
+    -0.00019301229622215033,
+    -1.687183141708374
+   ],
+   "max": [
+    0.8041733503341675,
+    2.2003490924835205,
+    1.6967638731002808
+   ],
+   "maxExtent": 3.383947014808655,
+   "meanLinear": 0.08880665898323059,
+   "licence": "CC0 1.0",
+   "credit": "\"Apollo Lunar Sample 70017,8\" by NASA Astromaterials 3D (Astromaterials Acquisition and Curation Office, NASA JSC; sketchfab.com/Astromaterials3D), CC0",
+   "source": "mm-data kit moon-rock-a17-70017"
+  },
+  {
+   "id": "moon-rock-a15-15016",
+   "group": "basalt",
+   "glb": "kit/moon-rock-a15-15016.glb",
+   "lods": [
+    "moon-rock-a15-15016_LOD0",
+    "moon-rock-a15-15016_LOD1",
+    "moon-rock-a15-15016_LOD2"
+   ],
+   "lod3": "moon-rock-a15-15016_lod3.bin",
+   "lodTris": [
+    2000,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -0.737096905708313,
+    0.012310173362493515,
+    -0.9888685941696167
+   ],
+   "max": [
+    0.7345040440559387,
+    1.7299296855926514,
+    0.9871354103088379
+   ],
+   "maxExtent": 1.9760040044784546,
+   "meanLinear": 0.10996471345424652,
+   "licence": "CC0 1.0",
+   "credit": "\"Apollo Lunar Sample 15016,0\" by NASA Astromaterials 3D (Astromaterials Acquisition and Curation Office, NASA JSC; sketchfab.com/Astromaterials3D), CC0",
+   "source": "mm-data kit moon-rock-a15-15016"
+  },
+  {
+   "id": "moon-rock-a14-14321",
+   "group": "jagged",
+   "glb": "kit/moon-rock-a14-14321.glb",
+   "lods": [
+    "moon-rock-a14-14321_LOD0",
+    "moon-rock-a14-14321_LOD1",
+    "moon-rock-a14-14321_LOD2"
+   ],
+   "lod3": "moon-rock-a14-14321_lod3.bin",
+   "lodTris": [
+    2000,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -1.1361604928970337,
+    0.0006216437905095518,
+    -1.2669116258621216
+   ],
+   "max": [
+    1.1295363903045654,
+    2.5969367027282715,
+    1.2550667524337769
+   ],
+   "maxExtent": 2.596315058937762,
+   "meanLinear": 0.15853145718574524,
+   "licence": "CC0 1.0",
+   "credit": "\"Apollo Lunar Sample 14321,1404\" by NASA Astromaterials 3D (Astromaterials Acquisition and Curation Office, NASA JSC; sketchfab.com/Astromaterials3D), CC0",
+   "source": "mm-data kit moon-rock-a14-14321"
+  },
+  {
+   "id": "moon-rock-a16-60025",
+   "group": "jagged",
+   "glb": "kit/moon-rock-a16-60025.glb",
+   "lods": [
+    "moon-rock-a16-60025_LOD0",
+    "moon-rock-a16-60025_LOD1",
+    "moon-rock-a16-60025_LOD2"
+   ],
+   "lod3": "moon-rock-a16-60025_lod3.bin",
+   "lodTris": [
+    2000,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -0.9053068161010742,
+    -0.004982245620340109,
+    -1.1104098558425903
+   ],
+   "max": [
+    0.9001693725585938,
+    1.541068196296692,
+    1.0997025966644287
+   ],
+   "maxExtent": 2.210112452507019,
+   "meanLinear": 0.25032150745391846,
+   "licence": "CC0 1.0",
+   "credit": "\"Apollo Lunar Sample 60025,241\" by NASA Astromaterials 3D (Astromaterials Acquisition and Curation Office, NASA JSC; sketchfab.com/Astromaterials3D), CC0",
+   "source": "mm-data kit moon-rock-a16-60025"
+  },
+  {
+   "id": "ph-moon-rock-02",
+   "group": "rubble",
+   "glb": "kit/ph-moon-rock-02.glb",
+   "lods": [
+    "ph-moon-rock-02_LOD0",
+    "ph-moon-rock-02_LOD1",
+    "ph-moon-rock-02_LOD2"
+   ],
+   "lod3": "ph-moon-rock-02_lod3.bin",
+   "lodTris": [
+    2000,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -0.4925996661186218,
+    -0.4006742835044861,
+    -0.4990098774433136
+   ],
+   "max": [
+    0.4904690682888031,
+    0.4033976197242737,
+    0.5002524256706238
+   ],
+   "maxExtent": 0.9992623031139374,
+   "meanLinear": 0.17,
+   "licence": "CC0 1.0",
+   "credit": "Poly Haven moon_rock_02 (Greg Zaal, Rico Cilliers, Jenelle van Heerden), CC0 1.0; decimated + baked for mm-tranq"
+  },
+  {
+   "id": "ph-moon-rock-03",
+   "group": "rubble",
+   "glb": "kit/ph-moon-rock-03.glb",
+   "lods": [
+    "ph-moon-rock-03_LOD0",
+    "ph-moon-rock-03_LOD1",
+    "ph-moon-rock-03_LOD2"
+   ],
+   "lod3": "ph-moon-rock-03_lod3.bin",
+   "lodTris": [
+    2000,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -0.5004581212997437,
+    -0.2596075236797333,
+    -0.383587121963501
+   ],
+   "max": [
+    0.5013265013694763,
+    0.2590668201446533,
+    0.3856108486652374
+   ],
+   "maxExtent": 1.00178462266922,
+   "meanLinear": 0.17,
+   "licence": "CC0 1.0",
+   "credit": "Poly Haven moon_rock_03 (Greg Zaal, Rico Cilliers, Jenelle van Heerden), CC0 1.0; decimated + baked for mm-tranq"
+  },
+  {
+   "id": "ph-moon-rock-04",
+   "group": "rubble",
+   "glb": "kit/ph-moon-rock-04.glb",
+   "lods": [
+    "ph-moon-rock-04_LOD0",
+    "ph-moon-rock-04_LOD1",
+    "ph-moon-rock-04_LOD2"
+   ],
+   "lod3": "ph-moon-rock-04_lod3.bin",
+   "lodTris": [
+    2000,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -0.34293442964553833,
+    -0.15359215438365936,
+    -0.49893108010292053
+   ],
+   "max": [
+    0.3422512710094452,
+    0.15587101876735687,
+    0.5004308819770813
+   ],
+   "maxExtent": 0.9993619620800018,
+   "meanLinear": 0.17,
+   "licence": "CC0 1.0",
+   "credit": "Poly Haven moon_rock_04 (Greg Zaal, Rico Cilliers, Jenelle van Heerden), CC0 1.0; decimated + baked for mm-tranq"
+  },
+  {
+   "id": "ph-moon-rock-05",
+   "group": "rubble",
+   "glb": "kit/ph-moon-rock-05.glb",
+   "lods": [
+    "ph-moon-rock-05_LOD0",
+    "ph-moon-rock-05_LOD1",
+    "ph-moon-rock-05_LOD2"
+   ],
+   "lod3": "ph-moon-rock-05_lod3.bin",
+   "lodTris": [
+    2000,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -0.4413720965385437,
+    -0.45149242877960205,
+    -0.5005447268486023
+   ],
+   "max": [
+    0.44220948219299316,
+    0.44917985796928406,
+    0.5002583861351013
+   ],
+   "maxExtent": 1.0008031129837036,
+   "meanLinear": 0.17,
+   "licence": "CC0 1.0",
+   "credit": "Poly Haven moon_rock_05 (Greg Zaal, Rico Cilliers, Jenelle van Heerden), CC0 1.0; decimated + baked for mm-tranq"
+  },
+  {
+   "id": "ph-moon-rock-06",
+   "group": "rubble",
+   "glb": "kit/ph-moon-rock-06.glb",
+   "lods": [
+    "ph-moon-rock-06_LOD0",
+    "ph-moon-rock-06_LOD1",
+    "ph-moon-rock-06_LOD2"
+   ],
+   "lod3": "ph-moon-rock-06_lod3.bin",
+   "lodTris": [
+    2000,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -0.46690547466278076,
+    -0.30002325773239136,
+    -0.4999766945838928
+   ],
+   "max": [
+    0.46687763929367065,
+    0.29946523904800415,
+    0.4987708330154419
+   ],
+   "maxExtent": 0.9987475275993347,
+   "meanLinear": 0.17,
+   "licence": "CC0 1.0",
+   "credit": "Poly Haven moon_rock_06 (Greg Zaal, Rico Cilliers, Jenelle van Heerden), CC0 1.0; decimated + baked for mm-tranq"
+  },
+  {
+   "id": "ph-moon-rock-07",
+   "group": "rubble",
+   "glb": "kit/ph-moon-rock-07.glb",
+   "lods": [
+    "ph-moon-rock-07_LOD0",
+    "ph-moon-rock-07_LOD1",
+    "ph-moon-rock-07_LOD2"
+   ],
+   "lod3": "ph-moon-rock-07_lod3.bin",
+   "lodTris": [
+    1998,
+    500,
+    100,
+    24
+   ],
+   "min": [
+    -0.49998006224632263,
+    -0.3107210099697113,
+    -0.38175565004348755
+   ],
+   "max": [
+    0.5001392364501953,
+    0.3093186914920807,
+    0.3809764087200165
+   ],
+   "maxExtent": 1.000119298696518,
+   "meanLinear": 0.17,
+   "licence": "CC0 1.0",
+   "credit": "Poly Haven moon_rock_07 (Greg Zaal, Rico Cilliers, Jenelle van Heerden), CC0 1.0; decimated + baked for mm-tranq"
+  }
+ ]
+}

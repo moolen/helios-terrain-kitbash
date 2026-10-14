@@ -1,0 +1,112 @@
+[
+  {
+    "id": "io-a",
+    "title": "Kīlauea patera",
+    "body": "Io",
+    "source_code": "src/io/a",
+    "assets": "public/io/a",
+    "review": "docs/io/a",
+    "description": "Kīlauea’s collapsed summit becomes a patera: measured terraces, authored lava activity, simulated sulfur deposits.",
+    "tag": "2019 USGS lidar / Hawaiʻi",
+    "preview": "media/io-a.jpg",
+    "url": "io-a.html"
+  },
+  {
+    "id": "io-b",
+    "title": "Tarawera fissure",
+    "body": "Io",
+    "source_code": "src/io/b",
+    "assets": "public/io/b",
+    "review": "docs/io/b",
+    "description": "Tarawera’s fissure chain supplies the structure. Lava fountains, flow composition and sulfur dressing give it an Io identity.",
+    "tag": "1 m LINZ lidar / New Zealand",
+    "preview": "media/io-b.jpg",
+    "url": "io-b.html"
+  },
+  {
+    "id": "io-c",
+    "title": "Krafla plume field",
+    "body": "Io",
+    "source_code": "src/io/c",
+    "assets": "public/io/c",
+    "review": "docs/io/c",
+    "description": "Krafla provides the caldera. Transplanted pits, cones and flow relief meet procedural plume fallout and lava emission.",
+    "tag": "2 m ArcticDEM / Iceland",
+    "preview": "media/io-c.jpg",
+    "url": "io-c.html"
+  },
+  {
+    "id": "rift-a",
+    "title": "Ice rift canyon",
+    "body": "Europa analogue",
+    "source_code": "src/rifts/a",
+    "assets": "public/rifts/a",
+    "review": "docs/rifts/a",
+    "description": "Scanned terrestrial ice walls and fragments in a branching, authored chasma. An analogue composition for Europa.",
+    "tag": "Glacier TLS + iceberg photogrammetry",
+    "preview": "media/rift-a.jpg",
+    "url": "rift-a.html"
+  },
+  {
+    "id": "rift-b",
+    "title": "Conamara chaos edge",
+    "body": "Europa",
+    "source_code": "src/rifts/b",
+    "assets": "public/rifts/b",
+    "review": "docs/rifts/b",
+    "description": "Real Europa plate relief with terrestrial cliff scans re-materialled as ice. Procedural detail completes the chaos margin.",
+    "tag": "Galileo stereo DTM / Conamara",
+    "preview": "media/rift-b.jpg",
+    "url": "rift-b.html"
+  },
+  {
+    "id": "mm-tranq",
+    "title": "Tranquillitatis pit",
+    "body": "Moon",
+    "source_code": "src/mm/mm-tranq",
+    "assets": "public/mm/mm-tranq",
+    "review": "docs/mm/mm-tranq",
+    "description": "Measured mare relief and transplanted lunar features. The shaft and overhang are authored from pit measurements.",
+    "tag": "Kaguya TC + LROC NAC / Moon",
+    "preview": "media/mm-tranq.jpg",
+    "url": "mm-tranq.html"
+  },
+  {
+    "id": "mm-cerberus",
+    "title": "Cerberus twin fissures",
+    "body": "Mars",
+    "source_code": "src/mm/mm-cerberus",
+    "assets": "public/mm/mm-cerberus",
+    "review": "docs/mm/mm-cerberus",
+    "description": "Stereo topography supplies the fissures; scanned wall modules add faces a heightfield cannot describe well.",
+    "tag": "HiRISE + CTX / Mars",
+    "preview": "media/mm-cerberus.jpg",
+    "url": "mm-cerberus.html?walls=r8"
+  },
+  {
+    "id": "moon-shackleton",
+    "title": "Shackleton ridge",
+    "body": "Moon",
+    "presentation": "native render gallery + measured-base viewer",
+    "assets": "public/moon/shackleton",
+    "review": "public/reviews/moon-shackleton.html",
+    "description": "Sunlit polar ridges and shadowed crater basins. Measured large-scale relief supports authored terraces, cold traps and construction sites.",
+    "tag": "118 m LOLA / authored landforms / photographic detail",
+    "preview": "media/moon-shackleton.png",
+    "url": "reviews/moon-shackleton.html",
+    "source_viewer": "moon-shackleton-source.html"
+  },
+  {
+    "id": "moon-marius",
+    "title": "Marius Hills / sinuous rille",
+    "body": "Moon",
+    "presentation": "native render gallery + measured-base viewer",
+    "assets": "public/moon/marius",
+    "review": "public/reviews/moon-marius.html",
+    "description": "Measured mare and dome-field relief with an authored sinuous channel, pit, crossing spans and boulder-lined banks.",
+    "tag": "118 m LOLA / authored landforms / photographic detail",
+    "preview": "media/moon-marius.png",
+    "url": "reviews/moon-marius.html",
+    "source_viewer": "moon-marius-source.html"
+  }
+]

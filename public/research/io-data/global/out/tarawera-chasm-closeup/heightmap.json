@@ -1,0 +1,30 @@
+{
+  "title": "Tarawera chasm close-up (LINZ lidar DEM, 1 m)",
+  "source": "LINZ nz-elevation bay-of-plenty_2019-2022 dem_1m (EPSG:2193), native 1 m",
+  "crs": "EPSG:2193",
+  "bounds": {
+    "xmin": 1906000.0,
+    "ymin": 5762500.0,
+    "xmax": 1909200.0,
+    "ymax": 5764800.0
+  },
+  "bounds_lonlat": {
+    "west": 176.49490972700585,
+    "south": -38.23346221821746,
+    "east": 176.53239555132362,
+    "north": -38.21167880692672
+  },
+  "width_px": 3200,
+  "height_px": 2300,
+  "metres_per_pixel": 1.0,
+  "extent_m": [
+    3200.0,
+    2300.0
+  ],
+  "min_elev_m": 549.8480224609375,
+  "max_elev_m": 1109.64697265625,
+  "relief_m": 559.7989501953125,
+  "nodata_fraction": 0.0,
+  "encoding": "16-bit greyscale PNG, 0 = min_elev_m, 65535 = max_elev_m (linear)",
+  "oblique_vertical_exaggeration": 1.5
+}

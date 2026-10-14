@@ -1,0 +1,170 @@
+{
+ "approach": {
+  "shown": 270349,
+  "chunks": 151552,
+  "walls": {
+   "triangles": 118797,
+   "instances": 1082
+  },
+  "rocks": {
+   "triangles": 0,
+   "instances": 0
+  },
+  "camera": {
+   "focusX": 234.375,
+   "focusZ": 546.875,
+   "yaw": 0,
+   "pitch": 24,
+   "distance": 14000.006
+  },
+  "sun": {
+   "AzimuthDeg": 95.04538222470524,
+   "ElevationDeg": 16.001726689723576,
+   "Direction": {}
+  }
+ },
+ "close": {
+  "shown": 489999,
+  "chunks": 296320,
+  "walls": {
+   "triangles": 129969,
+   "instances": 627
+  },
+  "rocks": {
+   "triangles": 63710,
+   "instances": 1792
+  },
+  "camera": {
+   "focusX": 234.375,
+   "focusZ": 546.875,
+   "yaw": 0,
+   "pitch": 28,
+   "distance": 349.99997
+  },
+  "sun": {
+   "AzimuthDeg": 95.04538222470524,
+   "ElevationDeg": 16.001726689723576,
+   "Direction": {}
+  }
+ },
+ "gameplay": {
+  "shown": 489999,
+  "chunks": 269056,
+  "walls": {
+   "triangles": 129954,
+   "instances": 692
+  },
+  "rocks": {
+   "triangles": 90989,
+   "instances": 4699
+  },
+  "camera": {
+   "focusX": 234.375,
+   "focusZ": 546.875,
+   "yaw": 0,
+   "pitch": 24,
+   "distance": 2350.0005
+  },
+  "sun": {
+   "AzimuthDeg": 95.04538222470524,
+   "ElevationDeg": 16.001726689723576,
+   "Direction": {}
+  }
+ },
+ "hero": {
+  "shown": 489998,
+  "chunks": 274048,
+  "walls": {
+   "triangles": 129950,
+   "instances": 753
+  },
+  "rocks": {
+   "triangles": 86000,
+   "instances": 4162
+  },
+  "camera": {
+   "focusX": -520.41943,
+   "focusZ": 422.28387,
+   "yaw": -171.35602,
+   "pitch": 32,
+   "distance": 1500.0001
+  },
+  "sun": {
+   "AzimuthDeg": 95.04538222470524,
+   "ElevationDeg": 16.001726689723576,
+   "Direction": {}
+  }
+ },
+ "horizon": {
+  "shown": 489982,
+  "chunks": 279040,
+  "walls": {
+   "triangles": 129997,
+   "instances": 615
+  },
+  "rocks": {
+   "triangles": 80945,
+   "instances": 3571
+  },
+  "camera": {
+   "focusX": 234.375,
+   "focusZ": 546.875,
+   "yaw": 270,
+   "pitch": 20,
+   "distance": 1600.0001
+  },
+  "sun": {
+   "AzimuthDeg": 95.04538222470524,
+   "ElevationDeg": 16.001726689723576,
+   "Direction": {}
+  }
+ },
+ "scarp": {
+  "shown": 489989,
+  "chunks": 301056,
+  "walls": {
+   "triangles": 129995,
+   "instances": 626
+  },
+  "rocks": {
+   "triangles": 58938,
+   "instances": 450
+  },
+  "camera": {
+   "focusX": -478.5898,
+   "focusZ": 359.42993,
+   "yaw": -111.35602,
+   "pitch": 20,
+   "distance": 453.00336
+  },
+  "sun": {
+   "AzimuthDeg": 95.04538222470524,
+   "ElevationDeg": 16.001726689723576,
+   "Direction": {}
+  }
+ },
+ "wall": {
+  "shown": 489998,
+  "chunks": 290176,
+  "walls": {
+   "triangles": 129929,
+   "instances": 350
+  },
+  "rocks": {
+   "triangles": 69893,
+   "instances": 113
+  },
+  "camera": {
+   "focusX": -506.56866,
+   "focusZ": 401.47147,
+   "yaw": -91.35602,
+   "pitch": 20,
+   "distance": 150.00002
+  },
+  "sun": {
+   "AzimuthDeg": 95.04538222470524,
+   "ElevationDeg": 16.001726689723576,
+   "Direction": {}
+  }
+ }
+}

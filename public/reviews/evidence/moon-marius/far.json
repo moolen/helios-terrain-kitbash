@@ -1,0 +1,44 @@
+{
+  "region": "moon.marius_hills",
+  "view": "far",
+  "terrain": {
+    "ShownTriangles": 462312,
+    "ResidentTriangles": 640744,
+    "ShownChunks": 492,
+    "ChunksPerLod": [
+      0,
+      12,
+      132,
+      348,
+      0,
+      0,
+      0
+    ],
+    "Builds": 536,
+    "BuildMs": 166828.2007000001,
+    "SunUpdates": 4,
+    "LastSunUpdateMs": 541.6411,
+    "DrawnHeightsMs": 0.0028
+  },
+  "rocks": {
+    "triangles": 149992,
+    "instances": 7389,
+    "foundationsClear": true
+  },
+  "camera": {
+    "yaw": 245,
+    "pitch": 24,
+    "distance": 14000,
+    "focus": "(-2390.625, 10.871168, -4203.125)",
+    "eye": "(9200.722, 5705.184, -9608.258)"
+  },
+  "sun": {
+    "AzimuthDeg": 92.04278583496347,
+    "ElevationDeg": 9.158801621380274,
+    "Direction": {}
+  },
+  "mapHash": "E075D52AA02E4005A504033B5FAD663F62D90E7BE52F5F669A141052CCCAAE93",
+  "productionDefaults": true,
+  "captureStage": "Textured native Moon terrain / round 18 production",
+  "sha256Image": "c5160cf96194a8c88dca06a3c8fbf77b973f1eb7b7c7076201c7419d817d7b68"
+}

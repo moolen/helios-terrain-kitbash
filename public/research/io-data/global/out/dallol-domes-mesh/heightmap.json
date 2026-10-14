@@ -1,0 +1,30 @@
+{
+  "title": "Dallol domes (OPGC photogrammetry mesh gridded to 0.5 m)",
+  "source": "OPGC Dallol domes OBJ (doi:10.25519/TXZC-1724), LOD level b tiles b0-b3 (2.15 M faces), vertices gridded (linear) to 0.5 m; heights relative to model zmin (KML minAltitude -119.26 m); placed in UTM 37N from KML SW corner (approx., +-1-2 m)",
+  "crs": "EPSG:32637",
+  "bounds": {
+    "xmin": 639744.4306366232,
+    "ymin": 1574247.2575694125,
+    "xmax": 640354.9306366232,
+    "ymax": 1575037.2575694125
+  },
+  "bounds_lonlat": {
+    "west": 40.29527725101679,
+    "south": 14.236256452785678,
+    "east": 40.30097577790904,
+    "north": 14.243428405327261
+  },
+  "width_px": 1221,
+  "height_px": 1580,
+  "metres_per_pixel": 0.5,
+  "extent_m": [
+    610.5,
+    790.0
+  ],
+  "min_elev_m": 0.00882195308804512,
+  "max_elev_m": 10.72646427154541,
+  "relief_m": 10.717642318457365,
+  "nodata_fraction": 0.3586544542240745,
+  "encoding": "16-bit greyscale PNG, 0 = min_elev_m, 65535 = max_elev_m (linear)",
+  "oblique_vertical_exaggeration": 6.0
+}

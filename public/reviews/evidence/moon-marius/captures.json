@@ -1,0 +1,17 @@
+[
+  {
+    "file": "gameplay.png",
+    "sha256": "62867a28e1058f9071d93c20abdf652e4a0feaabe3f8838107e170515a168cb3",
+    "stage": "Textured native Moon terrain / round 18 production"
+  },
+  {
+    "file": "close.png",
+    "sha256": "4131310500062fd326c34d3f0d330cac7f549736b50c11247373180f0ca82980",
+    "stage": "Textured native Moon terrain / round 18 production"
+  },
+  {
+    "file": "far.png",
+    "sha256": "c5160cf96194a8c88dca06a3c8fbf77b973f1eb7b7c7076201c7419d817d7b68",
+    "stage": "Textured native Moon terrain / round 18 production"
+  }
+]

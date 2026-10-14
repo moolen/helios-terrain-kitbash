@@ -1,0 +1,85 @@
+{
+ "res": 1024,
+ "layers": [
+  {
+   "name": "regolith",
+   "credit": "Poly Haven moon_01 (CC0 1.0; helios-texture-library)",
+   "tile": 3.1,
+   "albedoMean": [
+    0.468,
+    0.468,
+    0.468
+   ]
+  },
+  {
+   "name": "cratered",
+   "credit": "Poly Haven moon_meteor_01 (CC0 1.0; helios-texture-library)",
+   "tile": 3.2,
+   "albedoMean": [
+    0.473,
+    0.473,
+    0.473
+   ]
+  },
+  {
+   "name": "regolith3",
+   "credit": "Poly Haven moon_03 (CC0 1.0; helios-texture-library)",
+   "tile": 3.2,
+   "albedoMean": [
+    0.509,
+    0.509,
+    0.509
+   ]
+  },
+  {
+   "name": "basaltCliff",
+   "credit": "Io kit basalt-cliff = Poly Haven dark_rock_02 by Amal Kumar (CC0 1.0)",
+   "tile": 2.0,
+   "albedoMean": [
+    0.3,
+    0.3,
+    0.3
+   ]
+  },
+  {
+   "name": "basaltOld",
+   "credit": "Io kit basalt-old-weathered = Poly Haven dark_rock by Amal Kumar (CC0 1.0)",
+   "tile": 2.42,
+   "albedoMean": [
+    0.319,
+    0.319,
+    0.319
+   ]
+  },
+  {
+   "name": "gravel",
+   "credit": "Poly Haven gray_rocks (CC0 1.0; helios-texture-library), desaturated",
+   "tile": 1.8,
+   "albedoMean": [
+    0.444,
+    0.444,
+    0.444
+   ]
+  },
+  {
+   "name": "rockFace",
+   "credit": "Poly Haven rock_face_03 (CC0 1.0; helios-texture-library)",
+   "tile": 2.7,
+   "albedoMean": [
+    0.428,
+    0.428,
+    0.428
+   ]
+  },
+  {
+   "name": "micro",
+   "credit": "Poly Haven moon_flat_macro_01 (CC0 1.0; helios-texture-library)",
+   "tile": 0.37,
+   "albedoMean": [
+    0.512,
+    0.512,
+    0.512
+   ]
+  }
+ ]
+}

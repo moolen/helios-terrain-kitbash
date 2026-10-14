@@ -1,0 +1,232 @@
+{
+ "size": 12288,
+ "h0": -2900.0,
+ "defaultHour": 16.4,
+ "latDeg": 10.3,
+ "normalMap": {
+  "file": "maps/normal_2m.webp",
+  "encoding": "octahedral-rg6-upper",
+  "componentLevels": 64,
+  "decodedRGBSHA256": "01ebea15802a48664d342d6bd37ba8319c724d24ade1ebebb3bbb15ea9bbd001",
+  "sourceRGBSHA256": "89c228abfe6ea4a7c3cecd3581b75fe948bc7b88ae1351be4598d7e9bd1206a9",
+  "angularErrorReference": "unit vectors decoded from source 8-bit RGB normals; excludes initial RGB quantization",
+  "angularErrorP50P95P99MaxDeg": [
+   0.9024,
+   1.8098,
+   2.5334,
+   3.7027
+  ]
+ },
+ "heightfield": {
+  "n": 1537,
+  "size": 12288
+ },
+ "views": {
+  "close": {
+   "label": "close 350 m (N fossa wall)",
+   "target": [
+    700,
+    88.369384765625,
+    -1350
+   ],
+   "dist": 350,
+   "pitch": 14,
+   "yaw": 10,
+   "fov": 50
+  },
+  "gameplay": {
+   "label": "gameplay 2350 m",
+   "target": [
+    300,
+    284.51708984375,
+    300
+   ],
+   "dist": 2350,
+   "pitch": 40,
+   "yaw": 0,
+   "fov": 50
+  },
+  "overview": {
+   "label": "overview",
+   "target": [
+    0,
+    289.109619140625,
+    0
+   ],
+   "dist": 11500,
+   "pitch": 55,
+   "yaw": 0,
+   "fov": 50
+  },
+  "wall": {
+   "label": "wall hero (N fossa wall, from the trough)",
+   "target": [
+    900,
+    240.349609375,
+    -1350
+   ],
+   "dist": 700,
+   "pitch": 6,
+   "yaw": 30,
+   "fov": 45
+  },
+  "fissure": {
+   "label": "fissure hero (S fossa)",
+   "target": [
+    1300,
+    -24.4775390625,
+    1800
+   ],
+   "dist": 1700,
+   "pitch": 14,
+   "yaw": 248,
+   "fov": 45
+  },
+  "deposit": {
+   "label": "collapsed block + deposit",
+   "target": [
+    -770,
+    136.721435546875,
+    -690
+   ],
+   "dist": 900,
+   "pitch": 30,
+   "yaw": 160,
+   "fov": 50,
+   "hour": 13.6
+  }
+ },
+ "sites": {
+  "hubs": [
+   {
+    "name": "Hub 1 north plain",
+    "x": 2000,
+    "z": -3900,
+    "r": 450,
+    "y": 375.232666015625
+   },
+   {
+    "name": "Hub 2 south plain (platy lava, Athabasca head)",
+    "x": -2200,
+    "z": 4300,
+    "r": 450,
+    "y": 358.934814453125
+   }
+  ],
+  "deposits": [
+   {
+    "name": "steep-only deposit on the collapsed block (N trough bench, ~150 m below the rim)",
+    "x": -770,
+    "z": -690,
+    "r": 160,
+    "access": "conveyor/corridor down the trough wall only",
+    "y": 103.185546875
+   }
+  ],
+  "expansion": [
+   {
+    "name": "inter-fissure plateau",
+    "x": 1500,
+    "z": 600,
+    "r": 600,
+    "y": 284.02197265625
+   }
+  ],
+  "thermalCells": [
+   {
+    "x": -4621.0,
+    "z": -2341.0,
+    "lengthM": 220.0,
+    "widthM": 40.0,
+    "kind": "possible thermal cell (young fissure volcanism)",
+    "y": 41.8125
+   },
+   {
+    "x": -1317.0,
+    "z": -1647.0,
+    "lengthM": 220.0,
+    "widthM": 40.0,
+    "kind": "possible thermal cell (young fissure volcanism)",
+    "y": -146.067138671875
+   },
+   {
+    "x": -1601.0,
+    "z": 997.0,
+    "lengthM": 220.0,
+    "widthM": 40.0,
+    "kind": "possible thermal cell (young fissure volcanism)",
+    "y": -47.1669921875
+   },
+   {
+    "x": -4735.0,
+    "z": 327.0,
+    "lengthM": 220.0,
+    "widthM": 40.0,
+    "kind": "possible thermal cell (young fissure volcanism)",
+    "y": 122.173095703125
+   },
+   {
+    "x": -4211.0,
+    "z": -3899.0,
+    "lengthM": 220.0,
+    "widthM": 40.0,
+    "kind": "possible thermal cell (young fissure volcanism)",
+    "y": 40.97412109375
+   },
+   {
+    "x": 5561.0,
+    "z": 1253.0,
+    "lengthM": 220.0,
+    "widthM": 40.0,
+    "kind": "possible thermal cell (young fissure volcanism)",
+    "y": -181.722412109375
+   },
+   {
+    "x": -473.0,
+    "z": 1135.0,
+    "lengthM": 220.0,
+    "widthM": 40.0,
+    "kind": "possible thermal cell (young fissure volcanism)",
+    "y": -35.754150390625
+   },
+   {
+    "x": 5083.0,
+    "z": 3361.0,
+    "lengthM": 220.0,
+    "widthM": 40.0,
+    "kind": "possible thermal cell (young fissure volcanism)",
+    "y": -110.31982421875
+   },
+   {
+    "x": 251.0,
+    "z": -957.0,
+    "lengthM": 220.0,
+    "widthM": 40.0,
+    "kind": "possible thermal cell (young fissure volcanism)",
+    "y": -267.295654296875
+   },
+   {
+    "x": -2405.0,
+    "z": -1939.0,
+    "lengthM": 220.0,
+    "widthM": 40.0,
+    "kind": "possible thermal cell (young fissure volcanism)",
+    "y": -160.601318359375
+   }
+  ],
+  "coneSites": [
+   {
+    "x": -900,
+    "z": 3300,
+    "rot": 0,
+    "gain": 1.0
+   },
+   {
+    "x": 4300,
+    "z": -2600,
+    "rot": 1,
+    "gain": 0.9
+   }
+  ]
+ }
+}

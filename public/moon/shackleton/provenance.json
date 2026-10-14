@@ -1,0 +1,40 @@
+{
+  "regionId": "moon.shackleton_ridge",
+  "product": "LRO LOLA global DEM, 118 m/px (Lunar_LOLA_118m.tif; NASA GSFC LOLA team / USGS Astrogeology, public domain)",
+  "sourceBytes": 8494203833,
+  "anchorLatitudeDeg": -89.4026695104364,
+  "anchorLongitudeDeg": 207.85065959386066,
+  "sourceCatalogCoordinate": [
+    -89.0,
+    160.0
+  ],
+  "anchorReason": "Connecting Ridge C1 reference (89.4398S 222.83E): anchor solved so the existing hub-neighbourhood offset (4390.625 m east, 1703.125 m south) maps to C1; v6 measured geography with authored construction terraces and local cold traps",
+  "projection": "+proj=aeqd +lat_0=-89.4026695104364 +lon_0=207.85065959386066 +R=1737400 (x east, z south = -northing)",
+  "levels": [
+    {
+      "spacingMetres": 62.5,
+      "size": 384,
+      "halfExtentMetres": 12000.0,
+      "resampling": "cubic"
+    },
+    {
+      "spacingMetres": 125.0,
+      "size": 384,
+      "halfExtentMetres": 24000.0,
+      "resampling": "average"
+    },
+    {
+      "spacingMetres": 500.0,
+      "size": 576,
+      "halfExtentMetres": 144000.0,
+      "resampling": "average"
+    }
+  ],
+  "units": "int16 LOLA DN, 0.5 m per unit above the 1,737.4 km sphere",
+  "datumDn": 3024,
+  "datumMetres": 1512.0,
+  "sha256Uncompressed": "1813374b1634132bd12f4ad58c097b84afb583e06890371c51bd4bf6935fd879",
+  "use": "Measured large-scale base of the deterministic region generator (core/Game/Region); gameplay landforms, deposits, flags and detail are authored on top in C#.",
+  "sourceUrl": "https://astrogeology.usgs.gov/search/map/moon_lro_lola_dem_118m",
+  "presentation": "Interactive browser view shows only the preserved measured base. Native render gallery includes authored game geometry and photographic detail."
+}

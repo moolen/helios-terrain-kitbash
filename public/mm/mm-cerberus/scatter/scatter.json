@@ -1,0 +1,350 @@
+{
+ "count": 1194482,
+ "stride": 8,
+ "groups": {
+  "talus": 132481,
+  "ledge": 1361,
+  "debris": 458392,
+  "scree": 382901,
+  "fracture": 101530,
+  "bigtalus": 14021,
+  "floor": 1239,
+  "platy": 51415,
+  "cones": 5084,
+  "plain": 39576,
+  "scanWallFeet": 4858,
+  "fallBoulders": 1624
+ },
+ "rocks": [
+  {
+   "id": "mars-rock-rochette",
+   "group": "plain",
+   "glb": "kit/mars-rock-rochette.glb",
+   "lod0Name": "mars-rock-rochette_LOD0",
+   "lod1": "mars-rock-rochette_lod1.bin",
+   "lod2": "mars-rock-rochette_lod2.bin",
+   "lod3": "mars-rock-rochette_lod3.bin",
+   "lod3Faces": 28,
+   "lod0Faces": 2000,
+   "lod1Faces": 500,
+   "lod2Faces": 99,
+   "min": [
+    -0.8045016527175903,
+    -0.00030289142159745097,
+    -0.7930715084075928
+   ],
+   "max": [
+    0.8014953136444092,
+    0.39577677845954895,
+    0.7911535501480103
+   ],
+   "maxExtent": 1.6059969663619995,
+   "meanLinear": [
+    0.215,
+    0.104,
+    0.05
+   ],
+   "sink": 0.3,
+   "licence": "CC BY 4.0",
+   "credit": "\"M2020 ZCAM -- Rochette pre-abrasion, sol 180\", NASA/JPL-Caltech/MSSS/ASU/Cornell; 3D model by the Mastcam-Z team (sketchfab.com/Mastcam-Z), CC BY 4.0",
+   "sourceUrl": "https://sketchfab.com/3d-models/c58c8f9cb9374b02b117e87e9748b5a0"
+  },
+  {
+   "id": "mars-rock-bettys-bedded",
+   "group": "outcrop",
+   "glb": "kit/mars-rock-bettys-bedded.glb",
+   "lod0Name": "mars-rock-bettys-bedded_LOD0",
+   "lod1": "mars-rock-bettys-bedded_lod1.bin",
+   "lod2": "mars-rock-bettys-bedded_lod2.bin",
+   "lod3": "mars-rock-bettys-bedded_lod3.bin",
+   "lod3Faces": 28,
+   "lod0Faces": 1999,
+   "lod1Faces": 498,
+   "lod2Faces": 100,
+   "min": [
+    -1.157875895500183,
+    -0.003659256501123309,
+    -1.2961044311523438
+   ],
+   "max": [
+    1.1286247968673706,
+    1.7241709232330322,
+    1.2830289602279663
+   ],
+   "maxExtent": 2.57913339138031,
+   "meanLinear": [
+    0.233,
+    0.123,
+    0.064
+   ],
+   "sink": 0.3,
+   "licence": "CC BY 4.0",
+   "credit": "\"Bettys Rock (VR)\", NASA/JPL-Caltech/MSSS/ASU/Cornell; 3D model by the Mastcam-Z team (sketchfab.com/Mastcam-Z), CC BY 4.0",
+   "sourceUrl": "https://sketchfab.com/3d-models/625d59a8060b44d586ba1faa833d7fd2"
+  },
+  {
+   "id": "mars-rock-meeker-outcrop",
+   "group": "outcrop",
+   "glb": "kit/mars-rock-meeker-outcrop.glb",
+   "lod0Name": "mars-rock-meeker-outcrop_LOD0",
+   "lod1": "mars-rock-meeker-outcrop_lod1.bin",
+   "lod2": "mars-rock-meeker-outcrop_lod2.bin",
+   "lod3": "mars-rock-meeker-outcrop_lod3.bin",
+   "lod3Faces": 27,
+   "lod0Faces": 2000,
+   "lod1Faces": 500,
+   "lod2Faces": 99,
+   "min": [
+    -1.6963337659835815,
+    0.003304086858406663,
+    -1.7506424188613892
+   ],
+   "max": [
+    1.6937966346740723,
+    1.3176802396774292,
+    1.7488545179367065
+   ],
+   "maxExtent": 3.4994969367980957,
+   "meanLinear": [
+    0.191,
+    0.095,
+    0.047
+   ],
+   "sink": 0.3,
+   "licence": "CC BY 4.0",
+   "credit": "\"M2020 ZCAM -- Mount Meeker, sol 856\", NASA/JPL-Caltech/MSSS/ASU/Cornell; 3D model by the Mastcam-Z team (sketchfab.com/Mastcam-Z), CC BY 4.0",
+   "sourceUrl": "https://sketchfab.com/3d-models/9b13bb071ca54952a36ce02aa730236f"
+  },
+  {
+   "id": "mars-boulder-namaqualand-03",
+   "group": "talus",
+   "glb": "kit/mars-boulder-namaqualand-03.glb",
+   "lod0Name": "mars-boulder-namaqualand-03_LOD0",
+   "lod1": "mars-boulder-namaqualand-03_lod1.bin",
+   "lod2": "mars-boulder-namaqualand-03_lod2.bin",
+   "lod3": "mars-boulder-namaqualand-03_lod3.bin",
+   "lod3Faces": 28,
+   "lod0Faces": 2000,
+   "lod1Faces": 500,
+   "lod2Faces": 100,
+   "min": [
+    -1.020055890083313,
+    -0.0006936344434507191,
+    -1.297989010810852
+   ],
+   "max": [
+    1.022540807723999,
+    1.2465049028396606,
+    1.297145962715149
+   ],
+   "maxExtent": 2.595134973526001,
+   "meanLinear": [
+    0.187,
+    0.085,
+    0.04
+   ],
+   "sink": 0.12,
+   "licence": "CC0 1.0",
+   "credit": "Namaqualand Boulder 03 by Jenelle van Heerden and Dario Barresi, Poly Haven (polyhaven.com), CC0",
+   "sourceUrl": "https://polyhaven.com/a/namaqualand_boulder_03"
+  },
+  {
+   "id": "mars-boulder-namaqualand-04",
+   "group": "talus",
+   "glb": "kit/mars-boulder-namaqualand-04.glb",
+   "lod0Name": "mars-boulder-namaqualand-04_LOD0",
+   "lod1": "mars-boulder-namaqualand-04_lod1.bin",
+   "lod2": "mars-boulder-namaqualand-04_lod2.bin",
+   "lod3": "mars-boulder-namaqualand-04_lod3.bin",
+   "lod3Faces": 28,
+   "lod0Faces": 2000,
+   "lod1Faces": 500,
+   "lod2Faces": 100,
+   "min": [
+    -1.0955008268356323,
+    0.005310485139489174,
+    -1.0894643068313599
+   ],
+   "max": [
+    1.0989621877670288,
+    1.646462321281433,
+    1.0808216333389282
+   ],
+   "maxExtent": 2.194463014602661,
+   "meanLinear": [
+    0.152,
+    0.074,
+    0.037
+   ],
+   "sink": 0.12,
+   "licence": "CC0 1.0",
+   "credit": "Namaqualand Boulder 04 by Jenelle van Heerden, Poly Haven (polyhaven.com), CC0",
+   "sourceUrl": "https://polyhaven.com/a/namaqualand_boulder_04"
+  },
+  {
+   "id": "mars-boulder-ph07",
+   "group": "talus",
+   "glb": "kit/mars-boulder-ph07.glb",
+   "lod0Name": "mars-boulder-ph07_LOD0",
+   "lod1": "mars-boulder-ph07_lod1.bin",
+   "lod2": "mars-boulder-ph07_lod2.bin",
+   "lod3": "mars-boulder-ph07_lod3.bin",
+   "lod3Faces": 28,
+   "lod0Faces": 2000,
+   "lod1Faces": 500,
+   "lod2Faces": 100,
+   "min": [
+    -0.4741133451461792,
+    0.0008775470196269453,
+    -0.9016126990318298
+   ],
+   "max": [
+    0.4701697826385498,
+    0.8074275851249695,
+    0.8993903398513794
+   ],
+   "maxExtent": 1.8010030388832092,
+   "meanLinear": [
+    0.158,
+    0.081,
+    0.041
+   ],
+   "sink": 0.12,
+   "licence": "CC0 1.0",
+   "credit": "Rock 07, Poly Haven (polyhaven.com), CC0",
+   "sourceUrl": "https://polyhaven.com/a/rock_07"
+  },
+  {
+   "id": "mars-slab-ph09",
+   "group": "talus",
+   "glb": "kit/mars-slab-ph09.glb",
+   "lod0Name": "mars-slab-ph09_LOD0",
+   "lod1": "mars-slab-ph09_lod1.bin",
+   "lod2": "mars-slab-ph09_lod2.bin",
+   "lod3": "mars-slab-ph09_lod3.bin",
+   "lod3Faces": 28,
+   "lod0Faces": 2000,
+   "lod1Faces": 500,
+   "lod2Faces": 100,
+   "min": [
+    -0.6107836365699768,
+    0.0019145756959915161,
+    -1.2015070915222168
+   ],
+   "max": [
+    0.6147193908691406,
+    0.5426109433174133,
+    1.2031759023666382
+   ],
+   "maxExtent": 2.404682993888855,
+   "meanLinear": [
+    0.196,
+    0.091,
+    0.043
+   ],
+   "sink": 0.12,
+   "licence": "CC0 1.0",
+   "credit": "Rock 09, Poly Haven (polyhaven.com), CC0",
+   "sourceUrl": "https://polyhaven.com/a/rock_09"
+  },
+  {
+   "id": "mars-ventifact-ensg",
+   "group": "plain",
+   "glb": "kit/mars-ventifact-ensg.glb",
+   "lod0Name": "mars-ventifact-ensg_LOD0",
+   "lod1": "mars-ventifact-ensg_lod1.bin",
+   "lod2": "mars-ventifact-ensg_lod2.bin",
+   "lod3": "mars-ventifact-ensg_lod3.bin",
+   "lod3Faces": 28,
+   "lod0Faces": 2000,
+   "lod1Faces": 500,
+   "lod2Faces": 100,
+   "min": [
+    -0.5991259217262268,
+    -0.002881737658753991,
+    -0.5828008055686951
+   ],
+   "max": [
+    0.6029008626937866,
+    0.8313114047050476,
+    0.5828593969345093
+   ],
+   "maxExtent": 1.2020267844200134,
+   "meanLinear": [
+    0.13,
+    0.073,
+    0.044
+   ],
+   "sink": 0.12,
+   "licence": "CC BY 4.0",
+   "credit": "\"Galet eolise - ventifact\" by Ecole Nationale Superieure de Geologie (https://sketchfab.com/ENSGeologie), CC BY 4.0",
+   "sourceUrl": "https://sketchfab.com/3d-models/7f86615ce94e4ac09d31f191e746534a"
+  },
+  {
+   "id": "mars-rock-ramon-jagged",
+   "group": "flow",
+   "glb": "kit/mars-rock-ramon-jagged.glb",
+   "lod0Name": "mars-rock-ramon-jagged_LOD0",
+   "lod1": "mars-rock-ramon-jagged_lod1.bin",
+   "lod2": "mars-rock-ramon-jagged_lod2.bin",
+   "lod3": "mars-rock-ramon-jagged_lod3.bin",
+   "lod3Faces": 28,
+   "lod0Faces": 2000,
+   "lod1Faces": 500,
+   "lod2Faces": 100,
+   "min": [
+    -1.4981070756912231,
+    -0.0012571976985782385,
+    -1.156099557876587
+   ],
+   "max": [
+    1.4964628219604492,
+    1.8361461162567139,
+    1.1520695686340332
+   ],
+   "maxExtent": 2.9945698976516724,
+   "meanLinear": [
+    0.154,
+    0.077,
+    0.039
+   ],
+   "sink": 0.12,
+   "licence": "CC BY 4.0",
+   "credit": "\"Desert Rock Formation, Makhtesh Ramon, Israel\" by Doron Altaratz (https://sketchfab.com/doron_altaratz), CC BY 4.0",
+   "sourceUrl": "https://sketchfab.com/3d-models/b2c2ed2d5dee4362ace6ec38338da284"
+  },
+  {
+   "id": "mars-rock-aa-jagged",
+   "group": "flow",
+   "glb": "kit/mars-rock-aa-jagged.glb",
+   "lod0Name": "mars-rock-aa-jagged_LOD0",
+   "lod1": "mars-rock-aa-jagged_lod1.bin",
+   "lod2": "mars-rock-aa-jagged_lod2.bin",
+   "lod3": "mars-rock-aa-jagged_lod3.bin",
+   "lod3Faces": 28,
+   "lod0Faces": 2000,
+   "lod1Faces": 500,
+   "lod2Faces": 100,
+   "min": [
+    -0.7454718947410583,
+    -0.0022771917283535004,
+    -0.7244662046432495
+   ],
+   "max": [
+    0.7465950846672058,
+    1.242404818534851,
+    0.7208467125892639
+   ],
+   "maxExtent": 1.4920669794082642,
+   "meanLinear": [
+    0.061,
+    0.037,
+    0.025
+   ],
+   "sink": 0.12,
+   "licence": "CC0 1.0",
+   "credit": "\"Igneous rock: Basalt (A'a Lava Rock)\" by Digital Atlas of Ancient Life (model by Emily Hauf), Sketchfab, CC0",
+   "sourceUrl": "https://sketchfab.com/3d-models/cbbe1e1ae71b4e44acc6bf1b5245f1bb"
+  }
+ ]
+}

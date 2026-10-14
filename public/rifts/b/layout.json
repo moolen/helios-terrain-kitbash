@@ -1,0 +1,25 @@
+{
+ "n": 510,
+ "cell": 4.0,
+ "size_m": 2040.0,
+ "planes": [
+  "dtm",
+  "sdf",
+  "plate",
+  "matrix"
+ ],
+ "source": "Conamara_HighRes.tiff",
+ "crop": {
+  "col": 98,
+  "row": 122,
+  "size_px": 68,
+  "res_m": 30.0,
+  "rotation_deg": 180
+ },
+ "threshold_m": 91.18265711276902,
+ "plates": 2,
+ "plate_levels_m": [
+  129.0,
+  152.0
+ ]
+}

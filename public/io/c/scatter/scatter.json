@@ -1,0 +1,381 @@
+{
+ "count": 38022,
+ "stride": 8,
+ "groups": {
+  "talus": 3887,
+  "flow": 13390,
+  "flowflat": 3595,
+  "bombs": 6301,
+  "boulders": 300,
+  "sulfur": 4980,
+  "plain": 3951,
+  "pitbombs": 1412,
+  "mounds": 206
+ },
+ "rocks": [
+  {
+   "id": "rock-aa-clinker-daal",
+   "group": "flow",
+   "glb": "kit/rock-aa-clinker-daal.glb",
+   "lod1": "rock-aa-clinker-daal_lod1.bin",
+   "lod2": "rock-aa-clinker-daal_lod2.bin",
+   "lod0Faces": 2625,
+   "lod1Faces": 180,
+   "lod2Faces": 39,
+   "min": [
+    -0.7000560760498047,
+    -0.01681658998131752,
+    -0.42638564109802246
+   ],
+   "max": [
+    0.7005294561386108,
+    1.061415195465088,
+    0.45409753918647766
+   ],
+   "maxExtent": 1.4005855321884155,
+   "meanLinear": [
+    0.051,
+    0.046,
+    0.043
+   ],
+   "licence": "CC0 1.0",
+   "credit": "\"Igneous rock: Basalt (A'a Lava Rock)\" by Digital Atlas of Ancient Life (model by Emily Hauf), Sketchfab, CC0"
+  },
+  {
+   "id": "rock-scoria-bomb-daal",
+   "group": "bombs",
+   "glb": "kit/rock-scoria-bomb-daal.glb",
+   "lod1": "rock-scoria-bomb-daal_lod1.bin",
+   "lod2": "rock-scoria-bomb-daal_lod2.bin",
+   "lod0Faces": 2598,
+   "lod1Faces": 178,
+   "lod2Faces": 40,
+   "min": [
+    -0.3508317470550537,
+    0.007530271075665951,
+    -0.2864189147949219
+   ],
+   "max": [
+    0.3508557379245758,
+    0.6089193820953369,
+    0.2870427966117859
+   ],
+   "maxExtent": 0.7016874849796295,
+   "meanLinear": [
+    0.062,
+    0.048,
+    0.048
+   ],
+   "licence": "CC0 1.0",
+   "credit": "\"Scoria\" by Digital Atlas of Ancient Life (model by Emily Hauf; specimen from the Paleontological Research Institution teaching collection), Sketchfab, CC0"
+  },
+  {
+   "id": "rock-pahoehoe-block-kantanat",
+   "group": "flow",
+   "glb": "kit/rock-pahoehoe-block-kantanat.glb",
+   "lod1": "rock-pahoehoe-block-kantanat_lod1.bin",
+   "lod2": "rock-pahoehoe-block-kantanat_lod2.bin",
+   "lod0Faces": 2600,
+   "lod1Faces": 180,
+   "lod2Faces": 40,
+   "min": [
+    -0.9883919358253479,
+    0.0010696545941755176,
+    -0.7465940117835999
+   ],
+   "max": [
+    0.9922609329223633,
+    1.2403017282485962,
+    0.7565233111381531
+   ],
+   "maxExtent": 1.9806528687477112,
+   "meanLinear": [
+    0.056,
+    0.051,
+    0.053
+   ],
+   "licence": "CC BY 4.0",
+   "credit": "\"Pahoehoe basalt\" by Kantanat (https://sketchfab.com/kantanat), CC BY 4.0"
+  },
+  {
+   "id": "rock-scoria-boulder",
+   "group": "bombs",
+   "glb": "kit/rock-scoria-boulder.glb",
+   "lod1": "rock-scoria-boulder_lod1.bin",
+   "lod2": "rock-scoria-boulder_lod2.bin",
+   "lod0Faces": 2597,
+   "lod1Faces": 179,
+   "lod2Faces": 40,
+   "min": [
+    -0.765006422996521,
+    0.00024649882107041776,
+    -0.8070917725563049
+   ],
+   "max": [
+    0.7876686453819275,
+    1.1394891738891602,
+    0.8005090951919556
+   ],
+   "maxExtent": 1.6076008677482605,
+   "meanLinear": [
+    0.069,
+    0.046,
+    0.033
+   ],
+   "licence": "CC BY 4.0",
+   "credit": "\"Scoria Rock Scan\" by fevenkitsune (https://sketchfab.com/fevenkitsune), CC BY 4.0"
+  },
+  {
+   "id": "rock-vesicular-block-bustos",
+   "group": "talus",
+   "glb": "kit/rock-vesicular-block-bustos.glb",
+   "lod1": "rock-vesicular-block-bustos_lod1.bin",
+   "lod2": "rock-vesicular-block-bustos_lod2.bin",
+   "lod0Faces": 2626,
+   "lod1Faces": 180,
+   "lod2Faces": 40,
+   "min": [
+    -0.6674098968505859,
+    0.015295109711587429,
+    -0.4503040015697479
+   ],
+   "max": [
+    0.6670674681663513,
+    1.5979467630386353,
+    0.473452627658844
+   ],
+   "maxExtent": 1.5826516533270478,
+   "meanLinear": [
+    0.049,
+    0.045,
+    0.039
+   ],
+   "licence": "CC BY 4.0 (geometry) + CC0 (texture)",
+   "credit": "\"Lava rock scan\" by Elan Bustos (https://sketchfab.com/elanbustos), CC BY 4.0; albedo projected from ambientCG Rock031 (CC0)"
+  },
+  {
+   "id": "rock-basalt-block-ph07",
+   "group": "talus",
+   "glb": "kit/rock-basalt-block-ph07.glb",
+   "lod1": "rock-basalt-block-ph07_lod1.bin",
+   "lod2": "rock-basalt-block-ph07_lod2.bin",
+   "lod0Faces": 2600,
+   "lod1Faces": 180,
+   "lod2Faces": 40,
+   "min": [
+    -0.6407606601715088,
+    0.0011700616450980306,
+    -1.2021706104278564
+   ],
+   "max": [
+    0.628427267074585,
+    1.08138108253479,
+    1.2111345529556274
+   ],
+   "maxExtent": 2.413305163383484,
+   "meanLinear": [
+    0.073,
+    0.062,
+    0.055
+   ],
+   "licence": "CC0 1.0",
+   "credit": "Rock 07, Poly Haven (polyhaven.com), CC0"
+  },
+  {
+   "id": "rock-basalt-slab-ph09",
+   "group": "talus",
+   "glb": "kit/rock-basalt-slab-ph09.glb",
+   "lod1": "rock-basalt-slab-ph09_lod1.bin",
+   "lod2": "rock-basalt-slab-ph09_lod2.bin",
+   "lod0Faces": 2598,
+   "lod1Faces": 180,
+   "lod2Faces": 40,
+   "min": [
+    -0.44120481610298157,
+    0.0,
+    -0.75
+   ],
+   "max": [
+    0.44194746017456055,
+    0.19998477399349213,
+    0.7505857944488525
+   ],
+   "maxExtent": 1.5005857944488525,
+   "meanLinear": [
+    0.081,
+    0.064,
+    0.05
+   ],
+   "licence": "CC0 1.0",
+   "credit": "Rock 09, Poly Haven (polyhaven.com), CC0"
+  },
+  {
+   "id": "rock-sulfur-cianciana",
+   "group": "sulfur",
+   "glb": "kit/rock-sulfur-cianciana.glb",
+   "lod1": "rock-sulfur-cianciana_lod1.bin",
+   "lod2": "rock-sulfur-cianciana_lod2.bin",
+   "lod0Faces": 2600,
+   "lod1Faces": 180,
+   "lod2Faces": 40,
+   "min": [
+    -0.4533689320087433,
+    -3.276654388173483e-05,
+    -0.30264148116111755
+   ],
+   "max": [
+    0.4522203505039215,
+    0.6927235126495361,
+    0.3112151026725769
+   ],
+   "maxExtent": 0.9055892825126648,
+   "meanLinear": [
+    0.278,
+    0.236,
+    0.078
+   ],
+   "licence": "CC BY 4.0",
+   "credit": "\"SULFUR\" by MSU SEES (https://sketchfab.com/Pholeos), CC BY 4.0 - hand sample from Cianciana, Sicily"
+  },
+  {
+   "id": "rock-pahoehoe-slab-maunaulu",
+   "group": "flowflat",
+   "glb": "kit/rock-pahoehoe-slab-maunaulu.glb",
+   "lod1": "rock-pahoehoe-slab-maunaulu_lod1.bin",
+   "lod2": "rock-pahoehoe-slab-maunaulu_lod2.bin",
+   "lod0Faces": 2598,
+   "lod1Faces": 180,
+   "lod2Faces": 39,
+   "min": [
+    -2.2446651458740234,
+    -0.2596409022808075,
+    -2.245035171508789
+   ],
+   "max": [
+    2.2446651458740234,
+    0.5572735667228699,
+    2.245035171508789
+   ],
+   "maxExtent": 4.490070343017578,
+   "meanLinear": [
+    0.051,
+    0.051,
+    0.055
+   ],
+   "licence": "CC BY 4.0",
+   "credit": "\"Lava field from Mauna Ulu - Kilauea, Hawaii\" by Tom (trbaker, https://sketchfab.com/trbaker), CC BY 4.0"
+  },
+  {
+   "id": "dallol-twin-mounds",
+   "group": "mound",
+   "glb": "kit/dallol-twin-mounds.glb",
+   "lod1": "dallol-twin-mounds_lod1.bin",
+   "lod2": "dallol-twin-mounds_lod2.bin",
+   "lod0Faces": 14598,
+   "lod1Faces": 498,
+   "lod2Faces": 119,
+   "min": [
+    -6.6154937744140625,
+    -0.13502773642539978,
+    -6.58349609375
+   ],
+   "max": [
+    6.615509033203125,
+    2.4765002727508545,
+    6.58349609375
+   ],
+   "maxExtent": 13.231002807617188,
+   "meanLinear": [
+    0.161,
+    0.136,
+    0.068
+   ],
+   "licence": "CC BY-NC 4.0",
+   "credit": "Grunwald, O.; Delage, E.; van Wyk de Vries, B. Topographic 3D model: Dallol domes - Dataset. OPGC / LMV, Universite Clermont Auvergne. https://doi.org/10.25519/TXZC-1724"
+  },
+  {
+   "id": "dallol-crust-mound",
+   "group": "mound",
+   "glb": "kit/dallol-crust-mound.glb",
+   "lod1": "dallol-crust-mound_lod1.bin",
+   "lod2": "dallol-crust-mound_lod2.bin",
+   "lod0Faces": 5649,
+   "lod1Faces": 499,
+   "lod2Faces": 118,
+   "min": [
+    -3.7089996337890625,
+    -0.10699987411499023,
+    -3.697998046875
+   ],
+   "max": [
+    3.7089996337890625,
+    1.7383166551589966,
+    3.697998046875
+   ],
+   "maxExtent": 7.417999267578125,
+   "meanLinear": [
+    0.171,
+    0.119,
+    0.062
+   ],
+   "licence": "CC BY-NC 4.0",
+   "credit": "Grunwald, O.; Delage, E.; van Wyk de Vries, B. Topographic 3D model: Dallol domes - Dataset. OPGC / LMV, Universite Clermont Auvergne. https://doi.org/10.25519/TXZC-1724"
+  },
+  {
+   "id": "dallol-salt-pillars",
+   "group": "mound",
+   "glb": "kit/dallol-salt-pillars.glb",
+   "lod1": "dallol-salt-pillars_lod1.bin",
+   "lod2": "dallol-salt-pillars_lod2.bin",
+   "lod0Faces": 9520,
+   "lod1Faces": 500,
+   "lod2Faces": 120,
+   "min": [
+    -4.323001861572266,
+    -0.24000024795532227,
+    -4.2939910888671875
+   ],
+   "max": [
+    4.322998046875,
+    2.2695508003234863,
+    4.29400634765625
+   ],
+   "maxExtent": 8.645999908447266,
+   "meanLinear": [
+    0.107,
+    0.088,
+    0.085
+   ],
+   "licence": "CC BY-NC 4.0",
+   "credit": "Grunwald, O.; Delage, E.; van Wyk de Vries, B. Topographic 3D model: Dallol domes - Dataset. OPGC / LMV, Universite Clermont Auvergne. https://doi.org/10.25519/TXZC-1724"
+  },
+  {
+   "id": "rock-ropy-lobe-mangere",
+   "group": "flowflat",
+   "glb": "kit/rock-ropy-lobe-mangere.glb",
+   "lod1": "rock-ropy-lobe-mangere_lod1.bin",
+   "lod2": "rock-ropy-lobe-mangere_lod2.bin",
+   "lod0Faces": 2599,
+   "lod1Faces": 180,
+   "lod2Faces": 39,
+   "min": [
+    -2.5020697116851807,
+    -0.06495664268732071,
+    -2.4989535808563232
+   ],
+   "max": [
+    2.496277093887329,
+    0.7484527230262756,
+    2.488886833190918
+   ],
+   "maxExtent": 4.99834680557251,
+   "meanLinear": [
+    0.054,
+    0.054,
+    0.053
+   ],
+   "licence": "CC BY 4.0",
+   "credit": "\"Lava flow\" by b_nealie (https://sketchfab.com/b_nealie), CC BY 4.0 - Mangere Mountain shore, Auckland"
+  }
+ ]
+}

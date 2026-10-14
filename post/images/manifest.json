@@ -1,0 +1,50 @@
+[
+  {
+    "file": "01-io-kilauea-patera.jpg",
+    "title": "Io / Kīlauea patera",
+    "caption": "USGS Kīlauea lidar provides the collapsed summit. Authored lava activity and simulated sulfur deposits change its identity.",
+    "stage": "Three.js scan prototype, round 3",
+    "sha256": "752c9d4fe8c75e4666e58f56900a201f974ce8adcf58072c50b8e07aa0a2dc43",
+    "capture": "Recovered original capture; unchanged pixels"
+  },
+  {
+    "file": "02-io-krafla-plume-field.jpg",
+    "title": "Io / Krafla plume field",
+    "caption": "Iceland ArcticDEM terrain, transplanted volcanic features, dark lava surfaces and procedural plume fallout.",
+    "stage": "Three.js scan prototype, round 2",
+    "sha256": "f17613b2bda4f04889b865c7d720831c0b5dbfae7369a6f256d8fdb91ca6c861",
+    "capture": "Recovered original capture; unchanged pixels"
+  },
+  {
+    "file": "03-europa-conamara-scan-wall.png",
+    "title": "Europa / Conamara scan wall",
+    "caption": "Galileo stereo layout with terrestrial cliff modules re-materialled as ice. Baked relief and surface detail in the later game port.",
+    "stage": "Godot scan-built game port, chaos-r2",
+    "sha256": "7a3d00e512ab5c94bbcd7e906c65523f56bafc1f3eb1b138b88e09a0bfe3b766",
+    "capture": "Recovered original capture; unchanged pixels"
+  },
+  {
+    "file": "04-europa-ridged-ice-plain.png",
+    "title": "Europa / ridged ice plain",
+    "caption": "Terrestrial lidar graben layout and scanned cliff faces become bright ice plains, troughs and fissures.",
+    "stage": "Godot scan-built game port, plain-r2b",
+    "sha256": "9d462182e37af517968eddf916306db3189fd23bcee17ac0f98f6039d5f8447a",
+    "capture": "Recovered original capture; unchanged pixels"
+  },
+  {
+    "file": "05-moon-tranquillitatis-pit.jpg",
+    "title": "Moon / Tranquillitatis pit",
+    "caption": "Kaguya and LROC NAC measured relief surround an authored shaft and overhang based on pit measurements.",
+    "stage": "Three.js scan prototype, round 3",
+    "sha256": "c70ae07e55d58360cc36081e1f03b0d05df63b241de4dfaca632260cbb2bc27d",
+    "capture": "Recovered original capture; unchanged pixels"
+  },
+  {
+    "file": "06-mars-cerberus-fossae.jpg",
+    "title": "Mars / Cerberus Fossae",
+    "caption": "HiRISE/CTX relief provides the fissures; transplanted scan modules supply the steep wall faces.",
+    "stage": "Three.js scan prototype, round 8",
+    "sha256": "7bba6c76be22d913bb0ea190e182a3855b5a1c509fcdf5deb3795925c105b5f4",
+    "capture": "Recovered original capture; unchanged pixels"
+  }
+]

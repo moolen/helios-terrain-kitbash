@@ -1,0 +1,34 @@
+{
+  "sourceUrl": "https://asc-pds-services.s3.us-west-2.amazonaws.com/mosaic/mars2020_trn/HiRISE/JEZ_hirise_soc_006_DTM_MOLAtopography_DeltaGeoid_1m_Eqc_latTs0_lon0_blend40.tif",
+  "crs": "PROJCS[\"unknown\",GEOGCS[\"unknown\",DATUM[\"unknown\",SPHEROID[\"unknown\",3396190,0]],PRIMEM[\"Reference meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Azimuthal_Equidistant\"],PARAMETER[\"latitude_of_center\",18.47],PARAMETER[\"longitude_of_center\",77.37],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "cropBounds": {
+    "left": -6000.0,
+    "bottom": -6000.0,
+    "right": 6000.0,
+    "top": 6000.0
+  },
+  "cropPixelsNative": [
+    4000,
+    4000
+  ],
+  "nativeMetresPerPixel": [
+    3.0,
+    3.0
+  ],
+  "heightmapPixels": [
+    4000,
+    4000
+  ],
+  "metresPerPixel": [
+    3.0,
+    3.0
+  ],
+  "minElevationM": -2621.28759765625,
+  "maxElevationM": -1645.9857177734375,
+  "reliefM": 975.3018798828125,
+  "encoding": "uint16 0..65535 = minElevationM..maxElevationM (linear)",
+  "nodataFraction": 0.0,
+  "nodataFill": "nearest valid neighbour",
+  "hillshade": "gdaldem hillshade -multidirectional -z 1.0",
+  "note": "USGS Mars 2020 TRN HiRISE DTM mosaic (JEZ_hirise_soc_006, 1 m posting, blended from the in-crater HiRISE stereo DTMs incl. DTEEC_002387/045994/048842/023524), range-read and reprojected to an azimuthal-equidistant frame on the map anchor 18.47N 77.37E (R=3396190 m), averaged to 3 m. Exactly the 12 x 12 km game map (-6..6 km). Heights in m relative to the Mars areoid. The 1.9% mosaic gaps (north edge x -3..-2 km, south-west corner) are filled from the JPL CTX 20 m DEM with a smoothed offset match (scripts/jz_fill.py). A faint N-S mosaic seam runs at x = -4 km on the rim massifs."
+}

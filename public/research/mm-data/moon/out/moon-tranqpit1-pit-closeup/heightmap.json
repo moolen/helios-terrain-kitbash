@@ -1,0 +1,34 @@
+{
+  "sourceUrl": "https://pds.lroc.im-ldi.com/data/LRO-L-LROC-5-RDR-V1.0/LROLRC_2001/DATA/SDP/NAC_DTM/TRANQPIT1/NAC_DTM_TRANQPIT1.TIF",
+  "crs": "PROJCS[\"Equirectangular Moon\",GEOGCS[\"GCS_Moon\",DATUM[\"D_Moon\",SPHEROID[\"Moon_localRadius\",1737400,0]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Equirectangular\"],PARAMETER[\"standard_parallel_1\",8],PARAMETER[\"central_meridian\",180],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "cropBounds": {
+    "left": -4407700.000001299,
+    "bottom": 252510.00000007512,
+    "right": -4407200.000001299,
+    "top": 253010.00000007526
+  },
+  "cropPixelsNative": [
+    250,
+    250
+  ],
+  "nativeMetresPerPixel": [
+    2.0000000000006,
+    2.0000000000006
+  ],
+  "heightmapPixels": [
+    250,
+    250
+  ],
+  "metresPerPixel": [
+    2.0000000000006,
+    2.0000000000006
+  ],
+  "minElevationM": -912.2526245117188,
+  "maxElevationM": -781.1613159179688,
+  "reliefM": 131.09130859375,
+  "encoding": "uint16 0..65535 = minElevationM..maxElevationM (linear)",
+  "nodataFraction": 0.040576,
+  "nodataFill": "nearest valid neighbour",
+  "hillshade": "gdaldem hillshade -multidirectional -z 1.0",
+  "note": "500 x 500 m at 2 m around the Mare Tranquillitatis pit. Stereo cannot see the overhangs (>=10-15 m on E, W and N per the LROC Pits Atlas) or most of the shadowed floor; those cells are no-data in the DTM and nearest-filled here, so the pit walls and floor must be authored: vertical walls visible to ~80 m with a recess at ~40 m, floor ~105 m below the 20 m deep funnel, inner diameter 88-100 m, funnel 140-146 m."
+}

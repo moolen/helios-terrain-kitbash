@@ -1,0 +1,23 @@
+{
+  "metresPerPixel": 2.9297,
+  "sourceResolutionM": 2.0,
+  "minElevationM": 755.488,
+  "maxElevationM": 1585.361,
+  "widthPx": 4096,
+  "heightPx": 4096,
+  "extentM": [
+    12000.0,
+    12000.0
+  ],
+  "crs": "EPSG:3057",
+  "cropBounds": {
+    "xmin": 599155.0,
+    "ymin": 500317.0,
+    "xmax": 611155.0,
+    "ymax": 512317.0
+  },
+  "nodataFilledWithMin": 0,
+  "sourceFile": "ArcticDEM mosaic v4.1 2m (CC BY 4.0, PGC), WGS84 ellipsoidal heights, reprojected to EPSG:3057 (ISN93) bilinear; tiles 16_54_2_1 + 16_53_2_2 https://pgc-opendata-dems.s3.us-west-2.amazonaws.com/arcticdem/mosaics/v4.1/2m/",
+  "verticalDatum": "as source (see sourceFile)",
+  "hillshadeNote": "gdaldem hillshade -multidirectional at source res, 0.5-99.5 percentile contrast stretch, Lanczos downsample"
+}

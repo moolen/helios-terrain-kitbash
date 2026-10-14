@@ -1,0 +1,944 @@
+{
+  "kit": "cerberus_scan_walls",
+  "frame": "x tangent, y up, z outward; top y=0; metres",
+  "lodTargets": [
+    20000,
+    5000,
+    1200,
+    48
+  ],
+  "normalGain": 0.12,
+  "modules": [
+    {
+      "name": "wall_scan_00_cape-corner",
+      "kind": "cape-corner",
+      "source": "cape-stolbchaty-kunashir",
+      "bank": "left",
+      "sourceCrop": [
+        [
+          130,
+          155
+        ],
+        [
+          33,
+          47
+        ],
+        [
+          -102,
+          -85
+        ]
+      ],
+      "sourceUnit": "uncalibrated glTF units",
+      "scaleXYZ": [
+        7.142857142857143,
+        7.142857142857143,
+        7.142857142857143
+      ],
+      "authoredHeightM": 100,
+      "sourceUrl": "https://sketchfab.com/3d-models/fb29b59bbd4341d295e21cc12831bab4",
+      "bounds": [
+        [
+          -61.663297462463376,
+          -130.0,
+          -90.9173812866211
+        ],
+        [
+          63.5318208694458,
+          0.0,
+          65.2745361328125
+        ]
+      ],
+      "scanBounds": [
+        [
+          -60.714271545410156,
+          -100.0,
+          -88.9173812866211
+        ],
+        [
+          60.71430206298828,
+          0.0,
+          65.2745361328125
+        ]
+      ],
+      "sizeM": [
+        121.42857360839844,
+        100.0,
+        154.1919174194336
+      ],
+      "topAnchorZ": 33.90257263183594,
+      "bottomAnchorZ": 63.36573677062988,
+      "triangles": [
+        18452,
+        4684,
+        1182,
+        47
+      ],
+      "highTriangles": 15043,
+      "authoredBacking": "LOD0-2 scan-coloured caps with transferred scan depth relief; backing 30m below scan. LOD3 is actual scan surface, with separate buried field joins. Caps are authored, not scan measurements",
+      "authoredVertexStart": [
+        7932,
+        2087,
+        470,
+        34
+      ],
+      "authoredClosureTriangles": [
+        3442,
+        685,
+        322,
+        0
+      ],
+      "textures": {
+        "width": 256,
+        "height": 211,
+        "frontCoverage": 0.9365,
+        "normal": "high scan facet normals; tangent transfer per LOD",
+        "objectNormal": "wall_scan_00_cape-corner-relief.png",
+        "ao": "wall_scan_00_cape-corner-ao.png",
+        "colour": "wall_scan_00_cape-corner-colour.webp"
+      },
+      "rejectedBridgeTriangles": 0,
+      "verticalMarginScale": 1.0,
+      "rejectedDetachedFragmentTriangles": 0,
+      "sourceWindingReversed": false,
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "author": "Mikhail Volkov",
+      "authorUrl": "https://sketchfab.com/mgv",
+      "credit": "\u041c\u044b\u0441 \u0421\u0442\u043e\u043b\u0431\u0447\u0430\u0442\u044b\u0439, \u043e\u0441\u0442\u0440\u043e\u0432 \u041a\u0443\u043d\u0430\u0448\u0438\u0440 by Mikhail Volkov, CC BY 4.0",
+      "lodObjects": [
+        "wall_scan_00_cape-corner_LOD0",
+        "wall_scan_00_cape-corner_LOD1",
+        "wall_scan_00_cape-corner_LOD2",
+        "wall_scan_00_cape-corner_LOD3"
+      ]
+    },
+    {
+      "name": "wall_scan_01_cape-buttress",
+      "kind": "cape-buttress",
+      "source": "cape-stolbchaty-kunashir",
+      "bank": "left",
+      "sourceCrop": [
+        [
+          125,
+          155
+        ],
+        [
+          33,
+          47
+        ],
+        [
+          -90,
+          -70
+        ]
+      ],
+      "sourceUnit": "uncalibrated glTF units",
+      "scaleXYZ": [
+        7.142857142857143,
+        7.142857142857143,
+        7.142857142857143
+      ],
+      "authoredHeightM": 100,
+      "sourceUrl": "https://sketchfab.com/3d-models/fb29b59bbd4341d295e21cc12831bab4",
+      "bounds": [
+        [
+          -72.21718788146973,
+          -130.0,
+          -112.75946044921875
+        ],
+        [
+          72.0138053894043,
+          0.0,
+          71.17691802978516
+        ]
+      ],
+      "scanBounds": [
+        [
+          -71.42855834960938,
+          -100.0,
+          -110.75946044921875
+        ],
+        [
+          71.4285888671875,
+          0.0,
+          71.17691802978516
+        ]
+      ],
+      "sizeM": [
+        142.85714721679688,
+        100.0,
+        181.9363784790039
+      ],
+      "topAnchorZ": 39.143289947509764,
+      "bottomAnchorZ": 69.40766143798828,
+      "triangles": [
+        13420,
+        4677,
+        1178,
+        48
+      ],
+      "highTriangles": 10528,
+      "authoredBacking": "LOD0-2 scan-coloured caps with transferred scan depth relief; backing 30m below scan. LOD3 is actual scan surface, with separate buried field joins. Caps are authored, not scan measurements",
+      "authoredVertexStart": [
+        5612,
+        2085,
+        475,
+        37
+      ],
+      "authoredClosureTriangles": [
+        2920,
+        678,
+        306,
+        0
+      ],
+      "textures": {
+        "width": 256,
+        "height": 179,
+        "frontCoverage": 1.0,
+        "normal": "high scan facet normals; tangent transfer per LOD",
+        "objectNormal": "wall_scan_01_cape-buttress-relief.png",
+        "ao": "wall_scan_01_cape-buttress-ao.png",
+        "colour": "wall_scan_01_cape-buttress-colour.webp"
+      },
+      "rejectedBridgeTriangles": 0,
+      "verticalMarginScale": 1.0,
+      "rejectedDetachedFragmentTriangles": 0,
+      "sourceWindingReversed": false,
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "author": "Mikhail Volkov",
+      "authorUrl": "https://sketchfab.com/mgv",
+      "credit": "\u041c\u044b\u0441 \u0421\u0442\u043e\u043b\u0431\u0447\u0430\u0442\u044b\u0439, \u043e\u0441\u0442\u0440\u043e\u0432 \u041a\u0443\u043d\u0430\u0448\u0438\u0440 by Mikhail Volkov, CC BY 4.0",
+      "lodObjects": [
+        "wall_scan_01_cape-buttress_LOD0",
+        "wall_scan_01_cape-buttress_LOD1",
+        "wall_scan_01_cape-buttress_LOD2",
+        "wall_scan_01_cape-buttress_LOD3"
+      ]
+    },
+    {
+      "name": "wall_scan_02_cape-alcove",
+      "kind": "cape-alcove",
+      "source": "cape-stolbchaty-kunashir",
+      "bank": "left",
+      "sourceCrop": [
+        [
+          105,
+          135
+        ],
+        [
+          33,
+          47
+        ],
+        [
+          -70,
+          -50
+        ]
+      ],
+      "sourceUnit": "uncalibrated glTF units",
+      "scaleXYZ": [
+        7.142857142857143,
+        7.142857142857143,
+        7.142857142857143
+      ],
+      "authoredHeightM": 100,
+      "sourceUrl": "https://sketchfab.com/3d-models/fb29b59bbd4341d295e21cc12831bab4",
+      "bounds": [
+        [
+          -72.63201103210449,
+          -130.0,
+          -107.4400405883789
+        ],
+        [
+          72.23255233764648,
+          0.0,
+          88.14788818359375
+        ]
+      ],
+      "scanBounds": [
+        [
+          -71.42855834960938,
+          -100.0,
+          -105.4400405883789
+        ],
+        [
+          71.4285888671875,
+          0.0,
+          88.14788818359375
+        ]
+      ],
+      "sizeM": [
+        142.85714721679688,
+        100.0,
+        193.58792877197266
+      ],
+      "topAnchorZ": 36.488945007324226,
+      "bottomAnchorZ": 78.5266731262207,
+      "triangles": [
+        11482,
+        4781,
+        1173,
+        48
+      ],
+      "highTriangles": 8815,
+      "authoredBacking": "LOD0-2 scan-coloured caps with transferred scan depth relief; backing 30m below scan. LOD3 is actual scan surface, with separate buried field joins. Caps are authored, not scan measurements",
+      "authoredVertexStart": [
+        4731,
+        2097,
+        452,
+        36
+      ],
+      "authoredClosureTriangles": [
+        2696,
+        782,
+        353,
+        0
+      ],
+      "textures": {
+        "width": 256,
+        "height": 179,
+        "frontCoverage": 0.9887,
+        "normal": "high scan facet normals; tangent transfer per LOD",
+        "objectNormal": "wall_scan_02_cape-alcove-relief.png",
+        "ao": "wall_scan_02_cape-alcove-ao.png",
+        "colour": "wall_scan_02_cape-alcove-colour.webp"
+      },
+      "rejectedBridgeTriangles": 8,
+      "verticalMarginScale": 1.0,
+      "rejectedDetachedFragmentTriangles": 0,
+      "sourceWindingReversed": false,
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "author": "Mikhail Volkov",
+      "authorUrl": "https://sketchfab.com/mgv",
+      "credit": "\u041c\u044b\u0441 \u0421\u0442\u043e\u043b\u0431\u0447\u0430\u0442\u044b\u0439, \u043e\u0441\u0442\u0440\u043e\u0432 \u041a\u0443\u043d\u0430\u0448\u0438\u0440 by Mikhail Volkov, CC BY 4.0",
+      "lodObjects": [
+        "wall_scan_02_cape-alcove_LOD0",
+        "wall_scan_02_cape-alcove_LOD1",
+        "wall_scan_02_cape-alcove_LOD2",
+        "wall_scan_02_cape-alcove_LOD3"
+      ]
+    },
+    {
+      "name": "wall_scan_03_cape-straight",
+      "kind": "cape-straight",
+      "source": "cape-stolbchaty-kunashir",
+      "bank": "left",
+      "sourceCrop": [
+        [
+          95,
+          115
+        ],
+        [
+          33,
+          47
+        ],
+        [
+          -50,
+          -30
+        ]
+      ],
+      "sourceUnit": "uncalibrated glTF units",
+      "scaleXYZ": [
+        7.142857142857143,
+        7.142857142857143,
+        7.142857142857143
+      ],
+      "authoredHeightM": 100,
+      "sourceUrl": "https://sketchfab.com/3d-models/fb29b59bbd4341d295e21cc12831bab4",
+      "bounds": [
+        [
+          -72.29580800533294,
+          -130.0,
+          -46.071895599365234
+        ],
+        [
+          72.3307348301317,
+          0.0,
+          52.234222412109375
+        ]
+      ],
+      "scanBounds": [
+        [
+          -71.42855834960938,
+          -100.0,
+          -44.071895599365234
+        ],
+        [
+          71.4285888671875,
+          0.0,
+          52.234222412109375
+        ]
+      ],
+      "sizeM": [
+        142.85714721679688,
+        100.0,
+        96.30611801147461
+      ],
+      "topAnchorZ": -19.86690082550049,
+      "bottomAnchorZ": 41.00336265563966,
+      "triangles": [
+        10457,
+        4697,
+        1178,
+        48
+      ],
+      "highTriangles": 8145,
+      "authoredBacking": "LOD0-2 scan-coloured caps with transferred scan depth relief; backing 30m below scan. LOD3 is actual scan surface, with separate buried field joins. Caps are authored, not scan measurements",
+      "authoredVertexStart": [
+        4354,
+        2088,
+        474,
+        34
+      ],
+      "authoredClosureTriangles": [
+        2330,
+        698,
+        306,
+        0
+      ],
+      "textures": {
+        "width": 256,
+        "height": 179,
+        "frontCoverage": 0.9996,
+        "normal": "high scan facet normals; tangent transfer per LOD",
+        "objectNormal": "wall_scan_03_cape-straight-relief.png",
+        "ao": "wall_scan_03_cape-straight-ao.png",
+        "colour": "wall_scan_03_cape-straight-colour.webp"
+      },
+      "rejectedBridgeTriangles": 2,
+      "verticalMarginScale": 1.0,
+      "rejectedDetachedFragmentTriangles": 0,
+      "sourceWindingReversed": false,
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "author": "Mikhail Volkov",
+      "authorUrl": "https://sketchfab.com/mgv",
+      "credit": "\u041c\u044b\u0441 \u0421\u0442\u043e\u043b\u0431\u0447\u0430\u0442\u044b\u0439, \u043e\u0441\u0442\u0440\u043e\u0432 \u041a\u0443\u043d\u0430\u0448\u0438\u0440 by Mikhail Volkov, CC BY 4.0",
+      "lodObjects": [
+        "wall_scan_03_cape-straight_LOD0",
+        "wall_scan_03_cape-straight_LOD1",
+        "wall_scan_03_cape-straight_LOD2",
+        "wall_scan_03_cape-straight_LOD3"
+      ]
+    },
+    {
+      "name": "wall_scan_04_cape-corner",
+      "kind": "cape-corner",
+      "source": "cape-stolbchaty-kunashir",
+      "bank": "left",
+      "sourceCrop": [
+        [
+          90,
+          125
+        ],
+        [
+          33,
+          47
+        ],
+        [
+          -30,
+          -10
+        ]
+      ],
+      "sourceUnit": "uncalibrated glTF units",
+      "scaleXYZ": [
+        7.142857142857143,
+        7.142857142857143,
+        7.142857142857143
+      ],
+      "authoredHeightM": 100,
+      "sourceUrl": "https://sketchfab.com/3d-models/fb29b59bbd4341d295e21cc12831bab4",
+      "bounds": [
+        [
+          -74.92855834960938,
+          -130.0,
+          -95.45955657958984
+        ],
+        [
+          72.20419502258301,
+          0.0,
+          108.93395233154297
+        ]
+      ],
+      "scanBounds": [
+        [
+          -71.42855834960938,
+          -100.0,
+          -93.45955657958984
+        ],
+        [
+          71.4285888671875,
+          0.0,
+          108.93395233154297
+        ]
+      ],
+      "sizeM": [
+        142.85714721679688,
+        100.0,
+        202.3935089111328
+      ],
+      "topAnchorZ": 22.206006431579592,
+      "bottomAnchorZ": 78.72829513549804,
+      "triangles": [
+        18007,
+        4738,
+        1191,
+        47
+      ],
+      "highTriangles": 16900,
+      "authoredBacking": "LOD0-2 scan-coloured caps with transferred scan depth relief; backing 30m below scan. LOD3 is actual scan surface, with separate buried field joins. Caps are authored, not scan measurements",
+      "authoredVertexStart": [
+        8250,
+        2093,
+        471,
+        35
+      ],
+      "authoredClosureTriangles": [
+        2009,
+        738,
+        334,
+        0
+      ],
+      "textures": {
+        "width": 256,
+        "height": 179,
+        "frontCoverage": 0.9725,
+        "normal": "high scan facet normals; tangent transfer per LOD",
+        "objectNormal": "wall_scan_04_cape-corner-relief.png",
+        "ao": "wall_scan_04_cape-corner-ao.png",
+        "colour": "wall_scan_04_cape-corner-colour.webp"
+      },
+      "rejectedBridgeTriangles": 0,
+      "verticalMarginScale": 1.0,
+      "rejectedDetachedFragmentTriangles": 0,
+      "sourceWindingReversed": false,
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "author": "Mikhail Volkov",
+      "authorUrl": "https://sketchfab.com/mgv",
+      "credit": "\u041c\u044b\u0441 \u0421\u0442\u043e\u043b\u0431\u0447\u0430\u0442\u044b\u0439, \u043e\u0441\u0442\u0440\u043e\u0432 \u041a\u0443\u043d\u0430\u0448\u0438\u0440 by Mikhail Volkov, CC BY 4.0",
+      "lodObjects": [
+        "wall_scan_04_cape-corner_LOD0",
+        "wall_scan_04_cape-corner_LOD1",
+        "wall_scan_04_cape-corner_LOD2",
+        "wall_scan_04_cape-corner_LOD3"
+      ]
+    },
+    {
+      "name": "wall_scan_05_cape-ledge",
+      "kind": "cape-ledge",
+      "source": "cape-stolbchaty-kunashir",
+      "bank": "left",
+      "sourceCrop": [
+        [
+          105,
+          145
+        ],
+        [
+          33,
+          47
+        ],
+        [
+          -10,
+          10
+        ]
+      ],
+      "sourceUnit": "uncalibrated glTF units",
+      "scaleXYZ": [
+        7.142857142857143,
+        7.142857142857143,
+        7.142857142857143
+      ],
+      "authoredHeightM": 100,
+      "sourceUrl": "https://sketchfab.com/3d-models/fb29b59bbd4341d295e21cc12831bab4",
+      "bounds": [
+        [
+          -72.80954500687844,
+          -130.0,
+          -98.87628173828125
+        ],
+        [
+          74.9285888671875,
+          0.0,
+          149.83686881269625
+        ]
+      ],
+      "scanBounds": [
+        [
+          -71.42855834960938,
+          -100.0,
+          -96.87628173828125
+        ],
+        [
+          71.4285888671875,
+          0.0,
+          149.90313720703125
+        ]
+      ],
+      "sizeM": [
+        142.85714721679688,
+        100.0,
+        246.7794189453125
+      ],
+      "topAnchorZ": 0.9978227674961143,
+      "bottomAnchorZ": 141.5173828125,
+      "triangles": [
+        17650,
+        4748,
+        1169,
+        48
+      ],
+      "highTriangles": 27795,
+      "authoredBacking": "LOD0-2 scan-coloured caps with transferred scan depth relief; backing 30m below scan. LOD3 is actual scan surface, with separate buried field joins. Caps are authored, not scan measurements",
+      "authoredVertexStart": [
+        8211,
+        2092,
+        459,
+        36
+      ],
+      "authoredClosureTriangles": [
+        1651,
+        749,
+        334,
+        0
+      ],
+      "textures": {
+        "width": 256,
+        "height": 179,
+        "frontCoverage": 0.8941,
+        "normal": "high scan facet normals; tangent transfer per LOD",
+        "objectNormal": "wall_scan_05_cape-ledge-relief.png",
+        "ao": "wall_scan_05_cape-ledge-ao.png",
+        "colour": "wall_scan_05_cape-ledge-colour.webp"
+      },
+      "rejectedBridgeTriangles": 7,
+      "verticalMarginScale": 1.0,
+      "rejectedDetachedFragmentTriangles": 0,
+      "sourceWindingReversed": false,
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "author": "Mikhail Volkov",
+      "authorUrl": "https://sketchfab.com/mgv",
+      "credit": "\u041c\u044b\u0441 \u0421\u0442\u043e\u043b\u0431\u0447\u0430\u0442\u044b\u0439, \u043e\u0441\u0442\u0440\u043e\u0432 \u041a\u0443\u043d\u0430\u0448\u0438\u0440 by Mikhail Volkov, CC BY 4.0",
+      "lodObjects": [
+        "wall_scan_05_cape-ledge_LOD0",
+        "wall_scan_05_cape-ledge_LOD1",
+        "wall_scan_05_cape-ledge_LOD2",
+        "wall_scan_05_cape-ledge_LOD3"
+      ]
+    },
+    {
+      "name": "wall_scan_06_postpile-corner",
+      "kind": "postpile-corner",
+      "source": "devils-postpile",
+      "bank": "back",
+      "sourceCrop": [
+        [
+          -110,
+          -40
+        ],
+        [
+          140,
+          200
+        ],
+        [
+          -360,
+          -170
+        ]
+      ],
+      "sourceUnit": "uncalibrated glTF units",
+      "scaleXYZ": [
+        1.6666666666666667,
+        1.6666666666666667,
+        1.6666666666666667
+      ],
+      "authoredHeightM": 100,
+      "sourceUrl": "https://sketchfab.com/3d-models/devils-postpile-national-monument-usa-c1e498cc38994911a06e28b1903912f2",
+      "bounds": [
+        [
+          -59.8446159362793,
+          -130.0,
+          -68.03019714355469
+        ],
+        [
+          61.83333206176758,
+          0.0,
+          115.1744613647461
+        ]
+      ],
+      "scanBounds": [
+        [
+          -58.33333206176758,
+          -100.0,
+          -66.03019714355469
+        ],
+        [
+          58.33333206176758,
+          0.0,
+          115.1744613647461
+        ]
+      ],
+      "sizeM": [
+        116.66666412353516,
+        100.0,
+        181.20465850830078
+      ],
+      "topAnchorZ": 111.66331481933594,
+      "bottomAnchorZ": -39.45692749023437,
+      "triangles": [
+        19625,
+        4869,
+        1054,
+        48
+      ],
+      "highTriangles": 45439,
+      "authoredBacking": "LOD0-2 scan-coloured caps with transferred scan depth relief; backing 30m below scan. LOD3 is actual scan surface, with separate buried field joins. Caps are authored, not scan measurements",
+      "authoredVertexStart": [
+        8460,
+        1909,
+        364,
+        40
+      ],
+      "authoredClosureTriangles": [
+        3625,
+        1410,
+        445,
+        0
+      ],
+      "textures": {
+        "width": 256,
+        "height": 219,
+        "frontCoverage": 0.8667,
+        "normal": "high scan facet normals; tangent transfer per LOD",
+        "objectNormal": "wall_scan_06_postpile-corner-relief.png",
+        "ao": "wall_scan_06_postpile-corner-ao.png",
+        "colour": "wall_scan_06_postpile-corner-colour.webp"
+      },
+      "rejectedBridgeTriangles": 0,
+      "verticalMarginScale": 1.0,
+      "rejectedDetachedFragmentTriangles": 12,
+      "sourceWindingReversed": true,
+      "licence": "CC BY-NC 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Matthew Strong",
+      "authorUrl": "https://sketchfab.com/technolizardms",
+      "credit": "Devils Postpile National Monument, USA by Matthew Strong, CC BY-NC 4.0",
+      "lodObjects": [
+        "wall_scan_06_postpile-corner_LOD0",
+        "wall_scan_06_postpile-corner_LOD1",
+        "wall_scan_06_postpile-corner_LOD2",
+        "wall_scan_06_postpile-corner_LOD3"
+      ]
+    },
+    {
+      "name": "wall_scan_07_postpile-column",
+      "kind": "postpile-column",
+      "source": "devils-postpile",
+      "bank": "back",
+      "sourceCrop": [
+        [
+          -40,
+          30
+        ],
+        [
+          140,
+          200
+        ],
+        [
+          -360,
+          -170
+        ]
+      ],
+      "sourceUnit": "uncalibrated glTF units",
+      "scaleXYZ": [
+        1.6666666666666667,
+        1.6666666666666667,
+        1.6666666666666667
+      ],
+      "authoredHeightM": 100,
+      "sourceUrl": "https://sketchfab.com/3d-models/devils-postpile-national-monument-usa-c1e498cc38994911a06e28b1903912f2",
+      "bounds": [
+        [
+          -60.38926281096027,
+          -130.0,
+          -61.209510803222656
+        ],
+        [
+          60.43869552449706,
+          0.0,
+          70.82789611816406
+        ]
+      ],
+      "scanBounds": [
+        [
+          -58.33333206176758,
+          -100.0,
+          -59.209510803222656
+        ],
+        [
+          58.33333206176758,
+          0.0,
+          70.82789611816406
+        ]
+      ],
+      "sizeM": [
+        116.66666412353516,
+        100.0,
+        130.03740692138672
+      ],
+      "topAnchorZ": 51.89526138305666,
+      "bottomAnchorZ": -24.42534656524658,
+      "triangles": [
+        17548,
+        4706,
+        1191,
+        48
+      ],
+      "highTriangles": 57463,
+      "authoredBacking": "LOD0-2 scan-coloured caps with transferred scan depth relief; backing 30m below scan. LOD3 is actual scan surface, with separate buried field joins. Caps are authored, not scan measurements",
+      "authoredVertexStart": [
+        8202,
+        2089,
+        474,
+        35
+      ],
+      "authoredClosureTriangles": [
+        1550,
+        706,
+        326,
+        0
+      ],
+      "textures": {
+        "width": 256,
+        "height": 219,
+        "frontCoverage": 0.9985,
+        "normal": "high scan facet normals; tangent transfer per LOD",
+        "objectNormal": "wall_scan_07_postpile-column-relief.png",
+        "ao": "wall_scan_07_postpile-column-ao.png",
+        "colour": "wall_scan_07_postpile-column-colour.webp"
+      },
+      "rejectedBridgeTriangles": 0,
+      "verticalMarginScale": 1.0,
+      "rejectedDetachedFragmentTriangles": 7,
+      "sourceWindingReversed": true,
+      "licence": "CC BY-NC 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Matthew Strong",
+      "authorUrl": "https://sketchfab.com/technolizardms",
+      "credit": "Devils Postpile National Monument, USA by Matthew Strong, CC BY-NC 4.0",
+      "lodObjects": [
+        "wall_scan_07_postpile-column_LOD0",
+        "wall_scan_07_postpile-column_LOD1",
+        "wall_scan_07_postpile-column_LOD2",
+        "wall_scan_07_postpile-column_LOD3"
+      ]
+    },
+    {
+      "name": "wall_scan_08_postpile-buttress",
+      "kind": "postpile-buttress",
+      "source": "devils-postpile",
+      "bank": "back",
+      "sourceCrop": [
+        [
+          30,
+          100
+        ],
+        [
+          140,
+          200
+        ],
+        [
+          -360,
+          -170
+        ]
+      ],
+      "sourceUnit": "uncalibrated glTF units",
+      "scaleXYZ": [
+        1.6666666666666667,
+        1.6666666666666667,
+        1.6666666666666667
+      ],
+      "authoredHeightM": 100,
+      "sourceUrl": "https://sketchfab.com/3d-models/devils-postpile-national-monument-usa-c1e498cc38994911a06e28b1903912f2",
+      "bounds": [
+        [
+          -59.26476462345493,
+          -130.0,
+          -56.15671920776367
+        ],
+        [
+          60.38383195015863,
+          0.0,
+          50.85871505737305
+        ]
+      ],
+      "scanBounds": [
+        [
+          -58.33333206176758,
+          -100.0,
+          -54.15671920776367
+        ],
+        [
+          58.33333206176758,
+          0.0,
+          50.85871505737305
+        ]
+      ],
+      "sizeM": [
+        116.66666412353516,
+        100.0,
+        105.01543426513672
+      ],
+      "topAnchorZ": 44.53964614868164,
+      "bottomAnchorZ": -25.72422981262207,
+      "triangles": [
+        17417,
+        4637,
+        1190,
+        47
+      ],
+      "highTriangles": 58290,
+      "authoredBacking": "LOD0-2 scan-coloured caps with transferred scan depth relief; backing 30m below scan. LOD3 is actual scan surface, with separate buried field joins. Caps are authored, not scan measurements",
+      "authoredVertexStart": [
+        8177,
+        2077,
+        487,
+        35
+      ],
+      "authoredClosureTriangles": [
+        1417,
+        638,
+        290,
+        0
+      ],
+      "textures": {
+        "width": 256,
+        "height": 219,
+        "frontCoverage": 1.0,
+        "normal": "high scan facet normals; tangent transfer per LOD",
+        "objectNormal": "wall_scan_08_postpile-buttress-relief.png",
+        "ao": "wall_scan_08_postpile-buttress-ao.png",
+        "colour": "wall_scan_08_postpile-buttress-colour.webp"
+      },
+      "rejectedBridgeTriangles": 0,
+      "verticalMarginScale": 1.0,
+      "rejectedDetachedFragmentTriangles": 9,
+      "sourceWindingReversed": true,
+      "licence": "CC BY-NC 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Matthew Strong",
+      "authorUrl": "https://sketchfab.com/technolizardms",
+      "credit": "Devils Postpile National Monument, USA by Matthew Strong, CC BY-NC 4.0",
+      "lodObjects": [
+        "wall_scan_08_postpile-buttress_LOD0",
+        "wall_scan_08_postpile-buttress_LOD1",
+        "wall_scan_08_postpile-buttress_LOD2",
+        "wall_scan_08_postpile-buttress_LOD3"
+      ]
+    }
+  ],
+  "glb": "cerberus-wall-kit.glb",
+  "compression": "gzip; inflate before GLTFLoader parse; game export is ordinary GLB",
+  "scaleHonesty": "Earth scan coordinate units uncalibrated; crop and XYZ metre scaling are authored. True 3D surfaces retained.",
+  "gamePath": "CliffLibrary / CliffWallField; adapt named LOD nodes and baked normal/AO textures; placements explicit."
+}
